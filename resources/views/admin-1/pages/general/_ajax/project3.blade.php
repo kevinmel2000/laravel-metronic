@@ -7,18 +7,18 @@
                 </a>
             </div>
             <div class="col-sm-6 portfolio-tile">
-                <a href="assets/global/img/portfolio/1200x900/13.jpg" class="cbp-lightbox">
-                    <img src="assets/global/img/portfolio/600x600/12.jpg" alt="">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/13.jpg') }}" class="cbp-lightbox">
+                    <img src="{{ asset('assets/global/img/portfolio/600x600/12.jpg') }}" alt="">
                 </a>
             </div>
             <div class="col-sm-6">
-                <a href="assets/global/img/portfolio/1200x900/15.jpg" class="cbp-lightbox">
-                    <img src="assets/global/img/portfolio/600x600/23.jpg" alt="">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/15.jpg') }}" class="cbp-lightbox">
+                    <img src="{{ asset('assets/global/img/portfolio/600x600/23.jpg') }}" alt="">
                 </a>
             </div>
             <div class="col-sm-6">
-                <a href="assets/global/img/portfolio/1200x900/18.jpg" class="cbp-lightbox">
-                    <img src="assets/global/img/portfolio/600x600/14.jpg" alt="">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/18.jpg') }}" class="cbp-lightbox">
+                    <img src="{{ asset('assets/global/img/portfolio/600x600/14.jpg') }}" alt="">
                 </a>
             </div>
         </div>
