@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace App\Models\Entrust;
 
 use Illuminate\Database\Eloquent\Model;
 use Zizaco\Entrust\EntrustRole;
