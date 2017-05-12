@@ -3,6 +3,7 @@
 namespace App;
 
 use Laravel\Cashier\Billable;
+use Laravel\Passport\HasApiTokens;
 use Illuminate\Notifications\Notifiable;
 use Zizaco\Entrust\Traits\EntrustUserTrait;
 use Illuminate\Foundation\Auth\User as Authenticatable;
@@ -11,6 +12,7 @@ class User extends Authenticatable
 {
     use Billable;
     use Notifiable;
+    use HasApiTokens;
     use EntrustUserTrait;
 
     /**
