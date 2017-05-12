@@ -13,11 +13,13 @@ class PermissionsTableSeeder extends Seeder
     public function run()
     {
         Permission::create([
-            'name' => 'admin-permission'
+            'name' => 'access-acp',
+            'display_name' => 'Access permission to ACP (Admin Control Panel)'
         ]);
 
         Permission::create([
-            'name' => 'user-permission'
+            'name' => 'access-ucp',
+            'display_name' => 'Access permission to UCP (User Control Panel)'
         ]);
     }
 }
