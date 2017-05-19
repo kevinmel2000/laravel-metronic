@@ -24,19 +24,9 @@
 
                         <!-- BEGIN PAGE BAR -->
                         <div class="page-bar">
-                            <ul class="page-breadcrumb">
-                                <li>
-                                    <a href="index.html">Home</a>
-                                    <i class="fa fa-circle"></i>
-                                </li>
-                                <li>
-                                    <a href="#">Blank Page</a>
-                                    <i class="fa fa-circle"></i>
-                                </li>
-                                <li>
-                                    <span>Page Layouts</span>
-                                </li>
-                            </ul>
+
+                            @yield('breadcrumb')
+                            
                             <div class="page-toolbar">
                                 <div class="btn-group pull-right">
                                     <button type="button" class="btn green btn-sm btn-outline dropdown-toggle" data-toggle="dropdown"> Actions
