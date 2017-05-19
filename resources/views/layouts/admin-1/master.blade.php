@@ -1,4 +1,4 @@
-@include('layouts.admin._header')
+@include('layouts.admin-1._header')
 
     <body class="page-header-fixed page-sidebar-closed-hide-logo page-content-white">
         <div class="page-wrapper">
