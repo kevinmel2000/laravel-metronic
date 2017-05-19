@@ -2279,6 +2279,6 @@
         @include('layouts.admin-1._quick-nav')
 
         @include('layouts.admin-1._footer')
-        
+
     </body>
 </html>
