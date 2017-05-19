@@ -12,8 +12,12 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::group(['prefix' => 'admin'], function () {
 
-    Route::get('blank', function () {
-        return view('admin.pages.blank');
+    Route::group(['prefix' => 'v1'], function () {
+
+        Route::get('blank', function () {
+            return view('admin-1.pages.blank');
+        });
+
     });
 
 });
