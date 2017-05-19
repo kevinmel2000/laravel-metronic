@@ -16,31 +16,23 @@
 
                 <!-- BEGIN CONTENT -->
                 <div class="page-content-wrapper">
+
                     <!-- BEGIN CONTENT BODY -->
                     <div class="page-content">
                         <!-- BEGIN PAGE HEADER-->
 
                         @include('layouts.admin-1._theme-panel')
 
-                        <!-- BEGIN PAGE BAR -->
                         <div class="page-bar">
-
                             @yield('breadcrumb')
 
                             @include('layouts.admin-1._page-toolbar')
                         </div>
-                        <!-- END PAGE BAR -->
-                        <!-- BEGIN PAGE TITLE-->
-                        <h1 class="page-title"> Blank Page Layout
-                            <small>blank page layout</small>
-                        </h1>
-                        <!-- END PAGE TITLE-->
-                        <!-- END PAGE HEADER-->
-                        <div class="note note-info">
-                            <p> A black page template with a minimal dependency assets to use as a base for any custom page you create </p>
-                        </div>
+
+                        @yield('content')
                     </div>
                     <!-- END CONTENT BODY -->
+
                 </div>
                 <!-- END CONTENT -->
 
