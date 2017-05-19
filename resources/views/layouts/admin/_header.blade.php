@@ -4,11 +4,11 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>Metronic Admin Theme #1 | Blank Page Layout</title>
 
-        <meta name="description" content="Preview page of Metronic Admin Theme #1 for blank page layout">
-        <meta name="author" content="">
+        <title>{{ config('app.name', 'Laravel') }} | Admin #1 | Blank Page Layout</title>
+
+        <meta name="description" content="Preview of {{ config('app.name', 'Laravel') }} Admin #1 Blank Page layout">
+        <meta name="author" content="R. Kukuh">
 
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all">
