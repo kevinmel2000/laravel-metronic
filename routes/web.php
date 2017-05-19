@@ -10,6 +10,9 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+
+/********************************** ADMIN *************************************/
+
 Route::group(['prefix' => 'admin'], function () {
 
     Route::group(['prefix' => 'v1'], function () {
