@@ -5,21 +5,14 @@
 
             @include('layouts.admin-1._page-header')
 
-            <!-- BEGIN HEADER & CONTENT DIVIDER -->
             <div class="clearfix"> </div>
-            <!-- END HEADER & CONTENT DIVIDER -->
 
-            <!-- BEGIN CONTAINER -->
             <div class="page-container">
 
                 @include('layouts.admin-1._sidebar')
 
-                <!-- BEGIN CONTENT -->
                 <div class="page-content-wrapper">
-
-                    <!-- BEGIN CONTENT BODY -->
                     <div class="page-content">
-                        <!-- BEGIN PAGE HEADER-->
 
                         @include('layouts.admin-1._theme-panel')
 
@@ -31,15 +24,11 @@
 
                         @yield('content')
                     </div>
-                    <!-- END CONTENT BODY -->
-
                 </div>
-                <!-- END CONTENT -->
 
                 @include('layouts.admin-1._quick-sidebar')
 
             </div>
-            <!-- END CONTAINER -->
 
             <!-- BEGIN FOOTER -->
             <div class="page-footer">
@@ -57,6 +46,5 @@
         @include('layouts.admin-1._quick-nav')
 
         @include('layouts.admin-1._footer')
-
     </body>
 </html>
