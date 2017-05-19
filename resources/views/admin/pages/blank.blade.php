@@ -18,7 +18,6 @@ License: You must have a valid license purchased only from themeforest(the above
 <html lang="en">
     <!--<![endif]-->
     <!-- BEGIN HEAD -->
-
     <head>
         <meta charset="utf-8" />
         <title>Metronic Admin Theme #1 | Blank Page Layout</title>
@@ -44,7 +43,6 @@ License: You must have a valid license purchased only from themeforest(the above
         <!-- END THEME LAYOUT STYLES -->
         <link rel="shortcut icon" href="favicon.ico" /> </head>
     <!-- END HEAD -->
-
     <body class="page-header-fixed page-sidebar-closed-hide-logo page-content-white">
         <div class="page-wrapper">
             <!-- BEGIN HEADER -->
@@ -2387,5 +2385,4 @@ License: You must have a valid license purchased only from themeforest(the above
             })
         </script>
     </body>
-
 </html>
