@@ -149,7 +149,7 @@
                         </div>
                         <div class="page-quick-sidebar-chat-user-messages">
                             <div class="post out">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Bob Nilson</a>
@@ -158,7 +158,7 @@
                                 </div>
                             </div>
                             <div class="post in">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Ella Wong</a>
@@ -167,7 +167,7 @@
                                 </div>
                             </div>
                             <div class="post out">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Bob Nilson</a>
@@ -176,7 +176,7 @@
                                 </div>
                             </div>
                             <div class="post in">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Ella Wong</a>
@@ -185,7 +185,7 @@
                                 </div>
                             </div>
                             <div class="post out">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Bob Nilson</a>
@@ -194,7 +194,7 @@
                                 </div>
                             </div>
                             <div class="post in">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Ella Wong</a>
@@ -203,7 +203,7 @@
                                 </div>
                             </div>
                             <div class="post out">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Bob Nilson</a>
@@ -212,7 +212,7 @@
                                 </div>
                             </div>
                             <div class="post in">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Ella Wong</a>
@@ -221,7 +221,7 @@
                                 </div>
                             </div>
                             <div class="post out">
-                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}" />
+                                <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                 <div class="message">
                                     <span class="arrow"></span>
                                     <a href="javascript:;" class="name">Bob Nilson</a>
@@ -540,9 +540,9 @@
                             </select>
                         </li>
                         <li> Failed Email Attempts
-                            <input class="form-control input-inline input-sm input-small" value="5" /> </li>
+                            <input class="form-control input-inline input-sm input-small" value="5"> </li>
                         <li> Secondary SMTP Port
-                            <input class="form-control input-inline input-sm input-small" value="3560" /> </li>
+                            <input class="form-control input-inline input-sm input-small" value="3560"> </li>
                         <li> Notify On System Error
                             <input type="checkbox" class="make-switch" checked data-size="small" data-on-color="danger" data-on-text="ON" data-off-color="default" data-off-text="OFF"> </li>
                         <li> Notify On SMTP Error
