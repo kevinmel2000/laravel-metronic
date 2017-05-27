@@ -27,7 +27,6 @@
                 </div>
 
                 @include('layouts.admin-1._quick-sidebar')
-
             </div>
 
             @include('layouts.admin-1._page-footer')
