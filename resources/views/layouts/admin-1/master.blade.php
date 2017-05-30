@@ -3,7 +3,7 @@
     <body class="page-header-fixed page-sidebar-closed-hide-logo page-content-white">
         <div class="page-wrapper">
 
-            @include('layouts.admin-1._page-header')
+            @include('layouts.admin-1._navbar')
 
             <div class="clearfix"> </div>
 
