@@ -44,5 +44,7 @@
         @include('layouts.admin-1._quick-nav')
 
         @include('layouts.admin-1._footer')
+
+        @stack('footer-script')
     </body>
 </html>
