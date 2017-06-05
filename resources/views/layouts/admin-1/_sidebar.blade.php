@@ -31,7 +31,7 @@
                 <h3 class="uppercase">Features</h3>
             </li>
 
-            @include('layouts.admin-1.sidebar.ui-features')
+            @include('layouts.admin-1.sidebar.ui-feature')
 
             @include('layouts.admin-1.sidebar.component')
 
