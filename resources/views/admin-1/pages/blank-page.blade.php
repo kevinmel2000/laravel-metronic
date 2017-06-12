@@ -1,5 +1,7 @@
 @extends('layouts.admin-1.master')
 
+@section('title', 'Blank Page Layout')
+
 @section('breadcrumb')
     <ul class="page-breadcrumb">
         <li>
