@@ -6,7 +6,7 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="layout_blank_page.html" class="nav-link ">
+            <a href="{{ route('admin-1.blank-page') }}" class="nav-link ">
                 <span class="title">Blank Page</span>
             </a>
         </li>
