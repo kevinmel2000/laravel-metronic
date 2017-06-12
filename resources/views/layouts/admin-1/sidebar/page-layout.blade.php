@@ -11,7 +11,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="layout_classic_page_head.html" class="nav-link ">
+            <a href="{{ route('admin-1.classic-page-head') }}" class="nav-link ">
                 <span class="title">Classic Page Head</span>
             </a>
         </li>
