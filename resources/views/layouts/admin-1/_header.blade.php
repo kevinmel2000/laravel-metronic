@@ -1,5 +1,5 @@
 
-<title>{{ config('app.name', 'Laravel') }} | Admin #1 | Blank Page Layout</title>
+<title>{{ config('app.name', 'Laravel') }} | Admin #1 | @yield('title')</title>
 
 <meta name="description" content="Preview of {{ config('app.name', 'Laravel') }} Admin #1 Blank Page layout">
 <meta name="author" content="R. Kukuh">
