@@ -27,4 +27,8 @@ Route::group(['prefix' => 'admin-1'], function () {
         return view('admin-1.pages.light-page-head');
     })->name('admin-1.light-page-head');
 
+    Route::get('grey-bg', function () {
+        return view('admin-1.pages.grey-bg');
+    })->name('admin-1.grey-bg');
+
 });
