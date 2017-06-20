@@ -23,4 +23,8 @@ Route::group(['prefix' => 'admin-1'], function () {
         return view('admin-1.pages.classic-page-head');
     })->name('admin-1.classic-page-head');
 
+    Route::get('light-page-head', function () {
+        return view('admin-1.pages.light-page-head');
+    })->name('admin-1.light-page-head');
+
 });
