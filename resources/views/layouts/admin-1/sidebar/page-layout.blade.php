@@ -21,7 +21,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="layout_content_grey.html" class="nav-link ">
+            <a href="{{ route('admin-1.grey-bg') }}" class="nav-link ">
                 <span class="title">Grey Bg Content</span>
             </a>
         </li>
