@@ -1,4 +1,4 @@
-@extends('layouts.admin-1.master')
+@extends('layouts.admin-1-minimal.master')
 
 @section('title', 'Blank Page Layout')
 
