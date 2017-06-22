@@ -25,8 +25,6 @@
 
                         <div class="page-bar">
                             @yield('breadcrumb')
-
-                            @include('layouts.admin-1-minimal._page-toolbar')
                         </div>
 
                         @yield('content')
