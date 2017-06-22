@@ -31,7 +31,6 @@
                     </div>
                 </div>
 
-                @include('layouts.admin-1-minimal._quick-sidebar')
             </div>
 
             @include('layouts.admin-1-minimal._page-footer')
