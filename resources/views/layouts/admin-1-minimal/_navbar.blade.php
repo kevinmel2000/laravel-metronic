@@ -21,8 +21,6 @@
 
                 @include('layouts.admin-1-minimal.navbar.user')
 
-                @include('layouts.admin-1-minimal.navbar.quick-sidebar')
-
             </ul>
         </div>
 
