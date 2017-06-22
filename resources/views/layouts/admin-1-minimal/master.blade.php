@@ -23,8 +23,6 @@
                 <div class="page-content-wrapper">
                     <div class="page-content">
 
-                        @include('layouts.admin-1-minimal._theme-panel')
-
                         <div class="page-bar">
                             @yield('breadcrumb')
 
