@@ -19,8 +19,6 @@
 
                 @include('layouts.admin-1-minimal.navbar.notification')
 
-                @include('layouts.admin-1-minimal.navbar.inbox')
-
                 @include('layouts.admin-1-minimal.navbar.todo')
 
                 @include('layouts.admin-1-minimal.navbar.user')
