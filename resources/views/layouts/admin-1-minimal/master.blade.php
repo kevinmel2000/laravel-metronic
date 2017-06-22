@@ -36,8 +36,6 @@
             @include('layouts.admin-1-minimal._page-footer')
         </div>
 
-        @include('layouts.admin-1-minimal._quick-nav')
-
         @include('layouts.admin-1-minimal._footer')
 
         @stack('footer-script')
