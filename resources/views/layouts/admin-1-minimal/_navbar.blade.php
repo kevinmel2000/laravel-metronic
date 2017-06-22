@@ -17,15 +17,15 @@
         <div class="top-menu">
             <ul class="nav navbar-nav pull-right">
 
-                @include('layouts.admin-1.navbar.notification')
+                @include('layouts.admin-1-minimal.navbar.notification')
 
-                @include('layouts.admin-1.navbar.inbox')
+                @include('layouts.admin-1-minimal.navbar.inbox')
 
-                @include('layouts.admin-1.navbar.todo')
+                @include('layouts.admin-1-minimal.navbar.todo')
 
-                @include('layouts.admin-1.navbar.user')
+                @include('layouts.admin-1-minimal.navbar.user')
 
-                @include('layouts.admin-1.navbar.quick-sidebar')
+                @include('layouts.admin-1-minimal.navbar.quick-sidebar')
 
             </ul>
         </div>
