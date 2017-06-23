@@ -24,10 +24,6 @@
             @include('layouts.admin-1-minimal.sidebar.dashboard')
 
             <li class="heading">
-                <h3 class="uppercase">Features</h3>
-            </li>
-
-            <li class="heading">
                 <h3 class="uppercase">Layouts</h3>
             </li>
 
