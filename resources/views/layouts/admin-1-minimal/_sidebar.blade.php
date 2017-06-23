@@ -27,8 +27,6 @@
                 <h3 class="uppercase">Features</h3>
             </li>
 
-            @include('layouts.admin-1-minimal.sidebar.element')
-
             @include('layouts.admin-1-minimal.sidebar.table')
 
             @include('layouts.admin-1-minimal.sidebar.portlet')
