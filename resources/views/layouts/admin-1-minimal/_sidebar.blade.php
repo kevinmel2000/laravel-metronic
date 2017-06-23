@@ -19,58 +19,58 @@
                 </div>
             </li>
 
-            @include('layouts.admin-1.sidebar.search-form')
+            @include('layouts.admin-1-minimal.sidebar.search-form')
 
-            @include('layouts.admin-1.sidebar.dashboard')
+            @include('layouts.admin-1-minimal.sidebar.dashboard')
 
             <li class="heading">
                 <h3 class="uppercase">Features</h3>
             </li>
 
-            @include('layouts.admin-1.sidebar.ui-feature')
+            @include('layouts.admin-1-minimal.sidebar.ui-feature')
 
-            @include('layouts.admin-1.sidebar.component')
+            @include('layouts.admin-1-minimal.sidebar.component')
 
-            @include('layouts.admin-1.sidebar.form-stuff')
+            @include('layouts.admin-1-minimal.sidebar.form-stuff')
 
-            @include('layouts.admin-1.sidebar.element')
+            @include('layouts.admin-1-minimal.sidebar.element')
 
-            @include('layouts.admin-1.sidebar.table')
+            @include('layouts.admin-1-minimal.sidebar.table')
 
-            @include('layouts.admin-1.sidebar.portlet')
+            @include('layouts.admin-1-minimal.sidebar.portlet')
 
-            @include('layouts.admin-1.sidebar.chart')
+            @include('layouts.admin-1-minimal.sidebar.chart')
 
-            @include('layouts.admin-1.sidebar.map')
+            @include('layouts.admin-1-minimal.sidebar.map')
 
             <li class="heading">
                 <h3 class="uppercase">Layouts</h3>
             </li>
 
-            @include('layouts.admin-1.sidebar.page-layout')
+            @include('layouts.admin-1-minimal.sidebar.page-layout')
 
-            @include('layouts.admin-1.sidebar.sidebar-layout')
+            @include('layouts.admin-1-minimal.sidebar.sidebar-layout')
 
-            @include('layouts.admin-1.sidebar.horizontal-menu')
+            @include('layouts.admin-1-minimal.sidebar.horizontal-menu')
 
-            @include('layouts.admin-1.sidebar.custom-layout')
+            @include('layouts.admin-1-minimal.sidebar.custom-layout')
 
             <li class="heading">
                 <h3 class="uppercase">Pages</h3>
             </li>
 
-            @include('layouts.admin-1.sidebar.ecommerce')
+            @include('layouts.admin-1-minimal.sidebar.ecommerce')
 
-            @include('layouts.admin-1.sidebar.app')
+            @include('layouts.admin-1-minimal.sidebar.app')
 
-            @include('layouts.admin-1.sidebar.user')
+            @include('layouts.admin-1-minimal.sidebar.user')
 
-            @include('layouts.admin-1.sidebar.general')
+            @include('layouts.admin-1-minimal.sidebar.general')
 
-            @include('layouts.admin-1.sidebar.system')
+            @include('layouts.admin-1-minimal.sidebar.system')
 
-            @include('layouts.admin-1.sidebar.multi-level')
+            @include('layouts.admin-1-minimal.sidebar.multi-level')
         </ul>
-        
+
     </div>
 </div>
