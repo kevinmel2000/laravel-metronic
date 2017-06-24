@@ -29,8 +29,6 @@
 
             @include('layouts.admin-1-minimal.sidebar.page-layout')
 
-            @include('layouts.admin-1-minimal.sidebar.custom-layout')
-
             <li class="heading">
                 <h3 class="uppercase">Pages</h3>
             </li>
