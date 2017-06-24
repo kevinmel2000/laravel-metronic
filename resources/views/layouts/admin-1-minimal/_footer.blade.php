@@ -19,5 +19,4 @@
 
 <!-- BEGIN THEME LAYOUT SCRIPTS -->
 <script type="text/javascript" src="{{ asset('assets/layouts/layout/scripts/layout.min.js') }}"></script>
-<script type="text/javascript" src="{{ asset('assets/layouts/layout/scripts/demo.min.js') }}"></script>
 <!-- END THEME LAYOUT SCRIPTS -->
