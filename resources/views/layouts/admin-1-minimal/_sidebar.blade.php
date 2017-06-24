@@ -33,8 +33,6 @@
                 <h3 class="uppercase">Pages</h3>
             </li>
 
-            @include('layouts.admin-1-minimal.sidebar.app')
-
             @include('layouts.admin-1-minimal.sidebar.user')
 
             @include('layouts.admin-1-minimal.sidebar.general')
