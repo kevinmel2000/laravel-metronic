@@ -19,29 +19,13 @@
                     <ul class="sub-menu">
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="icon-power"></i> Sample Link 1</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="icon-paper-plane"></i> Sample Link 1</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="#" class="nav-link">
-                                <i class="icon-star"></i> Sample Link 1</a>
+                                <i class="icon-power"></i> Sample Link</a>
                         </li>
                     </ul>
                 </li>
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="icon-camera"></i> Sample Link 1</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <i class="icon-link"></i> Sample Link 2</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">
-                        <i class="icon-pointer"></i> Sample Link 3</a>
+                        <i class="icon-camera"></i> Sample Link</a>
                 </li>
             </ul>
         </li>
