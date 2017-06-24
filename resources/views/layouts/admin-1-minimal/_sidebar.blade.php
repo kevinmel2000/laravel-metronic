@@ -29,8 +29,6 @@
 
             @include('layouts.admin-1-minimal.sidebar.page-layout')
 
-            @include('layouts.admin-1-minimal.sidebar.sidebar-layout')
-
             @include('layouts.admin-1-minimal.sidebar.horizontal-menu')
 
             @include('layouts.admin-1-minimal.sidebar.custom-layout')
