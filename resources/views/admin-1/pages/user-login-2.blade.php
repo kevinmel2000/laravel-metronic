@@ -4,7 +4,6 @@
 <!--[if !IE]><!-->
 <html lang="en">
     <!--<![endif]-->
-    <!-- BEGIN HEAD -->
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -42,14 +41,14 @@
 
         <link rel="shortcut icon" href="favicon.ico">
     </head>
-    <!-- END HEAD -->
     <body class=" login">
-        <!-- BEGIN LOGO -->
+
         <div class="logo">
             <a href="index.html">
-                <img src="../assets/pages/img/logo-big-white.png" style="height: 17px;" alt=""> </a>
+                <img src="../assets/pages/img/logo-big-white.png" style="height: 17px;" alt="">
+            </a>
         </div>
-        <!-- END LOGO -->
+
         <!-- BEGIN LOGIN -->
         <div class="content">
             <!-- BEGIN LOGIN FORM -->
