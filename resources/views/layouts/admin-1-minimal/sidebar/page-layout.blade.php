@@ -12,7 +12,42 @@
         </li>
         <li class="nav-item  ">
             <a href="#" class="nav-link ">
-                <span class="title">Some Link</span>
+                <span class="title">Classic Page Head</span>
+            </a>
+        </li>
+        <li class="nav-item  ">
+            <a href="#" class="nav-link ">
+                <span class="title">Light Page Head</span>
+            </a>
+        </li>
+        <li class="nav-item  ">
+            <a href="#" class="nav-link ">
+                <span class="title">Grey Bg Content</span>
+            </a>
+        </li>
+        <li class="nav-item  ">
+            <a href="#" class="nav-link ">
+                <span class="title">Search Box On Header 1</span>
+            </a>
+        </li>
+        <li class="nav-item  ">
+            <a href="#" class="nav-link ">
+                <span class="title">Search Box On Header 2</span>
+            </a>
+        </li>
+        <li class="nav-item  ">
+            <a href="#" class="nav-link ">
+                <span class="title">Header Language Bar</span>
+            </a>
+        </li>
+        <li class="nav-item  ">
+            <a href="#" class="nav-link ">
+                <span class="title">Fixed Footer</span>
+            </a>
+        </li>
+        <li class="nav-item  ">
+            <a href="#" class="nav-link ">
+                <span class="title">Boxed Page</span>
             </a>
         </li>
     </ul>
