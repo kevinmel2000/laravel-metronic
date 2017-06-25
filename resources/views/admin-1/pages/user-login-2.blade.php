@@ -49,7 +49,6 @@
             </a>
         </div>
 
-        <!-- BEGIN LOGIN -->
         <div class="content">
             <!-- BEGIN LOGIN FORM -->
             <form class="login-form" action="index.html" method="post">
@@ -64,10 +63,12 @@
                 <div class="form-group">
                     <!--ie8, ie9 does not support html5 placeholder, so we just show field title for that-->
                     <label class="control-label visible-ie8 visible-ie9">Username</label>
-                    <input class="form-control form-control-solid placeholder-no-fix" type="text" autocomplete="off" placeholder="Username" name="username"> </div>
+                    <input class="form-control form-control-solid placeholder-no-fix" type="text" autocomplete="off" placeholder="Username" name="username">
+                </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Password</label>
-                    <input class="form-control form-control-solid placeholder-no-fix" type="password" autocomplete="off" placeholder="Password" name="password"> </div>
+                    <input class="form-control form-control-solid placeholder-no-fix" type="password" autocomplete="off" placeholder="Password" name="password">
+                </div>
                 <div class="form-actions">
                     <button type="submit" class="btn red btn-block uppercase">Login</button>
                 </div>
@@ -106,6 +107,7 @@
                 </div>
             </form>
             <!-- END LOGIN FORM -->
+
             <!-- BEGIN FORGOT PASSWORD FORM -->
             <form class="forget-form" action="index.html" method="post">
                 <div class="form-title">
@@ -113,13 +115,15 @@
                     <span class="form-subtitle">Enter your e-mail to reset it.</span>
                 </div>
                 <div class="form-group">
-                    <input class="form-control placeholder-no-fix" type="text" autocomplete="off" placeholder="Email" name="email"> </div>
+                    <input class="form-control placeholder-no-fix" type="text" autocomplete="off" placeholder="Email" name="email">
+                </div>
                 <div class="form-actions">
                     <button type="button" id="back-btn" class="btn btn-default">Back</button>
                     <button type="submit" class="btn btn-primary uppercase pull-right">Submit</button>
                 </div>
             </form>
             <!-- END FORGOT PASSWORD FORM -->
+
             <!-- BEGIN REGISTRATION FORM -->
             <form class="register-form" action="index.html" method="post">
                 <div class="form-title">
@@ -128,17 +132,21 @@
                 <p class="hint"> Enter your personal details below: </p>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Full Name</label>
-                    <input class="form-control placeholder-no-fix" type="text" placeholder="Full Name" name="fullname"> </div>
+                    <input class="form-control placeholder-no-fix" type="text" placeholder="Full Name" name="fullname">
+                </div>
                 <div class="form-group">
                     <!--ie8, ie9 does not support html5 placeholder, so we just show field title for that-->
                     <label class="control-label visible-ie8 visible-ie9">Email</label>
-                    <input class="form-control placeholder-no-fix" type="text" placeholder="Email" name="email"> </div>
+                    <input class="form-control placeholder-no-fix" type="text" placeholder="Email" name="email">
+                </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Address</label>
-                    <input class="form-control placeholder-no-fix" type="text" placeholder="Address" name="address"> </div>
+                    <input class="form-control placeholder-no-fix" type="text" placeholder="Address" name="address">
+                </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">City/Town</label>
-                    <input class="form-control placeholder-no-fix" type="text" placeholder="City/Town" name="city"> </div>
+                    <input class="form-control placeholder-no-fix" type="text" placeholder="City/Town" name="city">
+                </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Country</label>
                     <select name="country" class="form-control">
@@ -405,7 +413,7 @@
             </form>
             <!-- END REGISTRATION FORM -->
         </div>
-        
+
         <div class="copyright"> 2017 © R.Kukuh</div>
 
         <!--[if lt IE 9]>
