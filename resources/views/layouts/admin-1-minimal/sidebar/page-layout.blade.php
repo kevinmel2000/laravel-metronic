@@ -11,11 +11,6 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.grey-bg') }}" class="nav-link ">
-                <span class="title">Grey Bg Content</span>
-            </a>
-        </li>
-        <li class="nav-item  ">
             <a href="layout_search_on_header_1.html" class="nav-link ">
                 <span class="title">Search Box On Header 1</span>
             </a>
