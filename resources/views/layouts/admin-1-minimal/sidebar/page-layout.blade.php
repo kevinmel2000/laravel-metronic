@@ -11,11 +11,6 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.light-page-head') }}" class="nav-link ">
-                <span class="title">Light Page Head</span>
-            </a>
-        </li>
-        <li class="nav-item  ">
             <a href="{{ route('admin-1.grey-bg') }}" class="nav-link ">
                 <span class="title">Grey Bg Content</span>
             </a>
