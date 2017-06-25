@@ -12,27 +12,7 @@
         </li>
         <li class="nav-item  ">
             <a href="#" class="nav-link ">
-                <span class="title">Search Box On Header 1</span>
-            </a>
-        </li>
-        <li class="nav-item  ">
-            <a href="#" class="nav-link ">
-                <span class="title">Search Box On Header 2</span>
-            </a>
-        </li>
-        <li class="nav-item  ">
-            <a href="#" class="nav-link ">
-                <span class="title">Header Language Bar</span>
-            </a>
-        </li>
-        <li class="nav-item  ">
-            <a href="#" class="nav-link ">
-                <span class="title">Fixed Footer</span>
-            </a>
-        </li>
-        <li class="nav-item  ">
-            <a href="#" class="nav-link ">
-                <span class="title">Boxed Page</span>
+                <span class="title">Some Link</span>
             </a>
         </li>
     </ul>
