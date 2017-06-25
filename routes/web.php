@@ -19,8 +19,4 @@ Route::group(['prefix' => 'admin-1'], function () {
         return view('admin-1.pages.blank-page');
     })->name('admin-1.blank-page');
 
-    Route::get('grey-bg', function () {
-        return view('admin-1.pages.grey-bg');
-    })->name('admin-1.grey-bg');
-
 });
