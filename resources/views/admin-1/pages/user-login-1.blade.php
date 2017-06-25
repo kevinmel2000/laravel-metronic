@@ -39,7 +39,7 @@
         <!-- BEGIN THEME LAYOUT STYLES -->
         <!-- END THEME LAYOUT STYLES -->
 
-        <link rel="stylesheet" type="text/css" rel="shortcut icon" href="favicon.ico">
+        <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body class=" login">
 
