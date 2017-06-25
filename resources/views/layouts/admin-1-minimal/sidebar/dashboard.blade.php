@@ -8,21 +8,14 @@
         <li class="nav-item start ">
             <a href="index.html" class="nav-link ">
                 <i class="icon-bar-chart"></i>
-                <span class="title">Dashboard 1</span>
+                <span class="title">CEO Dashboard</span>
             </a>
         </li>
         <li class="nav-item start ">
             <a href="dashboard_2.html" class="nav-link ">
                 <i class="icon-bulb"></i>
-                <span class="title">Dashboard 2</span>
-                <span class="badge badge-success">1</span>
-            </a>
-        </li>
-        <li class="nav-item start ">
-            <a href="dashboard_3.html" class="nav-link ">
-                <i class="icon-graph"></i>
-                <span class="title">Dashboard 3</span>
-                <span class="badge badge-danger">5</span>
+                <span class="title">CTO Dashboard</span>
+                <span class="badge badge-success">22</span>
             </a>
         </li>
     </ul>
