@@ -159,17 +159,20 @@
                 <p class="hint"> Enter your account details below: </p>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Username</label>
-                    <input class="form-control placeholder-no-fix" type="text" autocomplete="off" placeholder="Username" name="username"> </div>
+                    <input class="form-control placeholder-no-fix" type="text" autocomplete="off" placeholder="Username" name="username">
+                </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Password</label>
-                    <input class="form-control placeholder-no-fix" type="password" autocomplete="off" id="register_password" placeholder="Password" name="password"> </div>
+                    <input class="form-control placeholder-no-fix" type="password" autocomplete="off" id="register_password" placeholder="Password" name="password">
+                </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Re-type Your Password</label>
-                    <input class="form-control placeholder-no-fix" type="password" autocomplete="off" placeholder="Re-type Your Password" name="rpassword"> </div>
+                    <input class="form-control placeholder-no-fix" type="password" autocomplete="off" placeholder="Re-type Your Password" name="rpassword">
+                </div>
                 <div class="form-group margin-top-20 margin-bottom-20">
                     <label class="mt-checkbox mt-checkbox-outline">
                         <input type="checkbox" name="tnc"> I agree to the
-                        <a href="javascript:;">Terms of Service </a> &
+                        <a href="javascript:;">Terms of Service </a> &amp;
                         <a href="javascript:;">Privacy Policy </a>
                         <span></span>
                     </label>
