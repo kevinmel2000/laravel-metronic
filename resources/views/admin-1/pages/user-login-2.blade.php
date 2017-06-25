@@ -45,7 +45,7 @@
 
         <div class="logo">
             <a href="index.html">
-                <img src="../assets/pages/img/logo-big-white.png" style="height: 17px;" alt="">
+                <img src="{{ asset('assets/pages/img/logo-big-white.png') }}" style="height: 17px;" alt="">
             </a>
         </div>
 
