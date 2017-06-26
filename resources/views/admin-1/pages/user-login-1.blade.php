@@ -43,17 +43,13 @@
     </head>
     <body class=" login">
 
-        <!-- BEGIN LOGO -->
         <div class="logo">
             <a href="index.html">
                 <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="">
             </a>
         </div>
-        <!-- END LOGO -->
 
-        <!-- BEGIN LOGIN -->
         <div class="content">
-
             <!-- BEGIN LOGIN FORM -->
             <form class="login-form" action="index.html" method="post">
                 <h3 class="form-title font-green">Sign In</h3>
