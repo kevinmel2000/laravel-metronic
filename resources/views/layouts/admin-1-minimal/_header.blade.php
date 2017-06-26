@@ -1,7 +1,7 @@
 
 <title>{{ config('app.name', 'Laravel') }} | Admin #1 | @yield('title')</title>
 
-<meta name="description" content="Laravel Starter. Make your app easier to build.">
+<meta name="description" content="Integration between Laravel framework and Metronic template">
 <meta name="author" content="R. Kukuh">
 
 <!-- BEGIN GLOBAL MANDATORY STYLES -->
