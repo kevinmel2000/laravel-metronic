@@ -177,8 +177,8 @@
             <!-- END REGISTRATION FORM -->
 
         </div>
-        
-        <div class="copyright"> 2014 © Metronic. Admin Dashboard Template. </div>
+
+        <div class="copyright"> 2017 © R.Kukuh</div>
 
         <!--[if lt IE 9]>
         <script type="text/javascript" src="{{ asset('assets/global/plugins/respond.min.js') }}"></script>
