@@ -175,7 +175,6 @@
                 </div>
             </form>
             <!-- END REGISTRATION FORM -->
-
         </div>
 
         <div class="copyright"> 2017 © R.Kukuh</div>
