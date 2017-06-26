@@ -8,6 +8,7 @@
         @include('layouts.admin-1-minimal._header')
 
         @stack('header-script')
+        
     </head>
     <body class="page-header-fixed page-sidebar-closed-hide-logo page-content-white">
         <div class="page-wrapper">
@@ -34,10 +35,12 @@
             </div>
 
             @include('layouts.admin-1-minimal._page-footer')
+
         </div>
 
         @include('layouts.admin-1-minimal._footer')
 
         @stack('footer-script')
+
     </body>
 </html>
