@@ -37,7 +37,7 @@
             </a>
             <ul class="sub-menu">
                 <li class="nav-item ">
-                    <a href="page_user_login_1.html" class="nav-link " target="_blank"> Login Page 1 </a>
+                    <a href="{{ route('admin-1.page-user-login-1') }}" class="nav-link " target="_blank"> Login Page 1 </a>
                 </li>
                 <li class="nav-item ">
                     <a href="page_user_login_2.html" class="nav-link " target="_blank"> Login Page 2 </a>
