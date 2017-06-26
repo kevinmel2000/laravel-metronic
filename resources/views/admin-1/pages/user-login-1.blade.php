@@ -6,11 +6,14 @@
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Metronic Admin Theme #1 | User Login 1</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta content="width=device-width, initial-scale=1" name="viewport">
-        <meta content="Preview page of Metronic Admin Theme #1 for " name="description">
-        <meta content="" name="author">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>{{ config('app.name', 'Laravel') }} | User Login #1</title>
+
+        <meta name="description" content="Integration between Laravel framework and Metronic template">
+        <meta name="author" content="R. Kukuh">
+
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/font-awesome/css/font-awesome.min.css') }}">
@@ -18,19 +21,24 @@
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap/css/bootstrap.min.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css') }}">
         <!-- END GLOBAL MANDATORY STYLES -->
+
         <!-- BEGIN PAGE LEVEL PLUGINS -->
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/select2/css/select2.min.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/select2/css/select2-bootstrap.min.css') }}">
         <!-- END PAGE LEVEL PLUGINS -->
+
         <!-- BEGIN THEME GLOBAL STYLES -->
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/css/components.min.css') }}" id="style_components">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/css/plugins.min.css') }}">
         <!-- END THEME GLOBAL STYLES -->
+
         <!-- BEGIN PAGE LEVEL STYLES -->
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/login.min.css') }}">
         <!-- END PAGE LEVEL STYLES -->
+
         <!-- BEGIN THEME LAYOUT STYLES -->
         <!-- END THEME LAYOUT STYLES -->
+
         <link rel="stylesheet" type="text/css" rel="shortcut icon" href="favicon.ico">
     </head>
     <body class=" login">
