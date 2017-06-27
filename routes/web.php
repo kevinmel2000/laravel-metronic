@@ -28,6 +28,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         Route::get('user-login-1', function () {
             return view('admin-1.pages.user-login-1');
         })->name('admin-1.page-user-login-1');
+
+        Route::get('user-login-2', function () {
+            return view('admin-1.pages.user-login-2');
+        })->name('admin-1.page-user-login-2');
     });
 
 });
