@@ -46,7 +46,7 @@
                     <a href="{{ route('admin-1.page-user-login-3') }}" class="nav-link " target="_blank"> Login Page 3 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="page_user_login_4.html" class="nav-link " target="_blank"> Login Page 4 </a>
+                    <a href="{{ route('admin-1.page-user-login-4') }}" class="nav-link " target="_blank"> Login Page 4 </a>
                 </li>
                 <li class="nav-item ">
                     <a href="page_user_login_5.html" class="nav-link " target="_blank"> Login Page 5 </a>
