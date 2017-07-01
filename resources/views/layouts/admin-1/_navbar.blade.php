@@ -2,7 +2,7 @@
     <div class="page-header-inner ">
 
         <div class="page-logo">
-            <a href="{{ route('admin.index') }}">
+            <a href="{{ route('admin-1.index') }}">
                 <img src="{{ asset('assets/layouts/layout/img/logo.png') }}" alt="logo" class="logo-default">
             </a>
             <div class="menu-toggler sidebar-toggler">
