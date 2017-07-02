@@ -218,6 +218,7 @@
         <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-validation/js/jquery.validate.min.js') }}"></script>
         <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-validation/js/additional-methods.min.js') }}"></script>
         <script type="text/javascript" src="{{ asset('assets/global/plugins/select2/js/select2.full.min.js') }}"></script>
+        <script type="text/javascript" src="{{ asset('assets/global/plugins/backstretch/jquery.backstretch.min.js') }}"></script>
         <!-- END PAGE LEVEL PLUGINS -->
 
         <!-- BEGIN THEME GLOBAL SCRIPTS -->
