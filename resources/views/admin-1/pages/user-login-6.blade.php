@@ -46,7 +46,7 @@
         <div class="user-login-5">
             <div class="row bs-reset">
                 <div class="col-md-6 login-container bs-reset">
-                    <img class="login-logo login-6" src="../assets/pages/img/login/login-invert.png" />
+                    <img class="login-logo login-6" src="../assets/pages/img/login/login-invert.png">
                     <div class="login-content">
                         <h1>Metronic Admin Login</h1>
                         <p> Lorem ipsum dolor sit amet, coectetuer adipiscing elit sed diam nonummy et nibh euismod aliquam erat volutpat. Lorem ipsum dolor sit amet, coectetuer adipiscing. </p>
@@ -64,7 +64,7 @@
                             <div class="row">
                                 <div class="col-sm-4">
                                     <label class="rememberme mt-checkbox mt-checkbox-outline">
-                                        <input type="checkbox" name="remember" value="1" /> Remember me
+                                        <input type="checkbox" name="remember" value="1"> Remember me
                                         <span></span>
                                     </label>
                                 </div>
@@ -81,7 +81,7 @@
                             <h3>Forgot Password ?</h3>
                             <p> Enter your e-mail address below to reset your password. </p>
                             <div class="form-group">
-                                <input class="form-control placeholder-no-fix" type="text" autocomplete="off" placeholder="Email" name="email" /> </div>
+                                <input class="form-control placeholder-no-fix" type="text" autocomplete="off" placeholder="Email" name="email"> </div>
                             <div class="form-actions">
                                 <button type="button" id="back-btn" class="btn blue btn-outline">Back</button>
                                 <button type="submit" class="btn blue uppercase pull-right">Submit</button>
