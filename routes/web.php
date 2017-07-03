@@ -40,6 +40,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         Route::get('user-login-4', function () {
             return view('admin-1.pages.user-login-4');
         })->name('admin-1.page-user-login-4');
+
+        Route::get('user-login-5', function () {
+            return view('admin-1.pages.user-login-5');
+        })->name('admin-1.page-user-login-5');
     });
 
 });
