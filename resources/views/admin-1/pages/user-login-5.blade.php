@@ -5,33 +5,33 @@
 <html lang="en">
     <!--<![endif]-->
     <head>
-        <meta charset="utf-8" />
+        <meta charset="utf-8">
         <title>Metronic Admin Theme #1 | User Login 5</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta content="width=device-width, initial-scale=1" name="viewport" />
-        <meta content="Preview page of Metronic Admin Theme #1 for " name="description" />
-        <meta content="" name="author" />
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta content="Preview page of Metronic Admin Theme #1 for " name="description">
+        <meta content="" name="author">
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
-        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css">
         <!-- END GLOBAL MANDATORY STYLES -->
         <!-- BEGIN PAGE LEVEL PLUGINS -->
-        <link href="../assets/global/plugins/select2/css/select2.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/select2/css/select2-bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="../assets/global/plugins/select2/css/select2.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/select2/css/select2-bootstrap.min.css" rel="stylesheet" type="text/css">
         <!-- END PAGE LEVEL PLUGINS -->
         <!-- BEGIN THEME GLOBAL STYLES -->
-        <link href="../assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
-        <link href="../assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+        <link href="../assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css">
+        <link href="../assets/global/css/plugins.min.css" rel="stylesheet" type="text/css">
         <!-- END THEME GLOBAL STYLES -->
         <!-- BEGIN PAGE LEVEL STYLES -->
-        <link href="../assets/pages/css/login-5.min.css" rel="stylesheet" type="text/css" />
+        <link href="../assets/pages/css/login-5.min.css" rel="stylesheet" type="text/css">
         <!-- END PAGE LEVEL STYLES -->
         <!-- BEGIN THEME LAYOUT STYLES -->
         <!-- END THEME LAYOUT STYLES -->
-        <link rel="shortcut icon" href="favicon.ico" />
+        <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body class=" login">
         <!-- BEGIN : LOGIN PAGE 5-1 -->
@@ -39,7 +39,7 @@
             <div class="row bs-reset">
                 <div class="col-md-6 bs-reset mt-login-5-bsfix">
                     <div class="login-bg" style="background-image:url(../assets/pages/img/login/bg1.jpg)">
-                        <img class="login-logo" src="../assets/pages/img/login/logo.png" /> </div>
+                        <img class="login-logo" src="../assets/pages/img/login/logo.png"> </div>
                 </div>
                 <div class="col-md-6 login-container bs-reset mt-login-5-bsfix">
                     <div class="login-content">
@@ -60,7 +60,7 @@
                                 <div class="col-sm-4">
                                     <div class="rem-password">
                                         <label class="rememberme mt-checkbox mt-checkbox-outline">
-                                            <input type="checkbox" name="remember" value="1" /> Remember me
+                                            <input type="checkbox" name="remember" value="1"> Remember me
                                             <span></span>
                                         </label>
                                     </div>
@@ -78,7 +78,7 @@
                             <h3 class="font-green">Forgot Password ?</h3>
                             <p> Enter your e-mail address below to reset your password. </p>
                             <div class="form-group">
-                                <input class="form-control placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Email" name="email" /> </div>
+                                <input class="form-control placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Email" name="email"> </div>
                             <div class="form-actions">
                                 <button type="button" id="back-btn" class="btn green btn-outline">Back</button>
                                 <button type="submit" class="btn btn-success uppercase pull-right">Submit</button>
