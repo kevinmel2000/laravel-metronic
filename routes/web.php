@@ -22,6 +22,9 @@ Route::group(['prefix' => 'admin-1'], function () {
     Route::get('blank-page', function () {
         return view('admin-1.pages.blank-page');
     })->name('admin-1.blank-page');
+    
+
+    /**************************** SIDEBAR: PAGES ******************************/
 
     Route::group(['prefix' => 'pages'], function () {
 
