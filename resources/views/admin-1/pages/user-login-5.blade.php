@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ config('app.name', 'Laravel') }} | User Login #1</title>
+        <title>{{ config('app.name', 'Laravel') }} | User Login #5</title>
 
         <meta name="description" content="Integration between Laravel framework and Metronic template">
         <meta name="author" content="R. Kukuh">
@@ -98,7 +98,7 @@
                         </form>
                         <!-- END FORGOT PASSWORD FORM -->
                     </div>
-                    
+
                     <div class="login-footer">
                         <div class="row bs-reset">
                             <div class="col-xs-5 bs-reset">
