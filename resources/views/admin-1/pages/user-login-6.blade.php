@@ -50,6 +50,7 @@
                     <div class="login-content">
                         <h1>Metronic Admin Login</h1>
                         <p> Lorem ipsum dolor sit amet, coectetuer adipiscing elit sed diam nonummy et nibh euismod aliquam erat volutpat. Lorem ipsum dolor sit amet, coectetuer adipiscing. </p>
+
                         <form action="javascript:;" class="login-form" method="post">
                             <div class="alert alert-danger display-hide">
                                 <button class="close" data-close="alert"></button>
@@ -57,9 +58,11 @@
                             </div>
                             <div class="row">
                                 <div class="col-xs-6">
-                                    <input class="form-control form-control-solid placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Username" name="username" required/> </div>
+                                    <input class="form-control form-control-solid placeholder-no-fix form-group" type="text" autocomplete="off" placeholder="Username" name="username" required/>
+                                </div>
                                 <div class="col-xs-6">
-                                    <input class="form-control form-control-solid placeholder-no-fix form-group" type="password" autocomplete="off" placeholder="Password" name="password" required/> </div>
+                                    <input class="form-control form-control-solid placeholder-no-fix form-group" type="password" autocomplete="off" placeholder="Password" name="password" required/>
+                                </div>
                             </div>
                             <div class="row">
                                 <div class="col-sm-4">
@@ -76,6 +79,7 @@
                                 </div>
                             </div>
                         </form>
+
                         <!-- BEGIN FORGOT PASSWORD FORM -->
                         <form class="forget-form" action="javascript:;" method="post">
                             <h3>Forgot Password ?</h3>
@@ -89,6 +93,7 @@
                         </form>
                         <!-- END FORGOT PASSWORD FORM -->
                     </div>
+                    
                     <div class="login-footer">
                         <div class="row bs-reset">
                             <div class="col-xs-5 bs-reset">
