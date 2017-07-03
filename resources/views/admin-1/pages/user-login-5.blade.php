@@ -118,7 +118,7 @@
                             </div>
                             <div class="col-xs-7 bs-reset">
                                 <div class="login-copyright text-right">
-                                    <p>Copyright &copy; Keenthemes 2015</p>
+                                    <p>2017 © R.Kukuh</p>
                                 </div>
                             </div>
                         </div>
