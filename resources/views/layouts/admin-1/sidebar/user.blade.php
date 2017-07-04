@@ -57,7 +57,7 @@
             </ul>
         </li>
         <li class="nav-item  ">
-            <a href="page_user_lock_1.html" class="nav-link " target="_blank">
+            <a href="{{ route('admin-1.page-user-lock-1') }}" class="nav-link " target="_blank">
                 <i class="icon-lock"></i>
                 <span class="title">Lock Screen 1</span>
             </a>
