@@ -43,7 +43,8 @@
         <div class="page-lock">
             <div class="page-logo">
                 <a class="brand" href="index.html">
-                    <img src="../assets/pages/img/logo-big.png" alt="logo" /> </a>
+                    <img src="../assets/pages/img/logo-big.png" alt="logo">
+                </a>
             </div>
             <div class="page-body">
                 <img class="page-lock-img" src="../assets/pages/media/profile/profile.jpg" alt="">
