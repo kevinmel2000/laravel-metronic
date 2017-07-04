@@ -59,7 +59,8 @@
                             <form class="lock-form pull-left" action="index.html" method="post">
                                 <h4>Amanda Smith</h4>
                                 <div class="form-group">
-                                    <input class="form-control placeholder-no-fix" type="password" autocomplete="off" placeholder="Password" name="password" /> </div>
+                                    <input class="form-control placeholder-no-fix" type="password" autocomplete="off" placeholder="Password" name="password" />
+                                </div>
                                 <div class="form-actions">
                                     <button type="submit" class="btn red uppercase">Login</button>
                                 </div>
@@ -71,8 +72,10 @@
                     <a href="">Not Amanda Smith?</a>
                 </div>
             </div>
-            <div class="page-footer-custom"> 2014 &copy; Metronic. Admin Dashboard Template. </div>
+
+            <div class="page-footer-custom"> 2017 © R.Kukuh </div>
         </div>
+        
         <!--[if lt IE 9]>
 <script src="../assets/global/plugins/respond.min.js"></script>
 <script src="../assets/global/plugins/excanvas.min.js"></script>
