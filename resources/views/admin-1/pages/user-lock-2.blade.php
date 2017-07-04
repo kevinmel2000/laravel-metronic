@@ -53,7 +53,7 @@
                     <span class="email"> bob@keenthemes.com </span>
                     <span class="locked"> Locked </span>
 
-                    <form class="form-inline" action="index.html">
+                    <form class="form-inline" action="{{ route('admin-1.index') }}" method="get">
                         <div class="input-group input-medium">
                             <input type="text" class="form-control" placeholder="Password">
                             <span class="input-group-btn">
