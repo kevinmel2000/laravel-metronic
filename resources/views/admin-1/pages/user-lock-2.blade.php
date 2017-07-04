@@ -68,7 +68,7 @@
                     </form>
                 </div>
             </div>
-            <div class="page-footer-custom"> 2014 &copy; Metronic. Admin Dashboard Template. </div>
+            <div class="page-footer-custom"> 2017 © R.Kukuh </div>
         </div>
         <!--[if lt IE 9]>
 <script src="../assets/global/plugins/respond.min.js"></script>
