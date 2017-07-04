@@ -89,6 +89,7 @@
         <!-- END CORE PLUGINS -->
 
         <!-- BEGIN PAGE LEVEL PLUGINS -->
+        <script type="text/javascript" src="{{ asset('assets/global/plugins/backstretch/jquery.backstretch.min.js') }}"></script>
         <!-- END PAGE LEVEL PLUGINS -->
 
         <!-- BEGIN THEME GLOBAL SCRIPTS -->
