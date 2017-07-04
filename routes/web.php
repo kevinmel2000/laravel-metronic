@@ -54,9 +54,9 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.user-login-6');
         })->name('admin-1.page-user-login-6');
 
-        Route::get('user-lock-screen-1', function () {
-            return view('admin-1.pages.user-lock-screen-1');
-        })->name('admin-1.page-user-lock-screen-1');
+        Route::get('user-lock-1', function () {
+            return view('admin-1.pages.user-lock-1');
+        })->name('admin-1.page-user-lock-1');
     });
 
 });
