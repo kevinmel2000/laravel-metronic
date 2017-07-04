@@ -42,6 +42,7 @@
         <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body class=" login">
+        
         <!-- BEGIN : LOGIN PAGE 5-2 -->
         <div class="user-login-5">
             <div class="row bs-reset">
@@ -93,7 +94,7 @@
                         </form>
                         <!-- END FORGOT PASSWORD FORM -->
                     </div>
-                    
+
                     <div class="login-footer">
                         <div class="row bs-reset">
                             <div class="col-xs-5 bs-reset">
