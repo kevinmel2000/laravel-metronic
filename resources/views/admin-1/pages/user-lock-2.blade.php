@@ -52,6 +52,7 @@
                     <h1>Bob Nilson</h1>
                     <span class="email"> bob@keenthemes.com </span>
                     <span class="locked"> Locked </span>
+
                     <form class="form-inline" action="index.html">
                         <div class="input-group input-medium">
                             <input type="text" class="form-control" placeholder="Password">
@@ -66,6 +67,7 @@
                             <a href="login.html"> Not Bob Nilson ? </a>
                         </div>
                     </form>
+                    
                 </div>
             </div>
             <div class="page-footer-custom"> 2017 © R.Kukuh </div>
