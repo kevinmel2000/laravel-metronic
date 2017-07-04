@@ -56,7 +56,7 @@
                             </div>
                         </div>
                         <div class="lock-item lock-item-full">
-                            <form class="lock-form pull-left" action="index.html" method="post">
+                            <form class="lock-form pull-left" action="{{ route('admin-1.index') }}" method="get">
                                 <h4>Amanda Smith</h4>
                                 <div class="form-group">
                                     <input class="form-control placeholder-no-fix" type="password" autocomplete="off" placeholder="Password" name="password" />
