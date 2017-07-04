@@ -57,6 +57,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         Route::get('user-lock-1', function () {
             return view('admin-1.pages.user-lock-1');
         })->name('admin-1.page-user-lock-1');
+
+        Route::get('user-lock-2', function () {
+            return view('admin-1.pages.user-lock-2');
+        })->name('admin-1.page-user-lock-2');
     });
 
 });
