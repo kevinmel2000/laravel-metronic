@@ -63,7 +63,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_user_lock_2.html" class="nav-link " target="_blank">
+            <a href="{{ route('admin-1.page-user-lock-2') }}" class="nav-link " target="_blank">
                 <i class="icon-lock-open"></i>
                 <span class="title">Lock Screen 2</span>
             </a>
