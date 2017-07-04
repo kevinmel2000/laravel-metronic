@@ -72,6 +72,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         Route::get('404-1', function () {
             return view('admin-1.pages.system.404-1');
         })->name('admin-1.page-404-1');
+
+        Route::get('404-2', function () {
+            return view('admin-1.pages.system.404-2');
+        })->name('admin-1.page-404-2');
     });
 
 });
