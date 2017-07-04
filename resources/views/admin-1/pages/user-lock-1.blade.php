@@ -43,7 +43,8 @@
         <div class="page-lock">
             <div class="page-logo">
                 <a class="brand" href="index.html">
-                    <img src="../assets/pages/img/logo-big.png" alt="logo" /> </a>
+                    <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="logo">
+                </a>
             </div>
             <div class="page-body">
                 <div class="lock-head"> Locked </div>
@@ -51,7 +52,8 @@
                     <div class="lock-cont">
                         <div class="lock-item">
                             <div class="pull-left lock-avatar-block">
-                                <img src="../assets/pages/media/profile/photo3.jpg" class="lock-avatar"> </div>
+                                <img src="{{ asset('assets/pages/media/profile/photo3.jpg') }}" class="lock-avatar">
+                            </div>
                         </div>
                         <div class="lock-item lock-item-full">
                             <form class="lock-form pull-left" action="index.html" method="post">
