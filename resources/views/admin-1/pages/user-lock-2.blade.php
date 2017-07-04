@@ -43,11 +43,11 @@
         <div class="page-lock">
             <div class="page-logo">
                 <a class="brand" href="index.html">
-                    <img src="../assets/pages/img/logo-big.png" alt="logo">
+                    <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="logo">
                 </a>
             </div>
             <div class="page-body">
-                <img class="page-lock-img" src="../assets/pages/media/profile/profile.jpg" alt="">
+                <img class="page-lock-img" src="{{ asset('assets/pages/media/profile/profile.jpg') }}" alt="">
                 <div class="page-lock-info">
                     <h1>Bob Nilson</h1>
                     <span class="email"> bob@keenthemes.com </span>
