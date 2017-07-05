@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ config('app.name', 'Laravel') }} | User Login #5</title>
+        <title>{{ config('app.name', 'Laravel') }} | Admin-1 | User Login #5</title>
 
         <meta name="description" content="Integration between Laravel framework and Metronic template">
         <meta name="author" content="R. Kukuh">
@@ -42,7 +42,7 @@
         <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body class=" login">
-        
+
         <!-- BEGIN : LOGIN PAGE 5-1 -->
         <div class="user-login-5">
             <div class="row bs-reset">
