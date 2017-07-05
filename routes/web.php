@@ -68,6 +68,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         Route::get('coming-soon', function () {
             return view('admin-1.pages.system.coming-soon');
         })->name('admin-1.page-coming-soon');
+
+        Route::get('404-1', function () {
+            return view('admin-1.pages.system.404-1');
+        })->name('admin-1.page-404-1');
     });
 
 });
