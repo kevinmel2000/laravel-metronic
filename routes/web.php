@@ -31,43 +31,41 @@ Route::group(['prefix' => 'admin-1'], function () {
         /*********************** SIDEBAR: PAGES: USER *************************/
 
         Route::get('user-login-1', function () {
-            return view('admin-1.pages.user-login-1');
+            return view('admin-1.pages.user.user-login-1');
         })->name('admin-1.page-user-login-1');
 
         Route::get('user-login-2', function () {
-            return view('admin-1.pages.user-login-2');
+            return view('admin-1.pages.user.user-login-2');
         })->name('admin-1.page-user-login-2');
 
         Route::get('user-login-3', function () {
-            return view('admin-1.pages.user-login-3');
+            return view('admin-1.pages.user.user-login-3');
         })->name('admin-1.page-user-login-3');
 
         Route::get('user-login-4', function () {
-            return view('admin-1.pages.user-login-4');
+            return view('admin-1.pages.user.user-login-4');
         })->name('admin-1.page-user-login-4');
 
         Route::get('user-login-5', function () {
-            return view('admin-1.pages.user-login-5');
+            return view('admin-1.pages.user.user-login-5');
         })->name('admin-1.page-user-login-5');
 
         Route::get('user-login-6', function () {
-            return view('admin-1.pages.user-login-6');
+            return view('admin-1.pages.user.user-login-6');
         })->name('admin-1.page-user-login-6');
 
         Route::get('user-lock-1', function () {
-            return view('admin-1.pages.user-lock-1');
+            return view('admin-1.pages.user.user-lock-1');
         })->name('admin-1.page-user-lock-1');
 
         Route::get('user-lock-2', function () {
-            return view('admin-1.pages.user-lock-2');
+            return view('admin-1.pages.user.user-lock-2');
         })->name('admin-1.page-user-lock-2');
 
 
         /*********************** SIDEBAR: PAGES: SYSTEM ***********************/
 
-        Route::get('user-lock-2', function () {
-            return view('admin-1.pages.user-lock-2');
-        })->name('admin-1.page-user-lock-2');
+        //
     });
 
 });
