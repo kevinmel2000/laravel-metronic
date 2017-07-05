@@ -16,7 +16,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_system_coming_soon.html" class="nav-link " target="_blank">
+            <a href="{{ route('admin-1.page-coming-soon') }}" class="nav-link " target="_blank">
                 <span class="title">Coming Soon</span>
             </a>
         </li>

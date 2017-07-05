@@ -65,9 +65,9 @@ Route::group(['prefix' => 'admin-1'], function () {
 
         /*********************** SIDEBAR: PAGES: SYSTEM ***********************/
 
-        Route::get('coming-soom', function () {
-            return view('admin-1.pages.system.coming-soom');
-        })->name('admin-1.page-coming-soom');
+        Route::get('coming-soon', function () {
+            return view('admin-1.pages.system.coming-soon');
+        })->name('admin-1.page-coming-soon');
     });
 
 });
