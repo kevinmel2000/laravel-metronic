@@ -9,7 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ config('app.name', 'Laravel') }} | Coming Soon</title>
+        <title>{{ config('app.name', 'Laravel') }} | Admin-1 | Coming Soon</title>
 
         <meta name="description" content="Integration between Laravel framework and Metronic template">
         <meta name="author" content="R. Kukuh">
