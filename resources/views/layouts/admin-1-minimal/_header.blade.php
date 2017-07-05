@@ -1,5 +1,5 @@
 
-<title>{{ config('app.name', 'Laravel') }} | Admin #1 | @yield('title')</title>
+<title>{{ config('app.name', 'Laravel') }} | Admin-1 | @yield('title')</title>
 
 <meta name="description" content="Laravel Metronic. Combining the power of Laravel and Metronic.">
 <meta name="author" content="R. Kukuh">
@@ -12,6 +12,10 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css') }}">
 <!-- END GLOBAL MANDATORY STYLES -->
 
+<!-- BEGIN PAGE LEVEL PLUGINS -->
+@stack('page-level-plugins')
+<!-- END PAGE LEVEL PLUGINS -->
+
 <!-- BEGIN THEME GLOBAL STYLES -->
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/css/components.min.css') }}" id="style_components">
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/css/plugins.min.css') }}">
@@ -22,5 +26,9 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/layouts/layout/css/themes/darkblue.min.css') }}" id="style_color">
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/layouts/layout/css/custom.min.css') }}">
 <!-- END THEME LAYOUT STYLES -->
+
+<!-- BEGIN PAGE LEVEL STYLES -->
+@stack('page-level-styles')
+<!-- END PAGE LEVEL STYLES -->
 
 <link rel="shortcut icon" href="favicon.ico">
