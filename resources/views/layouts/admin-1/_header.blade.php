@@ -23,4 +23,8 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/layouts/layout/css/custom.min.css') }}">
 <!-- END THEME LAYOUT STYLES -->
 
+<!-- BEGIN PAGE LEVEL STYLES -->
+@stack('page-level-styles')
+<!-- END PAGE LEVEL STYLES -->
+
 <link rel="shortcut icon" href="favicon.ico">
