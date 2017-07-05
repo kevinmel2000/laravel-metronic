@@ -93,10 +93,10 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-12 coming-soon-footer"> 2014 &copy; Metronic. Admin Dashboard Template. </div>
+                <div class="col-md-12 coming-soon-footer"> 2017 © R.Kukuh </div>
             </div>
         </div>
-        
+
         <!--[if lt IE 9]>
 <script src="../assets/global/plugins/respond.min.js"></script>
 <script src="../assets/global/plugins/excanvas.min.js"></script>
