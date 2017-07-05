@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         @include('layouts.admin-1._header')
-        
+
     </head>
     <body class="page-header-fixed page-sidebar-closed-hide-logo page-content-white">
         <div class="page-wrapper">
@@ -43,7 +43,5 @@
         @include('layouts.admin-1._quick-nav')
 
         @include('layouts.admin-1._footer')
-
-        @stack('footer-script')
     </body>
 </html>
