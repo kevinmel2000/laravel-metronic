@@ -45,9 +45,10 @@
                 <div class="number font-red"> 404 </div>
                 <div class="details">
                     <h3>Oops! You're lost.</h3>
-                    <p> We can not find the page you're looking for.
-                        <br/>
-                        <a href="index.html"> Return home </a> or try the search bar below. </p>
+                    <p> We can not find the page you're looking for. <br>
+                        <a href="index.html"> Return home </a> or try the search bar below.
+                    </p>
+
                     <form action="#">
                         <div class="input-group input-medium">
                             <input type="text" class="form-control" placeholder="keyword...">
@@ -57,8 +58,8 @@
                                 </button>
                             </span>
                         </div>
-                        <!-- /input-group -->
                     </form>
+                    
                 </div>
             </div>
         </div>
