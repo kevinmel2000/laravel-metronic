@@ -44,7 +44,7 @@
             <div class="row">
                 <div class="col-md-12 coming-soon-header">
                     <a class="brand" href="index.html">
-                        <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="logo"> 
+                        <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="logo">
                     </a>
                 </div>
             </div>
@@ -54,6 +54,7 @@
                     <p> At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi vehicula sem ut volutpat. Ut non libero magna fusce condimentum eleifend
                         enim a feugiat. </p>
                     <br>
+
                     <form class="form-inline" action="#">
                         <div class="input-group input-group-lg input-large">
                             <input type="text" class="form-control">
@@ -62,6 +63,7 @@
                             </span>
                         </div>
                     </form>
+
                     <ul class="social-icons margin-top-20">
                         <li>
                             <a href="javascript:;" data-original-title="Feed" class="rss"> </a>
@@ -90,11 +92,11 @@
                     <div id="defaultCountdown"> </div>
                 </div>
             </div>
-            <!--/end row-->
             <div class="row">
                 <div class="col-md-12 coming-soon-footer"> 2014 &copy; Metronic. Admin Dashboard Template. </div>
             </div>
         </div>
+        
         <!--[if lt IE 9]>
 <script src="../assets/global/plugins/respond.min.js"></script>
 <script src="../assets/global/plugins/excanvas.min.js"></script>
