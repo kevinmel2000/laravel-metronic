@@ -20,7 +20,7 @@ Route::group(['prefix' => 'admin-1'], function () {
     })->name('admin-1.index');
 
     Route::get('blank-page', function () {
-        return view('admin-1.pages.blank-page');
+        return view('admin-1.layouts.page-layouts.blank-page');
     })->name('admin-1.blank-page');
 
 
@@ -57,6 +57,13 @@ Route::group(['prefix' => 'admin-1'], function () {
         Route::get('user-lock-1', function () {
             return view('admin-1.pages.user-lock-1');
         })->name('admin-1.page-user-lock-1');
+
+        Route::get('user-lock-2', function () {
+            return view('admin-1.pages.user-lock-2');
+        })->name('admin-1.page-user-lock-2');
+
+
+        /*********************** SIDEBAR: PAGES: SYSTEM ***********************/
 
         Route::get('user-lock-2', function () {
             return view('admin-1.pages.user-lock-2');
