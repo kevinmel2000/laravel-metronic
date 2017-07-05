@@ -31,7 +31,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_system_404_3.html" class="nav-link " target="_blank">
+            <a href="{{ route('admin-1.page-404-3') }}" class="nav-link " target="_blank">
                 <span class="title">404 Page 3</span>
             </a>
         </li>
