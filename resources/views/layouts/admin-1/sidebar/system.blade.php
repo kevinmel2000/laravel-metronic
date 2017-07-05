@@ -21,7 +21,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_system_404_1.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-404-1') }}" class="nav-link ">
                 <span class="title">404 Page 1</span>
             </a>
         </li>
