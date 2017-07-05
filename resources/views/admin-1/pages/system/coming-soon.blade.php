@@ -36,7 +36,7 @@
 
         <!-- BEGIN THEME LAYOUT STYLES -->
         <!-- END THEME LAYOUT STYLES -->
-        
+
         <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body class="">
@@ -44,7 +44,8 @@
             <div class="row">
                 <div class="col-md-12 coming-soon-header">
                     <a class="brand" href="index.html">
-                        <img src="../assets/pages/img/logo-big.png" alt="logo"> </a>
+                        <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="logo"> 
+                    </a>
                 </div>
             </div>
             <div class="row">
