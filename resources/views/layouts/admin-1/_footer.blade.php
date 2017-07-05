@@ -33,10 +33,8 @@
 <!-- END THEME LAYOUT SCRIPTS -->
 
 <script>
-    $(document).ready(function()
-    {
-        $('#clickmewow').click(function()
-        {
+    $(document).ready(function() {
+        $('#clickmewow').click(function() {
             $('#radio1003').attr('checked', 'checked');
         });
     })
