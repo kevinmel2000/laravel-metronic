@@ -5,38 +5,38 @@
 <html lang="en">
     <!--<![endif]-->
     <head>
-        <meta charset="utf-8" />
+        <meta charset="utf-8">
         <title>Metronic Admin Theme #1 | Coming Soon</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta content="width=device-width, initial-scale=1" name="viewport" />
-        <meta content="Preview page of Metronic Admin Theme #1 for " name="description" />
-        <meta content="" name="author" />
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta content="Preview page of Metronic Admin Theme #1 for " name="description">
+        <meta content="" name="author">
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
-        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="../assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css" />
+        <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/simple-line-icons/simple-line-icons.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+        <link href="../assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css" rel="stylesheet" type="text/css">
         <!-- END GLOBAL MANDATORY STYLES -->
         <!-- BEGIN PAGE LEVEL PLUGINS -->
         <!-- END PAGE LEVEL PLUGINS -->
         <!-- BEGIN THEME GLOBAL STYLES -->
-        <link href="../assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css" />
-        <link href="../assets/global/css/plugins.min.css" rel="stylesheet" type="text/css" />
+        <link href="../assets/global/css/components.min.css" rel="stylesheet" id="style_components" type="text/css">
+        <link href="../assets/global/css/plugins.min.css" rel="stylesheet" type="text/css">
         <!-- END THEME GLOBAL STYLES -->
         <!-- BEGIN PAGE LEVEL STYLES -->
-        <link href="../assets/pages/css/coming-soon.min.css" rel="stylesheet" type="text/css" />
+        <link href="../assets/pages/css/coming-soon.min.css" rel="stylesheet" type="text/css">
         <!-- END PAGE LEVEL STYLES -->
         <!-- BEGIN THEME LAYOUT STYLES -->
         <!-- END THEME LAYOUT STYLES -->
-        <link rel="shortcut icon" href="favicon.ico" />
+        <link rel="shortcut icon" href="favicon.ico">
     </head>
     <body class="">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 coming-soon-header">
                     <a class="brand" href="index.html">
-                        <img src="../assets/pages/img/logo-big.png" alt="logo" /> </a>
+                        <img src="../assets/pages/img/logo-big.png" alt="logo"> </a>
                 </div>
             </div>
             <div class="row">
