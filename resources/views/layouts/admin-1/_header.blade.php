@@ -12,6 +12,10 @@
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-switch/css/bootstrap-switch.min.css') }}">
 <!-- END GLOBAL MANDATORY STYLES -->
 
+<!-- BEGIN PAGE LEVEL PLUGINS -->
+@stack('page-level-plugins')
+<!-- END PAGE LEVEL PLUGINS -->
+
 <!-- BEGIN THEME GLOBAL STYLES -->
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/css/components.min.css') }}" id="style_components">
 <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/css/plugins.min.css') }}">
