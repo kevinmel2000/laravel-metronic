@@ -41,7 +41,7 @@
     </head>
     <body class=" page-404-3">
         <div class="page-inner">
-            <img src="../assets/pages/media/pages/earth.jpg" class="img-responsive" alt="">
+            <img src="{{ asset('assets/pages/media/pages/earth.jpg') }}" class="img-responsive" alt="">
         </div>
         <div class="container error-404">
             <h1>404</h1>
