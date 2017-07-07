@@ -47,7 +47,7 @@
             <h1>404</h1>
             <h2>Houston, we have a problem.</h2>
             <p> Actually, the page you are looking for does not exist. </p>
-            <p><a href="index.html" class="btn red btn-outline"> Return home </a></p>
+            <p><a href="{{ route('admin-1.index') }}" class="btn red btn-outline"> Return home </a></p>
         </div>
 
         <!--[if lt IE 9]>
