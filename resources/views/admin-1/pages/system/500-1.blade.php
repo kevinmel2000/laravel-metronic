@@ -24,11 +24,8 @@
             <div class=" number font-red"> 500 </div>
             <div class=" details">
                 <h3>Oops! Something went wrong.</h3>
-                <p> We are fixing it! Please come back in a while.
-                    <br/> </p>
-                <p>
-                    <a href="index.html" class="btn red btn-outline"> Return home </a>
-                    <br> </p>
+                <p> We are fixing it! Please come back in a while.</p>
+                <p><a href="index.html" class="btn red btn-outline"> Return home </a></p>
             </div>
         </div>
     </div>
