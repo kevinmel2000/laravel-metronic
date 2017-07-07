@@ -41,7 +41,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_system_500_2.html" class="nav-link " target="_blank">
+            <a href="{{ route('admin-1.page-500-2') }}" class="nav-link " target="_blank">
                 <span class="title">500 Page 2</span>
             </a>
         </li>
