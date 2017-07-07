@@ -84,6 +84,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         Route::get('500-1', function () {
             return view('admin-1.pages.system.500-1');
         })->name('admin-1.page-500-1');
+
+        Route::get('500-2', function () {
+            return view('admin-1.pages.system.500-2');
+        })->name('admin-1.page-500-2');
     });
 
 });
