@@ -41,15 +41,15 @@
     </head>
     <body class=" page-404-3">
         <div class="page-inner">
-            <img src="../assets/pages/media/pages/earth.jpg" class="img-responsive" alt=""> </div>
+            <img src="../assets/pages/media/pages/earth.jpg" class="img-responsive" alt="">
+        </div>
         <div class="container error-404">
             <h1>404</h1>
             <h2>Houston, we have a problem.</h2>
             <p> Actually, the page you are looking for does not exist. </p>
-            <p>
-                <a href="index.html" class="btn red btn-outline"> Return home </a>
-                <br> </p>
+            <p><a href="index.html" class="btn red btn-outline"> Return home </a></p>
         </div>
+
         <!--[if lt IE 9]>
 <script src="../assets/global/plugins/respond.min.js"></script>
 <script src="../assets/global/plugins/excanvas.min.js"></script>
