@@ -6,7 +6,7 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="page_general_about.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-about') }}" class="nav-link ">
                 <i class="icon-info"></i>
                 <span class="title">About</span>
             </a>
