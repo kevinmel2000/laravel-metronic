@@ -63,7 +63,12 @@ Route::group(['prefix' => 'admin-1'], function () {
         })->name('admin-1.page-user-lock-2');
 
 
-        /*********************** SIDEBAR: PAGES: SYSTEM ***********************/
+        /********************** SIDEBAR: PAGES: GENERAL ***********************/
+
+        // routes here...
+
+
+        /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
         Route::get('cookie-consent-1', function () {
             return view('admin-1.pages.system.cookie-consent-1');
