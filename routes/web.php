@@ -65,7 +65,9 @@ Route::group(['prefix' => 'admin-1'], function () {
 
         /********************** SIDEBAR: PAGES: GENERAL ***********************/
 
-        // routes here...
+        Route::get('about', function () {
+            return view('admin-1.pages.general.about');
+        })->name('admin-1.page-about');
 
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
