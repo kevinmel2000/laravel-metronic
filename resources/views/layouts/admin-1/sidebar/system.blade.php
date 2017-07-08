@@ -11,7 +11,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_cookie_consent_2.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-cookie-consent-2') }}" class="nav-link ">
                 <span class="title">Cookie Consent 2</span>
             </a>
         </li>
