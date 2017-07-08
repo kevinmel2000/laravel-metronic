@@ -6,7 +6,7 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="page_cookie_consent_1.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-cookie-consent-1') }}" class="nav-link ">
                 <span class="title">Cookie Consent 1</span>
             </a>
         </li>
