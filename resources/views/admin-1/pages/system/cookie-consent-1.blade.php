@@ -21,10 +21,7 @@
 
     <div class="note note-success">
         <h3>Cookie Consent Bar</h3>
-        <p> A simple, lightweight jQuery plugin for creating a notification bar that is dismissable and dismiss is saved by cookie. Perfect for implementing the new eu cookielaw. For more info check
-            <a class="btn red btn-outline" href="https://github.com/carlwoodhouse/jquery.cookieBar"
-                target="_blank">the official documentation</a>
-        </p>
+        <p> A simple, lightweight jQuery plugin for creating a notification bar that is dismissable and dismiss is saved by cookie. Perfect for implementing the new eu cookielaw. For more info check <a class="btn red btn-outline" href="https://github.com/carlwoodhouse/jquery.cookieBar" target="_blank">the official documentation</a></p>
     </div>
 
     <div class="mt-cookie-consent-bar">
