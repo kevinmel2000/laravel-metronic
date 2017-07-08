@@ -40,3 +40,7 @@
 @push('page-level-plugins-footer')
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-cookiebar/jquery.cookieBar.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/layouts/global/scripts/cookie-consent.min.js') }}"></script>
+@endpush
