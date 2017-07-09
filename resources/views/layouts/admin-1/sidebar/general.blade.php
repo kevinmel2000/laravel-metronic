@@ -25,7 +25,7 @@
             </a>
             <ul class="sub-menu">
                 <li class="nav-item ">
-                    <a href="page_general_portfolio_1.html" class="nav-link "> Portfolio 1 </a>
+                    <a href="{{ route('admin-1.page-portfolio-1') }}" class="nav-link "> Portfolio 1 </a>
                 </li>
                 <li class="nav-item ">
                     <a href="page_general_portfolio_2.html" class="nav-link "> Portfolio 2 </a>
