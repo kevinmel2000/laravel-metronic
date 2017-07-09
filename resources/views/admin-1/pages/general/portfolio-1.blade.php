@@ -238,7 +238,7 @@
             </div>
         </div>
         <div id="js-loadMore-juicy-projects" class="cbp-l-loadMore-button">
-            <a href="assets/global/plugins/cubeportfolio/ajax/loadMore.html" class="cbp-l-loadMore-link btn grey-mint btn-outline" rel="nofollow">
+            <a href="{{ asset('assets/global/plugins/cubeportfolio/ajax/loadMore.html') }}" class="cbp-l-loadMore-link btn grey-mint btn-outline" rel="nofollow">
                 <span class="cbp-l-loadMore-defaultText">LOAD MORE</span>
                 <span class="cbp-l-loadMore-loadingText">LOADING...</span>
                 <span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS</span>
