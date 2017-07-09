@@ -45,7 +45,7 @@
             <div class="cbp-item graphic">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/013.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/013.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -61,7 +61,7 @@
             <div class="cbp-item web-design logos">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/05.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/05.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -77,7 +77,7 @@
             <div class="cbp-item graphic logos">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/16.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/16.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
