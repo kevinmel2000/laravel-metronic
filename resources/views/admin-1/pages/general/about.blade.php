@@ -206,4 +206,92 @@
         </div>
     </div>
     <!-- END MEMBERS SUCCESS STORIES -->
+
+    <!-- BEGIN LINKS BLOCK -->
+    <div class="row about-links-cont" data-auto-height="true">
+        <div class="col-md-6 about-links">
+            <div class="row">
+                <div class="col-sm-6 about-links-item">
+                    <h4>UX & Design</h4>
+                    <ul>
+                        <li>
+                            <a href="#">Ui Features</a>
+                        </li>
+                        <li>
+                            <a href="#">Ui Components</a>
+                        </li>
+                        <li>
+                            <a href="#">Flat UI Colors</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 about-links-item">
+                    <h4>eCommerce</h4>
+                    <ul>
+                        <li>
+                            <a href="#">Dashboard</a>
+                        </li>
+                        <li>
+                            <a href="#">Orders</a>
+                        </li>
+                        <li>
+                            <a href="#">Products</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 about-links-item">
+                    <h4>Page Layouts</h4>
+                    <ul>
+                        <li>
+                            <a href="#">Boxed Page</a>
+                        </li>
+                        <li>
+                            <a href="#">Full Width</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 about-links-item">
+                    <h4>Form Stuff</h4>
+                    <ul>
+                        <li>
+                            <a href="#">Material Forms</a>
+                        </li>
+                        <li>
+                            <a href="#">Form Wizard</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 about-links-item">
+                    <h4>Charts</h4>
+                    <ul>
+                        <li>
+                            <a href="#">amChart</a>
+                        </li>
+                        <li>
+                            <a href="#">Flotchart</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-6 about-links-item">
+                    <h4>Portlets</h4>
+                    <ul>
+                        <li>
+                            <a href="#">General Portlets</a>
+                        </li>
+                        <li>
+                            <a href="#">Ajax Portlets</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+            <div class="about-image" style="background: url(../assets/pages/media/works/img4.jpg) center no-repeat;"></div>
+        </div>
+    </div>
+    <!-- END LINKS BLOCK -->
 @endsection
