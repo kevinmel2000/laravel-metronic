@@ -15,4 +15,9 @@
 @endsection
 
 @section('content')
+    <!-- BEGIN PAGE TITLE-->
+    <h1 class="page-title"> Contact Us
+        <small>contact us page</small>
+    </h1>
+    <!-- END PAGE TITLE-->
 @endsection
