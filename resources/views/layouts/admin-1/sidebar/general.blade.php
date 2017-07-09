@@ -12,7 +12,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_general_contact.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-contact') }}" class="nav-link ">
                 <i class="icon-call-end"></i>
                 <span class="title">Contact</span>
             </a>
