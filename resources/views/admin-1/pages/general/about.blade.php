@@ -290,7 +290,7 @@
             </div>
         </div>
         <div class="col-md-6 col-sm-12">
-            <div class="about-image" style="background: url(../assets/pages/media/works/img4.jpg) center no-repeat;"></div>
+            <div class="about-image" style="background: url('{{ asset('assets/pages/media/works/img4.jpg') }}') center no-repeat;"></div>
         </div>
     </div>
     <!-- END LINKS BLOCK -->
