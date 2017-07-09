@@ -69,6 +69,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.about');
         })->name('admin-1.page-about');
 
+        Route::get('contact', function () {
+            return view('admin-1.pages.general.contact');
+        })->name('admin-1.page-contact');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
