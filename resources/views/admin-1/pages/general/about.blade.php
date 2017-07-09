@@ -91,4 +91,55 @@
         </div>
     </div>
     <!-- END CARDS -->
+
+    <!-- BEGIN TEXT & VIDEO -->
+    <div class="row margin-bottom-40">
+        <div class="col-lg-6">
+            <div class="portlet light about-text">
+                <h4>
+                    <i class="fa fa-check icon-info"></i> About Metronic</h4>
+                <p class="margin-top-20"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
+                    lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et
+                    iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. </p>
+                <div class="row">
+                    <div class="col-xs-6">
+                        <ul class="list-unstyled margin-top-10 margin-bottom-10">
+                            <li>
+                                <i class="fa fa-check"></i> Nam liber tempor cum soluta </li>
+                            <li>
+                                <i class="fa fa-check"></i> Mirum est notare quam </li>
+                            <li>
+                                <i class="fa fa-check"></i> Lorem ipsum dolor sit amet </li>
+                            <li>
+                                <i class="fa fa-check"></i> Mirum est notare quam </li>
+                            <li>
+                                <i class="fa fa-check"></i> Mirum est notare quam </li>
+                        </ul>
+                    </div>
+                    <div class="col-xs-6">
+                        <ul class="list-unstyled margin-top-10 margin-bottom-10">
+                            <li>
+                                <i class="fa fa-check"></i> Nam liber tempor cum soluta </li>
+                            <li>
+                                <i class="fa fa-check"></i> Mirum est notare quam </li>
+                            <li>
+                                <i class="fa fa-check"></i> Lorem ipsum dolor sit amet </li>
+                            <li>
+                                <i class="fa fa-check"></i> Mirum est notare quam </li>
+                            <li>
+                                <i class="fa fa-check"></i> Mirum est notare quam </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="about-quote">
+                    <h3>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh</h3>
+                    <p class="about-author">Tom Hardy, 2015</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <iframe src="http://player.vimeo.com/video/22439234" style="width:100%; height:500px;border:0" allowfullscreen> </iframe>
+        </div>
+    </div>
+    <!-- END TEXT & VIDEO -->
 @endsection
