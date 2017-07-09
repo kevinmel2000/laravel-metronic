@@ -154,7 +154,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="portlet light">
                 <div class="photo">
-                    <img src="../assets/pages/media/users/teambg1.jpg" alt="" class="img-responsive" /> </div>
+                    <img src="{{ asset('assets/pages/media/users/teambg1.jpg') }}" alt="" class="img-responsive" /> </div>
                 <div class="title">
                     <span> Mark Wahlberg </span>
                 </div>
@@ -166,7 +166,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="portlet light">
                 <div class="photo">
-                    <img src="../assets/pages/media/users/teambg2.jpg" alt="" class="img-responsive" /> </div>
+                    <img src="{{ asset('assets/pages/media/users/teambg2.jpg') }}" alt="" class="img-responsive" /> </div>
                 <div class="title">
                     <span> Lindsay Lohan </span>
                 </div>
@@ -178,7 +178,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="portlet light">
                 <div class="photo">
-                    <img src="../assets/pages/media/users/teambg5.jpg" alt="" class="img-responsive" /> </div>
+                    <img src="{{ asset('assets/pages/media/users/teambg5.jpg') }}" alt="" class="img-responsive" /> </div>
                 <div class="title">
                     <span> John Travolta </span>
                 </div>
@@ -190,7 +190,7 @@
         <div class="col-lg-3 col-md-6">
             <div class="portlet light">
                 <div class="photo">
-                    <img src="../assets/pages/media/users/teambg8.jpg" alt="" class="img-responsive" /> </div>
+                    <img src="{{ asset('assets/pages/media/users/teambg8.jpg') }}" alt="" class="img-responsive" /> </div>
                 <div class="title">
                     <span> Tom Brady </span>
                 </div>
