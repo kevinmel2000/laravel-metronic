@@ -15,11 +15,9 @@
 @endsection
 
 @section('content')
-    <!-- BEGIN PAGE TITLE-->
     <h1 class="page-title"> Contact Us
         <small>contact us page</small>
     </h1>
-    <!-- END PAGE TITLE-->
 
     <div class="c-content-contact-1 c-opt-1">
         <div class="row" data-auto-height=".c-height">
