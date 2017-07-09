@@ -250,3 +250,7 @@
 @push('page-level-plugins-header')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/cubeportfolio/css/cubeportfolio.css') }}">
 @endpush
+
+@push('page-level-styles')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/portfolio.min.css') }}">
+@endpush
