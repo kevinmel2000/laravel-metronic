@@ -296,6 +296,6 @@
     <!-- END LINKS BLOCK -->
 @endsection
 
-@push('page-level-plugins-header')
+@push('page-level-styles')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/about.min.css') }}">
 @endpush
