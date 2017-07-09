@@ -130,4 +130,9 @@
 
 @push('page-level-plugins-footer')
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/gmaps/gmaps.min.js') }}"></script>
+@endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/contact.min.js') }}"></script>
 @endpush
