@@ -18,7 +18,7 @@
     <div class="graphic logos cbp-item">
         <div class="cbp-caption">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/57.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/57.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
@@ -34,7 +34,7 @@
     <div class="graphic logos cbp-item">
         <div class="cbp-caption">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/98.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/98.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
@@ -50,7 +50,7 @@
     <div class="identity web-design cbp-item">
         <div class="cbp-caption">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/55.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/55.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
@@ -68,7 +68,7 @@
     <div class="graphic web-design cbp-item">
         <div class="cbp-caption">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/11.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/11.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
@@ -84,7 +84,7 @@
     <div class="identity logos cbp-item">
         <div class="cbp-caption">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/94.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/94.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
