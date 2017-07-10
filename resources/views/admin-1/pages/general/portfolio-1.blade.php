@@ -66,7 +66,7 @@
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
                                 <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
-                                <a href="assets/global/img/portfolio/1200x900/50.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">view larger</a>
+                                <a href="{{ asset('assets/global/img/portfolio/1200x900/50.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">view larger</a>
                             </div>
                         </div>
                     </div>
@@ -115,7 +115,7 @@
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
                                 <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
-                                <a href="assets/global/img/portfolio/1200x900/4.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="WhereTO App<br>by Tiberiu Neamu">view larger</a>
+                                <a href="{{ asset('assets/global/img/portfolio/1200x900/4.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="WhereTO App<br>by Tiberiu Neamu">view larger</a>
                             </div>
                         </div>
                     </div>
@@ -131,7 +131,7 @@
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
                                 <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
-                                <a href="assets/global/img/portfolio/1200x900/7.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="Ski * Buddy<br>by Tiberiu Neamu">view larger</a>
+                                <a href="{{ asset('assets/global/img/portfolio/1200x900/7.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="Ski * Buddy<br>by Tiberiu Neamu">view larger</a>
                             </div>
                         </div>
                     </div>
@@ -147,7 +147,7 @@
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
                                 <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
-                                <a href="assets/global/img/portfolio/1200x900/60.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">view sound</a>
+                                <a href="{{ asset('assets/global/img/portfolio/1200x900/60.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">view sound</a>
                             </div>
                         </div>
                     </div>
