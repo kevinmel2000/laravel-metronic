@@ -211,7 +211,7 @@
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
                                 <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
-                                <a href="assets/global/img/portfolio/1200x900/92.jpg" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Generic Apps<br>by Cosmin Capitanu">view video</a>
+                                <a href="{{ asset('assets/global/img/portfolio/1200x900/92.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Generic Apps<br>by Cosmin Capitanu">view video</a>
                             </div>
                         </div>
                     </div>
