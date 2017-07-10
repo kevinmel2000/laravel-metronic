@@ -4,16 +4,16 @@
     <div class="cbp-slider">
         <ul class="cbp-slider-wrap">
             <li class="cbp-slider-item">
-                <a href="../assets/global/img/portfolio/1200x900/06.jpg" class="cbp-lightbox">
-                    <img src="../assets/global/img/portfolio/1200x900/06.jpg" alt=""> </a>
+                <a href="assets/global/img/portfolio/1200x900/06.jpg" class="cbp-lightbox">
+                    <img src="assets/global/img/portfolio/1200x900/06.jpg" alt=""> </a>
             </li>
             <li class="cbp-slider-item">
-                <a href="../assets/global/img/portfolio/1200x900/08.jpg" class="cbp-lightbox">
-                    <img src="../assets/global/img/portfolio/1200x900/08.jpg" alt=""> </a>
+                <a href="assets/global/img/portfolio/1200x900/08.jpg" class="cbp-lightbox">
+                    <img src="assets/global/img/portfolio/1200x900/08.jpg" alt=""> </a>
             </li>
             <li class="cbp-slider-item">
-                <a href="../assets/global/img/portfolio/1200x900/77.jpg" class="cbp-lightbox">
-                    <img src="../assets/global/img/portfolio/1200x900/77.jpg" alt=""> </a>
+                <a href="assets/global/img/portfolio/1200x900/77.jpg" class="cbp-lightbox">
+                    <img src="assets/global/img/portfolio/1200x900/77.jpg" alt=""> </a>
             </li>
         </ul>
     </div>
@@ -48,20 +48,20 @@
             </div>
             <ul class="cbp-l-project-related-wrap">
                 <li class="cbp-l-project-related-item">
-                    <a href="../assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
-                        <img src="../assets/global/img/portfolio/600x600/1.jpg" alt="">
+                    <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                        <img src="assets/global/img/portfolio/600x600/1.jpg" alt="">
                         <div class="cbp-l-project-related-title">Speed Detector</div>
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
-                    <a href="../assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
-                        <img src="../assets/global/img/portfolio/600x600/5.jpg" alt="">
+                    <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                        <img src="assets/global/img/portfolio/600x600/5.jpg" alt="">
                         <div class="cbp-l-project-related-title">World Clock Widget</div>
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
-                    <a href="../assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
-                        <img src="../assets/global/img/portfolio/600x600/27.jpg" alt="">
+                    <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                        <img src="assets/global/img/portfolio/600x600/27.jpg" alt="">
                         <div class="cbp-l-project-related-title">To-Do Dashboard</div>
                     </a>
                 </li>
