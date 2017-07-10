@@ -2,7 +2,7 @@
     <div class="graphic web-design cbp-item">
         <div class="cbp-caption">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/015.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/015.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
