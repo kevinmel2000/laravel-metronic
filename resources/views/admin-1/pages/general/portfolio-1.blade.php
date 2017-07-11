@@ -45,7 +45,8 @@
             <div class="cbp-item graphic">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/013.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/013.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -61,7 +62,8 @@
             <div class="cbp-item web-design logos">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/05.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/05.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -77,7 +79,8 @@
             <div class="cbp-item graphic logos">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/16.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/16.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -110,7 +113,8 @@
             <div class="cbp-item identity web-design">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/38.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/38.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -126,7 +130,8 @@
             <div class="cbp-item identity web-design">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/88.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/88.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -142,7 +147,8 @@
             <div class="cbp-item graphic logos">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/02.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/02.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -158,7 +164,8 @@
             <div class="cbp-item identity graphic">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/62.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/62.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -174,7 +181,8 @@
             <div class="cbp-item web-design graphic">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/81.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/81.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -206,7 +214,8 @@
             <div class="cbp-item identity logos">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/102.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/102.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -222,7 +231,8 @@
             <div class="cbp-item graphic web-design">
                 <div class="cbp-caption">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/96.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/96.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
