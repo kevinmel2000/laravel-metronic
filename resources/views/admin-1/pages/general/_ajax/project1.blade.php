@@ -48,7 +48,7 @@
             </div>
             <ul class="cbp-l-project-related-wrap">
                 <li class="cbp-l-project-related-item">
-                    <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                    <a href="{{ route('admin-1.ajax.project1') }}" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
                         <img src="assets/global/img/portfolio/600x600/1.jpg" alt="">
                         <div class="cbp-l-project-related-title">Speed Detector</div>
                     </a>
@@ -60,7 +60,7 @@
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
-                    <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                    <a href="{{ route('admin-1.ajax.project1') }}" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
                         <img src="assets/global/img/portfolio/600x600/27.jpg" alt="">
                         <div class="cbp-l-project-related-title">To-Do Dashboard</div>
                     </a>
