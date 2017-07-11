@@ -54,7 +54,7 @@
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
-                    <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                    <a href="{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
                         <img src="{{ asset('assets/global/img/portfolio/600x600/5.jpg') }}" alt="">
                         <div class="cbp-l-project-related-title">World Clock Widget</div>
                     </a>
