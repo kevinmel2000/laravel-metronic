@@ -8,8 +8,8 @@
                     <img src="{{ asset('assets/global/img/portfolio/1200x900/06.jpg') }}" alt=""> </a>
             </li>
             <li class="cbp-slider-item">
-                <a href="assets/global/img/portfolio/1200x900/08.jpg" class="cbp-lightbox">
-                    <img src="assets/global/img/portfolio/1200x900/08.jpg" alt=""> </a>
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/08.jpg') }}" class="cbp-lightbox">
+                    <img src="{{ asset('assets/global/img/portfolio/1200x900/08.jpg') }}" alt=""> </a>
             </li>
             <li class="cbp-slider-item">
                 <a href="assets/global/img/portfolio/1200x900/77.jpg" class="cbp-lightbox">
