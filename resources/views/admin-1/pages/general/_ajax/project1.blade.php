@@ -4,7 +4,7 @@
     <div class="cbp-slider">
         <ul class="cbp-slider-wrap">
             <li class="cbp-slider-item">
-                <a href="assets/global/img/portfolio/1200x900/06.jpg" class="cbp-lightbox">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/06.jpg') }}" class="cbp-lightbox">
                     <img src="assets/global/img/portfolio/1200x900/06.jpg" alt=""> </a>
             </li>
             <li class="cbp-slider-item">
