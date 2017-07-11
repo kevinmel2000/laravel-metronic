@@ -36,7 +36,7 @@ Route::group(['prefix' => 'admin-1'], function () {
     })->name('admin-1.ajax.project2');
 
     Route::get('_ajax/project3', function () {
-        return 'test';
+        return view('admin-1.pages.general._ajax.project3');
     })->name('admin-1.ajax.project3');
 
     Route::get('_ajax/project4', function () {
