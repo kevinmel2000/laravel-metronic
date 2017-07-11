@@ -32,7 +32,7 @@ Route::group(['prefix' => 'admin-1'], function () {
     })->name('admin-1.ajax.project1');
 
     Route::get('_ajax/project2', function () {
-        return 'test';
+        return view('admin-1.pages.general._ajax.project2');
     })->name('admin-1.ajax.project2');
 
 
