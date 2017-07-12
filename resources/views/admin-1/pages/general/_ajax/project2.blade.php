@@ -54,7 +54,7 @@
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
-                    <a href="ajax-juicy-projects/project3.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                    <a href="{{ route('admin-1.ajax.project3') }}" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
                         <img src="{{ asset('assets/global/img/portfolio/600x600/21.jpg') }}" alt="">
                         <div class="cbp-l-project-related-title">To-Do Dashboard</div>
                     </a>
