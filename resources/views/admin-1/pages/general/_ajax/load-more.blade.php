@@ -22,7 +22,7 @@
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
-                        <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                        <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                         <a href="{{ asset('assets/global/img/portfolio/1200x900/63.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Timezone Mgmt<br>by Cosmin Capitanu">view larger</a>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
-                        <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                        <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                         <a href="{{ asset('assets/global/img/portfolio/1200x900/15.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Website Lightbox<br>by Paul Flavius Nechita">view larger</a>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
-                        <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                        <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                         <a href="{{ asset('assets/global/img/portfolio/1200x900/83.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Archiview<br>by Cosmin Capitanu">view larger</a>
                     </div>
                 </div>
