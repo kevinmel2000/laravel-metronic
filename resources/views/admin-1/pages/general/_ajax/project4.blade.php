@@ -3,8 +3,8 @@
         <div class="cbp-slider">
             <ul class="cbp-slider-wrap">
                 <li class="cbp-slider-item">
-                    <a href="assets/global/img/portfolio/1200x900/1.jpg" class="cbp-lightbox">
-                        <img src="assets/global/img/portfolio/600x600/33.jpg" alt="">
+                    <a href="{{ asset('assets/global/img/portfolio/1200x900/1.jpg') }}" class="cbp-lightbox">
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/33.jpg') }}" alt="">
                     </a>
                 </li>
                 <li class="cbp-slider-item">
