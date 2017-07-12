@@ -214,3 +214,7 @@
 @push('page-level-styles')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/portfolio.min.css') }}">
 @endpush
+
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js') }}"></script>
+@endpush
