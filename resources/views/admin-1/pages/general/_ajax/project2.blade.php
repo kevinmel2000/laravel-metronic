@@ -4,16 +4,16 @@
     <div class="cbp-slider">
         <ul class="cbp-slider-wrap">
             <li class="cbp-slider-item">
-                <a href="asset/global/img/portfolio/1200x900/13.jpg" class="cbp-lightbox">
-                    <img src="asset/global/img/portfolio/1200x900/13.jpg" alt=""> </a>
+                <a href="assets/global/img/portfolio/1200x900/13.jpg" class="cbp-lightbox">
+                    <img src="assets/global/img/portfolio/1200x900/13.jpg" alt=""> </a>
             </li>
             <li class="cbp-slider-item">
-                <a href="asset/global/img/portfolio/1200x900/14.jpg" class="cbp-lightbox">
-                    <img src="asset/global/img/portfolio/1200x900/14.jpg" alt=""> </a>
+                <a href="assets/global/img/portfolio/1200x900/14.jpg" class="cbp-lightbox">
+                    <img src="assets/global/img/portfolio/1200x900/14.jpg" alt=""> </a>
             </li>
             <li class="cbp-slider-item">
-                <a href="asset/global/img/portfolio/1200x900/01.jpg" class="cbp-lightbox">
-                    <img src="asset/global/img/portfolio/1200x900/01.jpg" alt=""> </a>
+                <a href="assets/global/img/portfolio/1200x900/01.jpg" class="cbp-lightbox">
+                    <img src="assets/global/img/portfolio/1200x900/01.jpg" alt=""> </a>
             </li>
         </ul>
     </div>
@@ -49,19 +49,19 @@
             <ul class="cbp-l-project-related-wrap">
                 <li class="cbp-l-project-related-item">
                     <a href="ajax-juicy-projects/project1.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
-                        <img src="asset/global/img/portfolio/600x600/19.jpg" alt="">
+                        <img src="assets/global/img/portfolio/600x600/19.jpg" alt="">
                         <div class="cbp-l-project-related-title">Dashboard</div>
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
                     <a href="ajax-juicy-projects/project3.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
-                        <img src="asset/global/img/portfolio/600x600/21.jpg" alt="">
+                        <img src="assets/global/img/portfolio/600x600/21.jpg" alt="">
                         <div class="cbp-l-project-related-title">To-Do Dashboard</div>
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
                     <a href="ajax-juicy-projects/project4.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
-                        <img src="asset/global/img/portfolio/600x600/65.jpg" alt="">
+                        <img src="assets/global/img/portfolio/600x600/65.jpg" alt="">
                         <div class="cbp-l-project-related-title">Events and More</div>
                     </a>
                 </li>
