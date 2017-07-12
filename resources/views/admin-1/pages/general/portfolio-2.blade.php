@@ -19,4 +19,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Portfolio 2
+        <small>Portfolio 2 - Mosaic Grid</small>
+    </h1>
 @endsection
