@@ -39,6 +39,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         return 'test';
     })->name('admin-1.ajax.project3');
 
+    Route::get('_ajax/project4', function () {
+        return 'test';
+    })->name('admin-1.ajax.project4');
+
 
     /**************************** SIDEBAR: PAGES ******************************/
 
