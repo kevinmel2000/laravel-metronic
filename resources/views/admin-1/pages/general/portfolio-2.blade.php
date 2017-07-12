@@ -45,7 +45,8 @@
             <div class="cbp-item web-design graphic">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/1.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Bolt UI<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/2.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/2.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -59,7 +60,8 @@
             <div class="cbp-item print motion">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/02.jpg') }}" class="cbp-caption cbp-lightbox" data-title="World Clock Widget<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/3.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/3.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
