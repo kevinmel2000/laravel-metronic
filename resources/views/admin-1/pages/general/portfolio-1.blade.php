@@ -81,7 +81,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project1') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
                                 <a href="http://vimeo.com/14912890" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="To-Do Dashboard<br>by Tiberiu Neamu">view video</a>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project1') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
                                 <a href="{{ asset('assets/global/img/portfolio/1200x900/4.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="WhereTO App<br>by Tiberiu Neamu">view larger</a>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project1') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                                 <a href="{{ asset('assets/global/img/portfolio/1200x900/60.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">view sound</a>
                             </div>
                         </div>
@@ -178,7 +178,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project1') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                                 <a href="https://www.ted.com/talks/andrew_bastawrous_get_your_next_eye_exam_on_a_smartphone" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Workout Buddy<br>by Tiberiu Neamu">view video</a>
                             </div>
                         </div>
@@ -210,7 +210,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project1.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project1') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                                 <a href="{{ asset('assets/global/img/portfolio/1200x900/92.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Generic Apps<br>by Cosmin Capitanu">view video</a>
                             </div>
                         </div>
