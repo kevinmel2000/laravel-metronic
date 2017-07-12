@@ -65,7 +65,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
                                 <a href="{{ asset('assets/global/img/portfolio/1200x900/50.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="World Clock Widget<br>by Paul Flavius Nechita">view larger</a>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
                                 <a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/4900333&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
                                     class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="Events and  More<br>by Tiberiu Neamu">view sound</a>
                             </div>
@@ -130,7 +130,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase btn red uppercase" rel="nofollow">more info</a>
                                 <a href="{{ asset('assets/global/img/portfolio/1200x900/7.jpg') }}" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase btn red uppercase" data-title="Ski * Buddy<br>by Tiberiu Neamu">view larger</a>
                             </div>
                         </div>
@@ -162,7 +162,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                                 <a href="http://www.youtube.com/watch?v=Bu9OiDmxCrQ" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Remind~Me More<br>by Tiberiu Neamu">view video</a>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                                 <a href="https://www.youtube.com/watch?v=3wbvpOIIBQA" class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Bills Bills Bills<br>by Cosmin Capitanu">view video</a>
                             </div>
                         </div>
@@ -226,7 +226,7 @@
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
-                                <a href="assets/global/plugins/cubeportfolio/ajax/project2.html" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
+                                <a href="{{ route('admin-1.ajax.project2') }}" class="cbp-singlePage cbp-l-caption-buttonLeft btn red uppercase" rel="nofollow">more info</a>
                                 <a href="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/26519543&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
                                     class="cbp-lightbox cbp-l-caption-buttonRight btn red uppercase" data-title="Speed Detector<br>by Cosmin Capitanu">view sound</a>
                             </div>
