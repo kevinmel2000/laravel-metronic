@@ -97,6 +97,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.portfolio-1');
         })->name('admin-1.page-portfolio-1');
 
+        Route::get('portfolio-2', function () {
+            return view('admin-1.pages.general.portfolio-2');
+        })->name('admin-1.page-portfolio-2');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
