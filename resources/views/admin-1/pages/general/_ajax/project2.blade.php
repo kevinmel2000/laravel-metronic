@@ -60,7 +60,7 @@
                     </a>
                 </li>
                 <li class="cbp-l-project-related-item">
-                    <a href="ajax-juicy-projects/project4.html" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
+                    <a href="{{ route('admin-1.ajax.project4') }}" class="cbp-singlePage cbp-l-project-related-link" rel="nofollow">
                         <img src="{{ asset('assets/global/img/portfolio/600x600/65.jpg') }}" alt="">
                         <div class="cbp-l-project-related-title">Events and More</div>
                     </a>
