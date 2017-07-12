@@ -8,13 +8,13 @@
                     </a>
                 </li>
                 <li class="cbp-slider-item">
-                    <a href="assets/global/img/portfolio/1200x900/02.jog" class="cbp-lightbox">
-                        <img src="assets/global/img/portfolio/600x600/34.jpg" alt="">
+                    <a href="{{ asset('assets/global/img/portfolio/1200x900/02.jog') }}" class="cbp-lightbox">
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/34.jpg') }}" alt="">
                     </a>
                 </li>
                 <li class="cbp-slider-item">
-                    <a href="assets/global/img/portfolio/1200x900/3.jpg" class="cbp-lightbox">
-                        <img src="assets/global/img/portfolio/600x600/26.jpg" alt="">
+                    <a href="{{ asset('assets/global/img/portfolio/1200x900/3.jpg') }}" class="cbp-lightbox">
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/26.jpg') }}" alt="">
                     </a>
                 </li>
             </ul>
