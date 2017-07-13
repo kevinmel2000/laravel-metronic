@@ -163,9 +163,9 @@
                 </a>
             </div>
             <div class="cbp-item motion web-design">
-                <a href="assets/global/img/portfolio/1200x900/84.jpg" class="cbp-caption cbp-lightbox" data-title="Holiday Selector<br>by Cosmin Capitanu">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/84.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Holiday Selector<br>by Cosmin Capitanu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/94.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/94.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -177,9 +177,9 @@
                 </a>
             </div>
             <div class="cbp-item motion">
-                <a href="assets/global/img/portfolio/1200x900/72.jpg" class="cbp-caption cbp-lightbox" data-title="Holiday Selector<br>by Cosmin Capitanu">
+                <a href="{{ ('assets/global/img/portfolio/1200x900/72.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Holiday Selector<br>by Cosmin Capitanu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/62.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/62.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -191,9 +191,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic web-design">
-                <a href="assets/global/img/portfolio/1200x900/05.jpg" class="cbp-caption cbp-lightbox" data-title="Holiday Selector<br>by Cosmin Capitanu">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/05.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Holiday Selector<br>by Cosmin Capitanu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/65.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/65.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
