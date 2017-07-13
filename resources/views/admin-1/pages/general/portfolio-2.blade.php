@@ -135,7 +135,8 @@
             <div class="cbp-item web-design graphic print">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/41.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Workout Buddy<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/58.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/58.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -149,7 +150,8 @@
             <div class="cbp-item print graphic">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/40.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Digital Menu<br>by Cosmin Capitanu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/1200x900/40.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/1200x900/40.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
