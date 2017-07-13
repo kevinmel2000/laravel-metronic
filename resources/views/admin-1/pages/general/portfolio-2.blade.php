@@ -90,7 +90,8 @@
             <div class="cbp-item web-design print">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/12.jpg') }}" class="cbp-caption cbp-lightbox" data-title="iDevices<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/1200x900/12.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/1200x900/12.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -104,7 +105,8 @@
             <div class="cbp-item motion graphic">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/07.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/6.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/6.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
@@ -118,7 +120,8 @@
             <div class="cbp-item print motion">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/6.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Remind~Me Widget<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/45.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/45.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignCenter">
                             <div class="cbp-l-caption-body">
