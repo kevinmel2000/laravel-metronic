@@ -23,6 +23,9 @@ Route::group(['prefix' => 'admin-1'], function () {
         return view('admin-1.layouts.page-layouts.blank-page');
     })->name('admin-1.blank-page');
 
+
+    /************************ SIDEBAR: Partial Ajax ***************************/
+
     Route::get('_ajax/load-more', function () {
         return view('admin-1.pages.general._ajax.load-more');
     })->name('admin-1.ajax.load-more');
