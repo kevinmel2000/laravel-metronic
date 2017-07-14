@@ -19,4 +19,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Portfolio 3
+        <small>Portfolio 3 - Lightbox Grid</small>
+    </h1>
 @endsection
