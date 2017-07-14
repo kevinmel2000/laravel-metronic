@@ -32,9 +32,9 @@
 </div>
 <div class="cbp-loadMore-block2">
     <div class="print cbp-item">
-        <a href="assets/global/img/portfolio/1200x900/06.jpg" class="cbp-caption cbp-lightbox" data-title="Speed Detector<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/06.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Speed Detector<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/9.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/9.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
@@ -46,9 +46,9 @@
         </a>
     </div>
     <div class="motion web-design cbp-item">
-        <a href="assets/global/img/portfolio/1200x900/82.jpg" class="cbp-caption cbp-lightbox" data-title="Sonor Website<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/82.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Sonor Website<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/8.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/8.jpg') }}" alt=""> </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignCenter">
                     <div class="cbp-l-caption-body">
