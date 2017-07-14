@@ -139,9 +139,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Workout Buddy<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="{{ route('admin-1.ajax.project3') }}" class="cbp-caption cbp-singlePageInline" data-title="Workout Buddy<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/04.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/04.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -153,9 +153,9 @@
                 </a>
             </div>
             <div class="cbp-item identity print logos motion">
-                <a href="assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Digital Menu<br>by Cosmin Capitanu" rel="nofollow">
+                <a href="{{ route('admin-1.ajax.project4') }}" class="cbp-caption cbp-singlePageInline" data-title="Digital Menu<br>by Cosmin Capitanu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/4.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/4.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -167,9 +167,9 @@
                 </a>
             </div>
             <div class="cbp-item identity motion web-design">
-                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Holiday Selector<br>by Cosmin Capitanu" rel="nofollow">
+                <a href="{{ route('admin-1.ajax.project3') }}" class="cbp-caption cbp-singlePageInline" data-title="Holiday Selector<br>by Cosmin Capitanu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/05.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/05.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
