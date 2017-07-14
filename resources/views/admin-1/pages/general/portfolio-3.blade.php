@@ -49,9 +49,9 @@
         </div>
         <div id="js-grid-lightbox-gallery" class="cbp">
             <div class="cbp-item web-design graphic print motion">
-                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="World Clock Widget<br>by Paul Flavius Nechita" rel="nofollow">
+                <a href="{{ route('admin-1.ajax.project3') }}" class="cbp-caption cbp-singlePageInline" data-title="World Clock Widget<br>by Paul Flavius Nechita" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/01.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/01.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
