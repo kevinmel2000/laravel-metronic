@@ -66,7 +66,8 @@
             <div class="cbp-item web-design logos identity graphic">
                 <a href="{{ route('admin-1.ajax.project4') }}" class="cbp-caption cbp-singlePageInline" data-title="Bolt UI<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/1.jpg') }}" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/1.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
