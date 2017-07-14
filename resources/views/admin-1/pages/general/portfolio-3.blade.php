@@ -94,9 +94,9 @@
                 </a>
             </div>
             <div class="cbp-item web-design motion logos">
-                <a href="assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="iDevices<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="{{ route('admin-1.ajax.project4') }}" class="cbp-caption cbp-singlePageInline" data-title="iDevices<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/2.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/2.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -108,9 +108,9 @@
                 </a>
             </div>
             <div class="cbp-item identity graphic print">
-                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="{{ route('admin-1.ajax.project3') }}" class="cbp-caption cbp-singlePageInline" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/03.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/03.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -122,9 +122,9 @@
                 </a>
             </div>
             <div class="cbp-item motion print logos web-design">
-                <a href="assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Remind~Me Widget<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="{{ route('admin-1.ajax.project4') }}" class="cbp-caption cbp-singlePageInline" data-title="Remind~Me Widget<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/3.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/3.jpg') }}" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
