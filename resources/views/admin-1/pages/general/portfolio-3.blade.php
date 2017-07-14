@@ -49,9 +49,9 @@
         </div>
         <div id="js-grid-lightbox-gallery" class="cbp">
             <div class="cbp-item web-design graphic print motion">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="World Clock Widget<br>by Paul Flavius Nechita" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="World Clock Widget<br>by Paul Flavius Nechita" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/01.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/01.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -63,9 +63,9 @@
                 </a>
             </div>
             <div class="cbp-item web-design logos identity graphic">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Bolt UI<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Bolt UI<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/1.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/1.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -77,9 +77,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic print identity">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="WhereTO App<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="WhereTO App<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/02.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/02.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -91,9 +91,9 @@
                 </a>
             </div>
             <div class="cbp-item web-design motion logos">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="iDevices<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="iDevices<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/2.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/2.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -105,9 +105,9 @@
                 </a>
             </div>
             <div class="cbp-item identity graphic print">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/03.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/03.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -119,9 +119,9 @@
                 </a>
             </div>
             <div class="cbp-item motion print logos web-design">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Remind~Me Widget<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Remind~Me Widget<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/3.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/3.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -133,9 +133,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Workout Buddy<br>by Tiberiu Neamu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Workout Buddy<br>by Tiberiu Neamu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/04.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/04.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -147,9 +147,9 @@
                 </a>
             </div>
             <div class="cbp-item identity print logos motion">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Digital Menu<br>by Cosmin Capitanu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project4.html" class="cbp-caption cbp-singlePageInline" data-title="Digital Menu<br>by Cosmin Capitanu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/4.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/4.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -161,9 +161,9 @@
                 </a>
             </div>
             <div class="cbp-item identity motion web-design">
-                <a href="../assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Holiday Selector<br>by Cosmin Capitanu" rel="nofollow">
+                <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Holiday Selector<br>by Cosmin Capitanu" rel="nofollow">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/05.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/05.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -176,7 +176,7 @@
             </div>
         </div>
         <div id="js-loadMore-lightbox-gallery" class="cbp-l-loadMore-button">
-            <a href="../assets/global/plugins/cubeportfolio/ajax/loadMore3.html" class="cbp-l-loadMore-link btn grey-mint btn-outline" rel="nofollow">
+            <a href="assets/global/plugins/cubeportfolio/ajax/loadMore3.html" class="cbp-l-loadMore-link btn grey-mint btn-outline" rel="nofollow">
                 <span class="cbp-l-loadMore-defaultText">LOAD MORE</span>
                 <span class="cbp-l-loadMore-loadingText">LOADING...</span>
                 <span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS</span>
