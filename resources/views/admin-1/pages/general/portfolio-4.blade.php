@@ -257,7 +257,7 @@
             </div>
         </div>
         <div id="js-loadMore-full-width" class="cbp-l-loadMore-text">
-            <a href="assets/global/plugins/cubeportfolio/ajax/loadMore4.html" class="cbp-l-loadMore-link btn" rel="nofollow">
+            <a href="{{ route('admin-1.ajax.load-more4') }}" class="cbp-l-loadMore-link btn" rel="nofollow">
                 <span class="cbp-l-loadMore-defaultText">LOAD MORE</span>
                 <span class="cbp-l-loadMore-loadingText">LOADING...</span>
                 <span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS</span>
