@@ -148,6 +148,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.pricing-1');
         })->name('admin-1.page-pricing-1');
 
+        Route::get('pricing-2', function () {
+            return view('admin-1.pages.general.pricing-2');
+        })->name('admin-1.page-pricing-2');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
