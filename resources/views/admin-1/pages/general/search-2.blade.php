@@ -328,5 +328,5 @@
 @endpush
 
 @push('page-level-scripts')
-    <script src="../assets/pages/scripts/search.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/search.min.js') }}"></script>
 @endpush
