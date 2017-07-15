@@ -312,3 +312,8 @@
         </div>
     </div>
 @endsection
+
+@push('page-level-plugins-header')
+    <link href="../assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css" rel="stylesheet" type="text/css" />
+    <link href="../assets/global/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet" type="text/css" />
+@endpush
