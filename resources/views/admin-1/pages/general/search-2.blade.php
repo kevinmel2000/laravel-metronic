@@ -319,5 +319,5 @@
 @endpush
 
 @push('page-level-styles')
-    <link href="../assets/pages/css/search.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/search.min.css') }}">
 @endpush
