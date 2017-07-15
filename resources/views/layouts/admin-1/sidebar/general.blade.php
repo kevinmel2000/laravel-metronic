@@ -46,7 +46,7 @@
             </a>
             <ul class="sub-menu">
                 <li class="nav-item ">
-                    <a href="page_general_search.html" class="nav-link "> Search 1 </a>
+                    <a href="{{ route('admin-1.page-search-1') }}" class="nav-link "> Search 1 </a>
                 </li>
                 <li class="nav-item ">
                     <a href="page_general_search_2.html" class="nav-link "> Search 2 </a>
