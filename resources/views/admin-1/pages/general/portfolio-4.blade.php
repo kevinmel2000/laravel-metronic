@@ -46,9 +46,9 @@
         </div>
         <div id="js-grid-full-width" class="cbp">
             <div class="cbp-item identity logos">
-                <a href="../assets/global/img/portfolio/1200x900/01.jpg" class="cbp-caption cbp-lightbox" data-title="Dashboard<br>by Paul Flavius Nechita">
+                <a href="assets/global/img/portfolio/1200x900/01.jpg" class="cbp-caption cbp-lightbox" data-title="Dashboard<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/21.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/21.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -60,9 +60,9 @@
                 </a>
             </div>
             <div class="cbp-item web-design">
-                <a href="../assets/global/img/portfolio/1200x900/1.jpg" class="cbp-caption cbp-lightbox" data-title="Client chat app WIP<br>by Paul Flavius Nechita">
+                <a href="assets/global/img/portfolio/1200x900/1.jpg" class="cbp-caption cbp-lightbox" data-title="Client chat app WIP<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/22.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/22.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -74,9 +74,9 @@
                 </a>
             </div>
             <div class="cbp-item motion identity">
-                <a href="../assets/global/img/portfolio/1200x900/02.jpg" class="cbp-caption cbp-lightbox" data-title="World Clock Widget<br>by Paul Flavius Nechita">
+                <a href="assets/global/img/portfolio/1200x900/02.jpg" class="cbp-caption cbp-lightbox" data-title="World Clock Widget<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/23.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/23.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -88,9 +88,9 @@
                 </a>
             </div>
             <div class="cbp-item identity graphic">
-                <a href="../assets/global/img/portfolio/1200x900/2.jpg" class="cbp-caption cbp-lightbox" data-title="Website Lightbox<br>by Paul Flavius Nechita">
+                <a href="assets/global/img/portfolio/1200x900/2.jpg" class="cbp-caption cbp-lightbox" data-title="Website Lightbox<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/24.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/24.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -102,9 +102,9 @@
                 </a>
             </div>
             <div class="cbp-item motion logos">
-                <a href="../assets/global/img/portfolio/1200x900/03.jpg" class="cbp-caption cbp-lightbox" data-title="Skateshop Website<br>by Paul Flavius Nechita">
+                <a href="assets/global/img/portfolio/1200x900/03.jpg" class="cbp-caption cbp-lightbox" data-title="Skateshop Website<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/25.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/25.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -116,9 +116,9 @@
                 </a>
             </div>
             <div class="cbp-item web-design">
-                <a href="../assets/global/img/portfolio/1200x900/3.jpg" class="cbp-caption cbp-lightbox" data-title="10 Navigation Bars<br>by Paul Flavius Nechita">
+                <a href="assets/global/img/portfolio/1200x900/3.jpg" class="cbp-caption cbp-lightbox" data-title="10 Navigation Bars<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/26.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/26.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -130,9 +130,9 @@
                 </a>
             </div>
             <div class="cbp-item identity motion">
-                <a href="../assets/global/img/portfolio/1200x900/04.jpg" class="cbp-caption cbp-lightbox" data-title="To-Do Dashboard<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/04.jpg" class="cbp-caption cbp-lightbox" data-title="To-Do Dashboard<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/1200x900/10.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/1200x900/10.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -144,9 +144,9 @@
                 </a>
             </div>
             <div class="cbp-item web-design graphic">
-                <a href="../assets/global/img/portfolio/1200x900/4.jpg" class="cbp-caption cbp-lightbox" data-title="Events and  More<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/4.jpg" class="cbp-caption cbp-lightbox" data-title="Events and  More<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/27.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/27.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -158,9 +158,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="../assets/global/img/portfolio/1200x900/05.jpg" class="cbp-caption cbp-lightbox" data-title="WhereTO App<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/05.jpg" class="cbp-caption cbp-lightbox" data-title="WhereTO App<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/28.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/28.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -172,9 +172,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic motion">
-                <a href="../assets/global/img/portfolio/1200x900/5.jpg" class="cbp-caption cbp-lightbox" data-title="Bolt UI<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/5.jpg" class="cbp-caption cbp-lightbox" data-title="Bolt UI<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/29.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/29.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -186,9 +186,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic">
-                <a href="../assets/global/img/portfolio/1200x900/06.jpg" class="cbp-caption cbp-lightbox" data-title="iDevices<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/06.jpg" class="cbp-caption cbp-lightbox" data-title="iDevices<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/30.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/30.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -200,9 +200,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="../assets/global/img/portfolio/1200x900/6.jpg" class="cbp-caption cbp-lightbox" data-title="Ski * Buddy<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/6.jpg" class="cbp-caption cbp-lightbox" data-title="Ski * Buddy<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/31.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/31.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -214,9 +214,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="../assets/global/img/portfolio/1200x900/07.jpg" class="cbp-caption cbp-lightbox" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/07.jpg" class="cbp-caption cbp-lightbox" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/32.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/32.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -228,9 +228,9 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="../assets/global/img/portfolio/1200x900/7.jpg" class="cbp-caption cbp-lightbox" data-title="Drag 2 Upload ~ Widget<br>by Tiberiu Neamu">
+                <a href="assets/global/img/portfolio/1200x900/7.jpg" class="cbp-caption cbp-lightbox" data-title="Drag 2 Upload ~ Widget<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="../assets/global/img/portfolio/600x600/33.jpg" alt=""> </div>
+                        <img src="assets/global/img/portfolio/600x600/33.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -243,7 +243,7 @@
             </div>
         </div>
         <div id="js-loadMore-full-width" class="cbp-l-loadMore-text">
-            <a href="../assets/global/plugins/cubeportfolio/ajax/loadMore4.html" class="cbp-l-loadMore-link btn" rel="nofollow">
+            <a href="assets/global/plugins/cubeportfolio/ajax/loadMore4.html" class="cbp-l-loadMore-link btn" rel="nofollow">
                 <span class="cbp-l-loadMore-defaultText">LOAD MORE</span>
                 <span class="cbp-l-loadMore-loadingText">LOADING...</span>
                 <span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS</span>
