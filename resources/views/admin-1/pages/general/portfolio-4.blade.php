@@ -46,9 +46,10 @@
         </div>
         <div id="js-grid-full-width" class="cbp">
             <div class="cbp-item identity logos">
-                <a href="assets/global/img/portfolio/1200x900/01.jpg" class="cbp-caption cbp-lightbox" data-title="Dashboard<br>by Paul Flavius Nechita">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/01.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Dashboard<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/21.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/21.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
