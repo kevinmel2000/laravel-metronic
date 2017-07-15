@@ -168,7 +168,7 @@
             <div class="cbp-item graphic logos">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/05.jpg') }}" class="cbp-caption cbp-lightbox" data-title="WhereTO App<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ assset('assets/global/img/portfolio/600x600/28.jpg') }}" alt="">
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/28.jpg') }}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
