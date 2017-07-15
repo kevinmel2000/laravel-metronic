@@ -58,7 +58,7 @@
                     <a href="{{ route('admin-1.page-search-4') }}" class="nav-link "> Search 4 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="page_general_search_5.html" class="nav-link "> Search 5 </a>
+                    <a href="{{ route('admin-1.page-search-5') }}" class="nav-link "> Search 5 </a>
                 </li>
             </ul>
         </li>
