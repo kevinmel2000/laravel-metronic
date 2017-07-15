@@ -544,3 +544,7 @@
         </div>
     </div>
 @endsection
+
+@push('page-level-styles')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/pricing.min.css') }}">
+@endpush
