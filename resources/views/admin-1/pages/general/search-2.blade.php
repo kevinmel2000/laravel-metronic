@@ -321,3 +321,8 @@
 @push('page-level-styles')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/search.min.css') }}">
 @endpush
+
+@push('page-level-plugins-footer')
+    <script src="../assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js" type="text/javascript"></script>
+    <script src="../assets/global/plugins/fancybox/source/jquery.fancybox.pack.js" type="text/javascript"></script>
+@endpush
