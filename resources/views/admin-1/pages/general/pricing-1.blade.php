@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Pricing Tables
+        <small>pricing table samples</small>
+    </h1>
 @endsection
