@@ -1,9 +1,9 @@
 <div class="portfolio-content">
     <div class="cbp-loadMore-block1">
         <div class="cbp-item web-design print motion">
-            <a href="assets/global/plugins/cubeportfolio/ajax/project3.html" class="cbp-caption cbp-singlePageInline" data-title="Flat Roman Typeface Ui<br>by Cosmin Capitanu" rel="nofollow">
+            <a href="{{ route('admin-1.ajax.project3') }}" class="cbp-caption cbp-singlePageInline" data-title="Flat Roman Typeface Ui<br>by Cosmin Capitanu" rel="nofollow">
                 <div class="cbp-caption-defaultWrap">
-                    <img src="assets/global/img/portfolio/600x600/5.jpg" alt=""> </div>
+                    <img src="{{ asset('assets/global/img/portfolio/600x600/5.jpg') }}" alt=""> </div>
                 <div class="cbp-caption-activeWrap">
                     <div class="cbp-l-caption-alignLeft">
                         <div class="cbp-l-caption-body">
