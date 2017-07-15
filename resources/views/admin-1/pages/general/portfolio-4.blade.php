@@ -61,9 +61,10 @@
                 </a>
             </div>
             <div class="cbp-item web-design">
-                <a href="assets/global/img/portfolio/1200x900/1.jpg" class="cbp-caption cbp-lightbox" data-title="Client chat app WIP<br>by Paul Flavius Nechita">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/1.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Client chat app WIP<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/22.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/22.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -75,9 +76,10 @@
                 </a>
             </div>
             <div class="cbp-item motion identity">
-                <a href="assets/global/img/portfolio/1200x900/02.jpg" class="cbp-caption cbp-lightbox" data-title="World Clock Widget<br>by Paul Flavius Nechita">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/02.jpg') }}" class="cbp-caption cbp-lightbox" data-title="World Clock Widget<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/23.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/23.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -89,9 +91,10 @@
                 </a>
             </div>
             <div class="cbp-item identity graphic">
-                <a href="assets/global/img/portfolio/1200x900/2.jpg" class="cbp-caption cbp-lightbox" data-title="Website Lightbox<br>by Paul Flavius Nechita">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/2.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Website Lightbox<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/24.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/24.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
