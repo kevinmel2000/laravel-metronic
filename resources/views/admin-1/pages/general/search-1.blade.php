@@ -45,7 +45,7 @@
                     <ul>
                         <li class="search-item clearfix">
                             <a href="javascriptt:;">
-                                <img src="assets/pages/img/page_general_search/01.jpg">
+                                <img src="{{ asset('assets/pages/img/page_general_search/01.jpg') }}">
                             </a>
                             <div class="search-content">
                                 <h2 class="search-title">
@@ -56,7 +56,7 @@
                         </li>
                         <li class="search-item clearfix">
                             <a href="javascript:;">
-                                <img src="assets/pages/img/page_general_search/1.jpg">
+                                <img src="{{ asset('assets/pages/img/page_general_search/1.jpg') }}">
                             </a>
                             <div class="search-content">
                                 <h2 class="search-title">
@@ -67,7 +67,7 @@
                         </li>
                         <li class="search-item clearfix">
                             <a href="javascript:;">
-                                <img src="assets/pages/img/page_general_search/02.jpg">
+                                <img src="{{ asset('assets/pages/img/page_general_search/02.jpg') }}">
                             </a>
                             <div class="search-content">
                                 <h2 class="search-title">
@@ -78,7 +78,7 @@
                         </li>
                         <li class="search-item clearfix">
                             <a href="javascript:;">
-                                <img src="assets/pages/img/page_general_search/2.jpg">
+                                <img src="{{ asset('assets/pages/img/page_general_search/2.jpg') }}">
                             </a>
                             <div class="search-content">
                                 <h2 class="search-title">
@@ -89,7 +89,7 @@
                         </li>
                         <li class="search-item clearfix">
                             <a href="javascript:;">
-                                <img src="assets/pages/img/page_general_search/03.jpg">
+                                <img src="{{ asset('assets/pages/img/page_general_search/03.jpg') }}">
                             </a>
                             <div class="search-content">
                                 <h2 class="search-title">
@@ -100,7 +100,7 @@
                         </li>
                         <li class="search-item clearfix">
                             <a href="javascript:;">
-                                <img src="assets/pages/img/page_general_search/05.jpg">
+                                <img src="{{ asset('assets/pages/img/page_general_search/05.jpg') }}">
                             </a>
                             <div class="search-content">
                                 <h2 class="search-title">
@@ -111,7 +111,7 @@
                         </li>
                         <li class="search-item clearfix">
                             <a href="javascript:;">
-                                <img src="assets/pages/img/page_general_search/5.jpg">
+                                <img src="{{ asset('assets/pages/img/page_general_search/5.jpg') }}">
                             </a>
                             <div class="search-content">
                                 <h2 class="search-title">
