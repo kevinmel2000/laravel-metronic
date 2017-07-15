@@ -60,9 +60,10 @@
         </a>
     </div>
     <div class="cbp-item graphic logos">
-        <a href="assets/global/img/portfolio/1200x900/11.jpg" class="cbp-caption cbp-lightbox" data-title="Story Book<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/11.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Story Book<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/37.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/37.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
@@ -74,9 +75,10 @@
         </a>
     </div>
     <div class="cbp-item graphic">
-        <a href="assets/global/img/portfolio/1200x900/12.jpg" class="cbp-caption cbp-lightbox" data-title="Space Trip<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/12.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Space Trip<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/38.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/38.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
@@ -88,9 +90,10 @@
         </a>
     </div>
     <div class="cbp-item logos motion">
-        <a href="assets/global/img/portfolio/1200x900/13.jpg" class="cbp-caption cbp-lightbox" data-title="Digital Menu<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/13.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Digital Menu<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/39.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/39.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
