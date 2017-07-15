@@ -61,7 +61,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/01.jpg" />
+                                    <img src="assets/pages/img/page_general_search/01.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -87,7 +87,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/1.jpg" />
+                                    <img src="assets/pages/img/page_general_search/1.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -113,7 +113,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/02.jpg" />
+                                    <img src="assets/pages/img/page_general_search/02.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -139,7 +139,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/2.jpg" />
+                                    <img src="assets/pages/img/page_general_search/2.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -165,7 +165,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/03.jpg" />
+                                    <img src="assets/pages/img/page_general_search/03.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -191,7 +191,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/3.jpg" />
+                                    <img src="assets/pages/img/page_general_search/3.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -217,7 +217,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/04.jpg" />
+                                    <img src="assets/pages/img/page_general_search/04.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -243,7 +243,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/4.jpg" />
+                                    <img src="assets/pages/img/page_general_search/4.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
@@ -269,7 +269,7 @@
                         <div class="tile-container">
                             <div class="tile-thumbnail">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/page_general_search/05.jpg" />
+                                    <img src="assets/pages/img/page_general_search/05.jpg" />
                                 </a>
                             </div>
                             <div class="tile-title">
