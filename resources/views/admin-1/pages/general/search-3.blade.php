@@ -157,3 +157,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.css') }}">
 @endpush
+
+@push('page-level-styles')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/search.min.css') }}">
+@endpush
