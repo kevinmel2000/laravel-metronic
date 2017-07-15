@@ -140,6 +140,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.search-4');
         })->name('admin-1.page-search-4');
 
+        Route::get('search-5', function () {
+            return view('admin-1.pages.general.search-5');
+        })->name('admin-1.page-search-5');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
