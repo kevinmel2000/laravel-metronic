@@ -197,9 +197,10 @@
         </a>
     </div>
     <div class="cbp-item graphic">
-        <a href="assets/global/img/portfolio/1200x900/20.jpg" class="cbp-caption cbp-lightbox" data-title="Ultramarine Admin<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/20.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Ultramarine Admin<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/46.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/46.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
@@ -213,9 +214,10 @@
 </div>
 <div class="cbp-loadMore-block3">
     <div class="cbp-item identity">
-        <a href="assets/global/img/portfolio/1200x900/21.jpg" class="cbp-caption cbp-lightbox" data-title="Travelling Wip<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/21.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Travelling Wip<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/47.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/47.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
@@ -227,9 +229,10 @@
         </a>
     </div>
     <div class="cbp-item logos">
-        <a href="assets/global/img/portfolio/1200x900/22.jpg" class="cbp-caption cbp-lightbox" data-title="Travelling Map Wip<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/22.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Travelling Map Wip<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/48.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/48.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
@@ -241,9 +244,10 @@
         </a>
     </div>
     <div class="cbp-item identity motion">
-        <a href="assets/global/img/portfolio/1200x900/23.jpg" class="cbp-caption cbp-lightbox" data-title="Grid Creator<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/23.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Grid Creator<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/49.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/49.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
