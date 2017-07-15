@@ -326,3 +326,7 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.pack.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script src="../assets/pages/scripts/search.min.js" type="text/javascript"></script>
+@endpush
