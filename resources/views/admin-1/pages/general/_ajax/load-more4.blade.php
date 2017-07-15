@@ -107,9 +107,10 @@
 </div>
 <div class="cbp-loadMore-block2">
     <div class="cbp-item web-design">
-        <a href="assets/global/img/portfolio/1200x900/14.jpg" class="cbp-caption cbp-lightbox" data-title="21 Degrees<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/14.jpg') }}" class="cbp-caption cbp-lightbox" data-title="21 Degrees<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/40.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/40.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
@@ -121,9 +122,10 @@
         </a>
     </div>
     <div class="cbp-item identity">
-        <a href="assets/global/img/portfolio/1200x900/15.jpg" class="cbp-caption cbp-lightbox" data-title="Mountaineer<br>by Cosmin Capitanu">
+        <a href="{{ asset('assets/global/img/portfolio/1200x900/15.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Mountaineer<br>by Cosmin Capitanu">
             <div class="cbp-caption-defaultWrap">
-                <img src="assets/global/img/portfolio/600x600/41.jpg" alt=""> </div>
+                <img src="{{ asset('assets/global/img/portfolio/600x600/41.jpg') }}" alt="">
+            </div>
             <div class="cbp-caption-activeWrap">
                 <div class="cbp-l-caption-alignLeft">
                     <div class="cbp-l-caption-body">
