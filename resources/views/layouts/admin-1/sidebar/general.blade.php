@@ -34,7 +34,7 @@
                     <a href="{{ route('admin-1.page-portfolio-3') }}" class="nav-link "> Portfolio 3 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="page_general_portfolio_4.html" class="nav-link "> Portfolio 4 </a>
+                    <a href="{{ route('admin-1.page-portfolio-4') }}" class="nav-link "> Portfolio 4 </a>
                 </li>
             </ul>
         </li>
