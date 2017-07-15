@@ -19,4 +19,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Search Results
+        <small>search results</small>
+    </h1>
 @endsection
