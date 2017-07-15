@@ -263,3 +263,7 @@
 @push('page-level-plugins-footer')
     <script type="text/javascript" src="{{ asset('assets/global/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/portfolio-4.min.js') }}"></script>
+@endpush
