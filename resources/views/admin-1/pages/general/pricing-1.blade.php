@@ -218,4 +218,198 @@
             </div>
         </div>
     </div>
+
+    <div class="portlet light portlet-fit bordered">
+        <div class="portlet-title">
+            <div class="caption">
+                <i class="icon-share font-red"></i>
+                <span class="caption-subject font-red bold uppercase">Pricing 2</span>
+            </div>
+            <div class="actions">
+                <a class="btn btn-circle btn-icon-only btn-default" href="javascript:;">
+                    <i class="icon-cloud-upload"></i>
+                </a>
+                <a class="btn btn-circle btn-icon-only btn-default" href="javascript:;">
+                    <i class="icon-wrench"></i>
+                </a>
+                <a class="btn btn-circle btn-icon-only btn-default fullscreen" href="javascript:;"> </a>
+                <a class="btn btn-circle btn-icon-only btn-default" href="javascript:;">
+                    <i class="icon-trash"></i>
+                </a>
+            </div>
+        </div>
+        <div class="portlet-body">
+            <div class="pricing-content-2">
+                <div class="pricing-table-container">
+                    <div class="row padding-fix">
+                        <div class="col-md-3 no-padding">
+                            <div class="price-column-container border-right border-top border-left">
+                                <div class="price-table-head price-1">
+                                    <h2 class="uppercase no-margin">Budget</h2>
+                                </div>
+                                <div class="price-table-pricing">
+                                    <h3>
+                                        <sup class="price-sign">$</sup>24</h3>
+                                    <p class="uppercase">per month</p>
+                                </div>
+                                <div class="price-table-content">
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-user"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">3 Members</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-drawer"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">50GB Storage</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-screen-smartphone"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">Single Device</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-refresh"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">Monthly Backups</div>
+                                    </div>
+                                </div>
+                                <div class="price-table-footer">
+                                    <button type="button" class="btn grey-salsa btn-outline sbold uppercase bold">Sign Up</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 no-padding">
+                            <div class="price-column-container border-top">
+                                <div class="price-table-head price-1">
+                                    <h2 class="uppercase no-margin">Solo</h2>
+                                </div>
+                                <div class="price-table-pricing">
+                                    <h3>
+                                        <sup class="price-sign">$</sup>39</h3>
+                                    <p class="uppercase">per month</p>
+                                </div>
+                                <div class="price-table-content">
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-user"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">5 Members</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-drawer"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">100GB Storage</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-screen-smartphone"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">Single Device</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-refresh"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">Weekly Backups</div>
+                                    </div>
+                                </div>
+                                <div class="price-table-footer">
+                                    <button type="button" class="btn grey-salsa btn-outline sbold uppercase bold">Sign Up</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 no-padding">
+                            <div class="price-column-container featured-price border-top">
+                                <div class="price-feature-label uppercase bg-green-jungle">Best Value</div>
+                                <div class="price-table-head price-2">
+                                    <h2 class="uppercase no-margin">Start up</h2>
+                                </div>
+                                <div class="price-table-pricing">
+                                    <h3>
+                                        <sup class="price-sign">$</sup>59</h3>
+                                    <p class="uppercase">per month</p>
+                                </div>
+                                <div class="price-table-content">
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-user-follow"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">20 Members</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-drawer"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">500GB Storage</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-cloud-download"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase font-green sbold">Cloud Syncing</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-refresh"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase font-green sbold">Daily Backups</div>
+                                    </div>
+                                </div>
+                                <div class="price-table-footer">
+                                    <button type="button" class="btn green featured-price uppercase">Get it now!</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 no-padding">
+                            <div class="price-column-container border-top border-right">
+                                <div class="price-table-head price-3">
+                                    <h2 class="uppercase no-margin">Enterprise</h2>
+                                </div>
+                                <div class="price-table-pricing">
+                                    <h3>
+                                        <sup class="price-sign">$</sup>128</h3>
+                                    <p class="uppercase">per month</p>
+                                </div>
+                                <div class="price-table-content">
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-users"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">100 Members</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-drawer"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase font-green sbold">2TB Storage</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-cloud-download"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">Cloud Syncing</div>
+                                    </div>
+                                    <div class="row no-margin">
+                                        <div class="col-xs-3 text-right">
+                                            <i class="icon-refresh"></i>
+                                        </div>
+                                        <div class="col-xs-9 text-left uppercase">Weekly Backups</div>
+                                    </div>
+                                </div>
+                                <div class="price-table-footer">
+                                    <button type="button" class="btn grey-salsa btn-outline sbold uppercase bold">Sign Up</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
