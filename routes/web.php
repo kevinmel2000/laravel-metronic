@@ -34,6 +34,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         return view('admin-1.pages.general._ajax.load-more2');
     })->name('admin-1.ajax.load-more2');
 
+    Route::get('_ajax/load-more3', function () {
+        return view('admin-1.pages.general._ajax.load-more3');
+    })->name('admin-1.ajax.load-more3');
+
     Route::get('_ajax/project1', function () {
         return view('admin-1.pages.general._ajax.project1');
     })->name('admin-1.ajax.project1');
