@@ -183,7 +183,7 @@
             <div class="cbp-item graphic motion">
                 <a href="{{ asset('assets/global/img/portfolio/1200x900/5.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Bolt UI<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="{{ asset('assets/global/img/portfolio/600x600/29.jpg') }}" alt=""> 
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/29.jpg') }}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -196,9 +196,10 @@
                 </a>
             </div>
             <div class="cbp-item graphic">
-                <a href="assets/global/img/portfolio/1200x900/06.jpg" class="cbp-caption cbp-lightbox" data-title="iDevices<br>by Tiberiu Neamu">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/06.jpg') }}" class="cbp-caption cbp-lightbox" data-title="iDevices<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/30.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/30.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -210,9 +211,10 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="assets/global/img/portfolio/1200x900/6.jpg" class="cbp-caption cbp-lightbox" data-title="Ski * Buddy<br>by Tiberiu Neamu">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/6.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Ski * Buddy<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/31.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/31.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -224,9 +226,10 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="assets/global/img/portfolio/1200x900/07.jpg" class="cbp-caption cbp-lightbox" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/07.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/32.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/32.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
