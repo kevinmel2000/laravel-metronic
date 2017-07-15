@@ -106,9 +106,10 @@
                 </a>
             </div>
             <div class="cbp-item motion logos">
-                <a href="assets/global/img/portfolio/1200x900/03.jpg" class="cbp-caption cbp-lightbox" data-title="Skateshop Website<br>by Paul Flavius Nechita">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/03.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Skateshop Website<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/25.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/25.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -120,9 +121,10 @@
                 </a>
             </div>
             <div class="cbp-item web-design">
-                <a href="assets/global/img/portfolio/1200x900/3.jpg" class="cbp-caption cbp-lightbox" data-title="10 Navigation Bars<br>by Paul Flavius Nechita">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/3.jpg') }}" class="cbp-caption cbp-lightbox" data-title="10 Navigation Bars<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/26.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/26.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
@@ -134,9 +136,10 @@
                 </a>
             </div>
             <div class="cbp-item identity motion">
-                <a href="assets/global/img/portfolio/1200x900/04.jpg" class="cbp-caption cbp-lightbox" data-title="To-Do Dashboard<br>by Tiberiu Neamu">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/04.jpg') }}" class="cbp-caption cbp-lightbox" data-title="To-Do Dashboard<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/1200x900/10.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/1200x900/10.jpg') }}" alt=""> 
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
