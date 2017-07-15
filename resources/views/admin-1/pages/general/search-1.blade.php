@@ -202,3 +202,9 @@
 @push('page-level-scripts')
     <script type="text/javascript" src="{{ asset('assets/pages/scripts/search.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script>
+        $('body').addClass('page-container-bg-solid');
+    </script>
+@endpush
