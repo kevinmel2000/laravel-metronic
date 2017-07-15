@@ -241,9 +241,10 @@
                 </a>
             </div>
             <div class="cbp-item graphic logos">
-                <a href="assets/global/img/portfolio/1200x900/7.jpg" class="cbp-caption cbp-lightbox" data-title="Drag 2 Upload ~ Widget<br>by Tiberiu Neamu">
+                <a href="{{ asset('assets/global/img/portfolio/1200x900/7.jpg') }}" class="cbp-caption cbp-lightbox" data-title="Drag 2 Upload ~ Widget<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/global/img/portfolio/600x600/33.jpg" alt=""> </div>
+                        <img src="{{ asset('assets/global/img/portfolio/600x600/33.jpg') }}" alt="">
+                    </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
                             <div class="cbp-l-caption-body">
