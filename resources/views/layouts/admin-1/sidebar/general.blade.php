@@ -69,7 +69,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_general_pricing_2.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-pricing-2') }}" class="nav-link ">
                 <i class="icon-tag"></i>
                 <span class="title">Pricing 2</span>
             </a>
