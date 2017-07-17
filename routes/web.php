@@ -168,6 +168,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.invoice-1');
         })->name('admin-1.page-invoice-1');
 
+        Route::get('invoice-2', function () {
+            return view('admin-1.pages.general.invoice-2');
+        })->name('admin-1.page-invoice-2');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
