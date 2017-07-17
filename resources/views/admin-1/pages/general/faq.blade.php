@@ -389,3 +389,9 @@
 @push('page-level-styles')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/faq.min.css') }}">
 @endpush
+
+@push('page-level-scripts')
+    <script>
+        $('body').addClass('page-container-bg-solid');
+    </script>
+@endpush
