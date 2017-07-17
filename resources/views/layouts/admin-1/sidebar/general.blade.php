@@ -81,7 +81,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_general_blog.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-blog') }}" class="nav-link ">
                 <i class="icon-pencil"></i>
                 <span class="title">Blog</span>
             </a>
