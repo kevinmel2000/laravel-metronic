@@ -1259,7 +1259,7 @@
                         <!-- END PORTLET -->
                     </div>
                 </div>
-                
+
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portlet light portlet-fit ">
@@ -1278,6 +1278,7 @@
                                     </div>
                                 </div>
                             </div>
+
                             <div class="portlet-body">
                                 <div class="timeline">
                                     <!-- TIMELINE ITEM -->
@@ -1321,10 +1322,12 @@
                                         </div>
                                     </div>
                                     <!-- END TIMELINE ITEM -->
+
                                     <!-- TIMELINE ITEM WITH GOOGLE MAP -->
                                     <div class="timeline-item">
                                         <div class="timeline-badge">
-                                            <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_7.jpg') }}"> </div>
+                                            <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_7.jpg') }}">
+                                        </div>
                                         <div class="timeline-body">
                                             <div class="timeline-body-arrow"> </div>
                                             <div class="timeline-body-head">
@@ -1361,6 +1364,7 @@
                                         </div>
                                     </div>
                                     <!-- END TIMELINE ITEM WITH GOOGLE MAP -->
+
                                     <!-- TIMELINE ITEM -->
                                     <div class="timeline-item">
                                         <div class="timeline-badge">
@@ -1377,9 +1381,7 @@
                                                 </div>
                                                 <div class="timeline-body-head-actions">
                                                     <div class="btn-group">
-                                                        <button class="btn btn-circle green btn-outline
-
-                    btn-sm dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" data-close-others="true"> Actions
+                                                        <button class="btn btn-circle green btn-outline btn-sm dropdown-toggle" type="button" data-toggle="dropdown" data-hover="dropdown" data-close-others="true"> Actions
                                                             <i class="fa fa-angle-down"></i>
                                                         </button>
                                                         <ul class="dropdown-menu pull-right" role="menu">
@@ -1408,6 +1410,7 @@
                                         </div>
                                     </div>
                                     <!-- END TIMELINE ITEM -->
+
                                     <!-- TIMELINE ITEM -->
                                     <div class="timeline-item">
                                         <div class="timeline-badge">
@@ -1453,6 +1456,7 @@
                                         </div>
                                     </div>
                                     <!-- END TIMELINE ITEM -->
+
                                 </div>
                             </div>
                         </div>
@@ -1460,6 +1464,7 @@
                 </div>
             </div>
             <!-- END PROFILE CONTENT -->
+            
         </div>
     </div>
 @endsection
