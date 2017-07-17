@@ -27,7 +27,7 @@
                 <div class="portlet light profile-sidebar-portlet ">
                     <!-- SIDEBAR USERPIC -->
                     <div class="profile-userpic">
-                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt=""> </div>
+                        <img src="assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt=""> </div>
                     <!-- END SIDEBAR USERPIC -->
                     <!-- SIDEBAR USER TITLE -->
                     <div class="profile-usertitle">
@@ -162,7 +162,7 @@
                                         </thead>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="../assets/pages/media/users/avatar4.jpg"> </td>
+                                                <img class="user-pic" src="assets/pages/media/users/avatar4.jpg"> </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Brain</a>
                                             </td>
@@ -175,7 +175,7 @@
                                         </tr>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="../assets/pages/media/users/avatar5.jpg"> </td>
+                                                <img class="user-pic" src="assets/pages/media/users/avatar5.jpg"> </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Nick</a>
                                             </td>
@@ -188,7 +188,7 @@
                                         </tr>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="../assets/pages/media/users/avatar6.jpg"> </td>
+                                                <img class="user-pic" src="assets/pages/media/users/avatar6.jpg"> </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Tim</a>
                                             </td>
@@ -201,7 +201,7 @@
                                         </tr>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="../assets/pages/media/users/avatar7.jpg"> </td>
+                                                <img class="user-pic" src="assets/pages/media/users/avatar7.jpg"> </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Tom</a>
                                             </td>
@@ -787,7 +787,7 @@
                                         <div class="item">
                                             <div class="item-head">
                                                 <div class="item-details">
-                                                    <img class="item-pic" src="../assets/pages/media/users/avatar4.jpg">
+                                                    <img class="item-pic" src="assets/pages/media/users/avatar4.jpg">
                                                     <a href="" class="item-name primary-link">Nick Larson</a>
                                                     <span class="item-label">3 hrs ago</span>
                                                 </div>
@@ -799,7 +799,7 @@
                                         <div class="item">
                                             <div class="item-head">
                                                 <div class="item-details">
-                                                    <img class="item-pic" src="../assets/pages/media/users/avatar3.jpg">
+                                                    <img class="item-pic" src="assets/pages/media/users/avatar3.jpg">
                                                     <a href="" class="item-name primary-link">Mark</a>
                                                     <span class="item-label">5 hrs ago</span>
                                                 </div>
@@ -811,7 +811,7 @@
                                         <div class="item">
                                             <div class="item-head">
                                                 <div class="item-details">
-                                                    <img class="item-pic" src="../assets/pages/media/users/avatar6.jpg">
+                                                    <img class="item-pic" src="assets/pages/media/users/avatar6.jpg">
                                                     <a href="" class="item-name primary-link">Nick Larson</a>
                                                     <span class="item-label">8 hrs ago</span>
                                                 </div>
@@ -823,7 +823,7 @@
                                         <div class="item">
                                             <div class="item-head">
                                                 <div class="item-details">
-                                                    <img class="item-pic" src="../assets/pages/media/users/avatar7.jpg">
+                                                    <img class="item-pic" src="assets/pages/media/users/avatar7.jpg">
                                                     <a href="" class="item-name primary-link">Nick Larson</a>
                                                     <span class="item-label">12 hrs ago</span>
                                                 </div>
@@ -835,7 +835,7 @@
                                         <div class="item">
                                             <div class="item-head">
                                                 <div class="item-details">
-                                                    <img class="item-pic" src="../assets/pages/media/users/avatar9.jpg">
+                                                    <img class="item-pic" src="assets/pages/media/users/avatar9.jpg">
                                                     <a href="" class="item-name primary-link">Richard Stone</a>
                                                     <span class="item-label">2 days ago</span>
                                                 </div>
@@ -847,7 +847,7 @@
                                         <div class="item">
                                             <div class="item-head">
                                                 <div class="item-details">
-                                                    <img class="item-pic" src="../assets/pages/media/users/avatar8.jpg">
+                                                    <img class="item-pic" src="assets/pages/media/users/avatar8.jpg">
                                                     <a href="" class="item-name primary-link">Dan</a>
                                                     <span class="item-label">3 days ago</span>
                                                 </div>
@@ -859,7 +859,7 @@
                                         <div class="item">
                                             <div class="item-head">
                                                 <div class="item-details">
-                                                    <img class="item-pic" src="../assets/pages/media/users/avatar2.jpg">
+                                                    <img class="item-pic" src="assets/pages/media/users/avatar2.jpg">
                                                     <a href="" class="item-name primary-link">Larry</a>
                                                     <span class="item-label">4 hrs ago</span>
                                                 </div>
@@ -1216,7 +1216,7 @@
                                     <!-- TIMELINE ITEM -->
                                     <div class="timeline-item">
                                         <div class="timeline-badge">
-                                            <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_2.jpg"> </div>
+                                            <img class="timeline-badge-userpic" src="assets/pages/media/users/avatar80_2.jpg"> </div>
                                         <div class="timeline-body">
                                             <div class="timeline-body-arrow"> </div>
                                             <div class="timeline-body-head">
@@ -1257,7 +1257,7 @@
                                     <!-- TIMELINE ITEM WITH GOOGLE MAP -->
                                     <div class="timeline-item">
                                         <div class="timeline-badge">
-                                            <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_7.jpg"> </div>
+                                            <img class="timeline-badge-userpic" src="assets/pages/media/users/avatar80_7.jpg"> </div>
                                         <div class="timeline-body">
                                             <div class="timeline-body-arrow"> </div>
                                             <div class="timeline-body-head">
