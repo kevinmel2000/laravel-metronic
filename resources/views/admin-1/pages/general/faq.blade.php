@@ -22,7 +22,8 @@
     <div class="faq-page faq-content-1">
         <div class="search-bar ">
             <div class="input-group">
-                <input type="text" class="form-control" placeholder="Search for..."> </div>
+                <input type="text" class="form-control" placeholder="Search for...">
+            </div>
         </div>
         <div class="faq-content-container">
             <div class="row">
