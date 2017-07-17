@@ -254,6 +254,7 @@
                                     </li>
                                 </ul>
                             </div>
+
                             <div class="portlet-body">
                                 <!--BEGIN TABS-->
                                 <div class="tab-content">
@@ -782,6 +783,7 @@
                         <!-- END PORTLET -->
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-md-6">
                         <!-- BEGIN PORTLET -->
