@@ -31,7 +31,7 @@
                         </div>
                     </div>
                     <div class="blog-single-img">
-                        <img src="../assets/pages/img/background/4.jpg" /> </div>
+                        <img src="../assets/pages/img/background/4.jpg"> </div>
                     <div class="blog-single-desc">
                         <p> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore siat magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
                             ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </p>
@@ -199,32 +199,32 @@
                         <div class="row ui-margin">
                             <div class="col-xs-4 ui-padding">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/background/1.jpg" />
+                                    <img src="../assets/pages/img/background/1.jpg">
                                 </a>
                             </div>
                             <div class="col-xs-4 ui-padding">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/background/37.jpg" />
+                                    <img src="../assets/pages/img/background/37.jpg">
                                 </a>
                             </div>
                             <div class="col-xs-4 ui-padding">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/background/57.jpg" />
+                                    <img src="../assets/pages/img/background/57.jpg">
                                 </a>
                             </div>
                             <div class="col-xs-4 ui-padding">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/background/53.jpg" />
+                                    <img src="../assets/pages/img/background/53.jpg">
                                 </a>
                             </div>
                             <div class="col-xs-4 ui-padding">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/background/59.jpg" />
+                                    <img src="../assets/pages/img/background/59.jpg">
                                 </a>
                             </div>
                             <div class="col-xs-4 ui-padding">
                                 <a href="javascript:;">
-                                    <img src="../assets/pages/img/background/42.jpg" />
+                                    <img src="../assets/pages/img/background/42.jpg">
                                 </a>
                             </div>
                         </div>
