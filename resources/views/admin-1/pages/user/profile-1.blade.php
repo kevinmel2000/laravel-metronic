@@ -904,7 +904,7 @@
                         </div>
                         <!-- END PORTLET -->
                     </div>
-                    
+
                     <div class="col-md-6">
                         <!-- BEGIN PORTLET -->
                         <div class="portlet light  tasks-widget">
@@ -922,6 +922,7 @@
                                     </div>
                                 </div>
                             </div>
+
                             <div class="portlet-body">
                                 <div class="task-content">
                                     <div class="scroller" style="height: 282px;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2">
@@ -930,7 +931,8 @@
                                             <li>
                                                 <div class="task-checkbox">
                                                     <input type="hidden" value="1" name="test" />
-                                                    <input type="checkbox" class="liChild" value="2" name="test" /> </div>
+                                                    <input type="checkbox" class="liChild" value="2" name="test" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Present 2013 Year IPO Statistics at Board Meeting </span>
                                                     <span class="label label-sm label-success">Company</span>
@@ -947,15 +949,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -963,7 +968,8 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Hold An Interview for Marketing Manager Position </span>
                                                     <span class="label label-sm label-danger">Marketing</span>
@@ -993,7 +999,8 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> AirAsia Intranet System Project Internal Meeting </span>
                                                     <span class="label label-sm label-success">AirAsia</span>
@@ -1010,15 +1017,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1026,7 +1036,8 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Technical Management Meeting </span>
                                                     <span class="label label-sm label-warning">Company</span>
@@ -1040,15 +1051,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1056,7 +1070,8 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Kick-off Company CRM Mobile App Development </span>
                                                     <span class="label label-sm label-info">Internal Products</span>
@@ -1070,15 +1085,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1086,7 +1104,8 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Prepare Commercial Offer For SmartVision Website Rewamp </span>
                                                     <span class="label label-sm label-danger">SmartVision</span>
@@ -1100,15 +1119,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1116,7 +1138,8 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Sign-Off The Comercial Agreement With AutoSmart </span>
                                                     <span class="label label-sm label-default">AutoSmart</span>
@@ -1133,15 +1156,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1149,7 +1175,8 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Company Staff Meeting </span>
                                                     <span class="label label-sm label-success">Cruise</span>
@@ -1166,15 +1193,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1182,7 +1212,8 @@
                                             </li>
                                             <li class="last-line">
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" /> </div>
+                                                    <input type="checkbox" class="liChild" value="" />
+                                                </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> KeenThemes Investment Discussion </span>
                                                     <span class="label label-sm label-warning">KeenThemes </span>
@@ -1196,15 +1227,18 @@
                                                         <ul class="dropdown-menu pull-right">
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-check"></i> Complete </a>
+                                                                    <i class="fa fa-check"></i> Complete
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                                    <i class="fa fa-pencil"></i> Edit
+                                                                </a>
                                                             </li>
                                                             <li>
                                                                 <a href="javascript:;">
-                                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                                </a>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -1214,6 +1248,7 @@
                                         <!-- END START TASK LIST -->
                                     </div>
                                 </div>
+
                                 <div class="task-footer">
                                     <div class="btn-arrow-link pull-right">
                                         <a href="javascript:;">See All Tasks</a>
@@ -1224,6 +1259,7 @@
                         <!-- END PORTLET -->
                     </div>
                 </div>
+                
                 <div class="row">
                     <div class="col-md-6">
                         <div class="portlet light portlet-fit ">
