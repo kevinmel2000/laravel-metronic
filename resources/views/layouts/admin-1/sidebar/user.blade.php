@@ -6,7 +6,7 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="page_user_profile_1.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-profile-1') }}" class="nav-link ">
                 <i class="icon-user"></i>
                 <span class="title">Profile 1</span>
             </a>
