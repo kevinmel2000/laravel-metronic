@@ -88,6 +88,7 @@
                         </div>
                     </div>
                     <!-- END STAT -->
+
                     <div>
                         <h4 class="profile-desc-title">About Marcus Doe</h4>
                         <span class="profile-desc-text"> Lorem ipsum dolor sit amet diam nonummy nibh dolore. </span>
@@ -108,6 +109,7 @@
                 <!-- END PORTLET MAIN -->
             </div>
             <!-- END BEGIN PROFILE SIDEBAR -->
+
             <!-- BEGIN PROFILE CONTENT -->
             <div class="profile-content">
                 <div class="row">
@@ -123,11 +125,14 @@
                                 <div class="actions">
                                     <div class="btn-group btn-group-devided" data-toggle="buttons">
                                         <label class="btn btn-transparent grey-salsa btn-circle btn-sm active">
-                                            <input type="radio" name="options" class="toggle" id="option1">Today</label>
+                                            <input type="radio" name="options" class="toggle" id="option1">Today
+                                        </label>
                                         <label class="btn btn-transparent grey-salsa btn-circle btn-sm">
-                                            <input type="radio" name="options" class="toggle" id="option2">Week</label>
+                                            <input type="radio" name="options" class="toggle" id="option2">Week
+                                        </label>
                                         <label class="btn btn-transparent grey-salsa btn-circle btn-sm">
-                                            <input type="radio" name="options" class="toggle" id="option2">Month</label>
+                                            <input type="radio" name="options" class="toggle" id="option2">Month
+                                        </label>
                                     </div>
                                 </div>
                             </div>
@@ -171,7 +176,8 @@
                                         </thead>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar4.jpg') }}"> </td>
+                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar4.jpg') }}">
+                                            </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Brain</a>
                                             </td>
@@ -184,7 +190,8 @@
                                         </tr>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar5.jpg') }}"> </td>
+                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar5.jpg') }}">
+                                            </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Nick</a>
                                             </td>
@@ -197,7 +204,8 @@
                                         </tr>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar6.jpg') }}"> </td>
+                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar6.jpg') }}">
+                                            </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Tim</a>
                                             </td>
@@ -210,7 +218,8 @@
                                         </tr>
                                         <tr>
                                             <td class="fit">
-                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar7.jpg') }}"> </td>
+                                                <img class="user-pic" src="{{ asset('assets/pages/media/users/avatar7.jpg') }}">
+                                            </td>
                                             <td>
                                                 <a href="javascript:;" class="primary-link">Tom</a>
                                             </td>
@@ -227,6 +236,7 @@
                         </div>
                         <!-- END PORTLET -->
                     </div>
+
                     <div class="col-md-6">
                         <!-- BEGIN PORTLET -->
                         <div class="portlet light ">
