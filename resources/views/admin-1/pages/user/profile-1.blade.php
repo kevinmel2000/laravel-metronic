@@ -798,10 +798,12 @@
                                     <div class="portlet-input input-inline input-small ">
                                         <div class="input-icon right">
                                             <i class="icon-magnifier"></i>
-                                            <input type="text" class="form-control form-control-solid" placeholder="search..."> </div>
+                                            <input type="text" class="form-control form-control-solid" placeholder="search...">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="portlet-body">
                                 <div class="scroller" style="height: 305px;" data-always-visible="1" data-rail-visible1="0" data-handle-color="#D7DCE2">
                                     <div class="general-item-list">
@@ -813,7 +815,8 @@
                                                     <span class="item-label">3 hrs ago</span>
                                                 </div>
                                                 <span class="item-status">
-                                                    <span class="badge badge-empty badge-success"></span> Open</span>
+                                                    <span class="badge badge-empty badge-success"></span> Open
+                                                </span>
                                             </div>
                                             <div class="item-body"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
                                         </div>
@@ -825,7 +828,8 @@
                                                     <span class="item-label">5 hrs ago</span>
                                                 </div>
                                                 <span class="item-status">
-                                                    <span class="badge badge-empty badge-warning"></span> Pending</span>
+                                                    <span class="badge badge-empty badge-warning"></span> Pending
+                                                </span>
                                             </div>
                                             <div class="item-body"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat tincidunt ut laoreet. </div>
                                         </div>
@@ -837,7 +841,8 @@
                                                     <span class="item-label">8 hrs ago</span>
                                                 </div>
                                                 <span class="item-status">
-                                                    <span class="badge badge-empty badge-primary"></span> Closed</span>
+                                                    <span class="badge badge-empty badge-primary"></span> Closed
+                                                </span>
                                             </div>
                                             <div class="item-body"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh. </div>
                                         </div>
@@ -849,7 +854,8 @@
                                                     <span class="item-label">12 hrs ago</span>
                                                 </div>
                                                 <span class="item-status">
-                                                    <span class="badge badge-empty badge-danger"></span> Pending</span>
+                                                    <span class="badge badge-empty badge-danger"></span> Pending
+                                                </span>
                                             </div>
                                             <div class="item-body"> Consectetuer adipiscing elit Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
                                         </div>
@@ -861,7 +867,8 @@
                                                     <span class="item-label">2 days ago</span>
                                                 </div>
                                                 <span class="item-status">
-                                                    <span class="badge badge-empty badge-danger"></span> Open</span>
+                                                    <span class="badge badge-empty badge-danger"></span> Open
+                                                </span>
                                             </div>
                                             <div class="item-body"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, ut laoreet dolore magna aliquam erat volutpat. </div>
                                         </div>
@@ -873,7 +880,8 @@
                                                     <span class="item-label">3 days ago</span>
                                                 </div>
                                                 <span class="item-status">
-                                                    <span class="badge badge-empty badge-warning"></span> Pending</span>
+                                                    <span class="badge badge-empty badge-warning"></span> Pending
+                                                </span>
                                             </div>
                                             <div class="item-body"> Lorem ipsum dolor sit amet, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
                                         </div>
@@ -885,7 +893,8 @@
                                                     <span class="item-label">4 hrs ago</span>
                                                 </div>
                                                 <span class="item-status">
-                                                    <span class="badge badge-empty badge-success"></span> Open</span>
+                                                    <span class="badge badge-empty badge-success"></span> Open
+                                                </span>
                                             </div>
                                             <div class="item-body"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </div>
                                         </div>
@@ -895,6 +904,7 @@
                         </div>
                         <!-- END PORTLET -->
                     </div>
+                    
                     <div class="col-md-6">
                         <!-- BEGIN PORTLET -->
                         <div class="portlet light  tasks-widget">
