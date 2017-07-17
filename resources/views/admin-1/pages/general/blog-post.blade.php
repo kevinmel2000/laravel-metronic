@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Blog Post
+        <small>blog post samples</small>
+    </h1>
 @endsection
