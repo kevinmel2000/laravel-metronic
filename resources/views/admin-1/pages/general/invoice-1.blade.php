@@ -22,7 +22,7 @@
     <div class="invoice">
         <div class="row invoice-logo">
             <div class="col-xs-6 invoice-logo-space">
-                <img src="../assets/pages/media/invoice/walmart.png" class="img-responsive" alt="">
+                <img src="{{ asset('assets/pages/media/invoice/walmart.png') }}" class="img-responsive" alt="">
             </div>
             <div class="col-xs-6">
                 <p> #5652256 / 28 Feb 2013
