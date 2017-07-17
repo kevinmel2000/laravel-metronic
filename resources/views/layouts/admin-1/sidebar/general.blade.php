@@ -99,7 +99,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_general_invoice_2.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-invoice-2') }}" class="nav-link ">
                 <i class="icon-envelope"></i>
                 <span class="title">Invoice 2</span>
             </a>
