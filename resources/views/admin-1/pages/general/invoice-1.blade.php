@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Invoice
+        <small>invoice sample</small>
+    </h1>
 @endsection
