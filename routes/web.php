@@ -164,6 +164,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.blog-post');
         })->name('admin-1.page-blog-post');
 
+        Route::get('invoice-1', function () {
+            return view('admin-1.pages.general.invoice-1');
+        })->name('admin-1.page-invoice-1');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
