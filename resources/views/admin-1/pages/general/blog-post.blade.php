@@ -238,3 +238,10 @@
 @push('page-level-styles')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/blog.min.css') }}">
 @endpush
+
+@push('page-level-scripts')
+    <script>
+        $('body').addClass('page-container-bg-solid page-sidebar-closed');
+        $('ul.page-sidebar-menu').addClass('page-sidebar-menu-closed');
+    </script>
+@endpush
