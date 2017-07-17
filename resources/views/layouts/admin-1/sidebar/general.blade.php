@@ -75,7 +75,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_general_faq.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-faq') }}" class="nav-link ">
                 <i class="icon-wrench"></i>
                 <span class="title">FAQ</span>
             </a>
