@@ -160,6 +160,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.blog');
         })->name('admin-1.page-blog');
 
+        Route::get('blog-post', function () {
+            return view('admin-1.pages.general.blog-post');
+        })->name('admin-1.page-blog-post');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
