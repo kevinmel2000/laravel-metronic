@@ -93,7 +93,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_general_invoice.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-invoice-1') }}" class="nav-link ">
                 <i class="icon-envelope"></i>
                 <span class="title">Invoice</span>
             </a>
