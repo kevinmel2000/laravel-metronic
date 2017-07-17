@@ -23,7 +23,7 @@
         <div class="row invoice-head">
             <div class="col-md-7 col-xs-6">
                 <div class="invoice-logo">
-                    <img src="../assets/pages/img/logos/logo5.jpg" class="img-responsive" alt="" />
+                    <img src="{{ asset('assets/pages/img/logos/logo5.jpg') }}" class="img-responsive" alt="">
                     <h1 class="uppercase">Invoice</h1>
                 </div>
             </div>
