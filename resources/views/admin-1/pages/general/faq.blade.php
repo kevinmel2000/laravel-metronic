@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> FAQ
+        <small>general faq page</small>
+    </h1>
 @endsection
