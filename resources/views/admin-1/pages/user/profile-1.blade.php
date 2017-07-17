@@ -930,8 +930,8 @@
                                         <ul class="task-list">
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="hidden" value="1" name="test" />
-                                                    <input type="checkbox" class="liChild" value="2" name="test" />
+                                                    <input type="hidden" value="1" name="test">
+                                                    <input type="checkbox" class="liChild" value="2" name="test">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Present 2013 Year IPO Statistics at Board Meeting </span>
@@ -968,7 +968,7 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Hold An Interview for Marketing Manager Position </span>
@@ -999,7 +999,7 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> AirAsia Intranet System Project Internal Meeting </span>
@@ -1036,7 +1036,7 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Technical Management Meeting </span>
@@ -1070,7 +1070,7 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Kick-off Company CRM Mobile App Development </span>
@@ -1104,7 +1104,7 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Prepare Commercial Offer For SmartVision Website Rewamp </span>
@@ -1138,7 +1138,7 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Sign-Off The Comercial Agreement With AutoSmart </span>
@@ -1175,7 +1175,7 @@
                                             </li>
                                             <li>
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> Company Staff Meeting </span>
@@ -1212,7 +1212,7 @@
                                             </li>
                                             <li class="last-line">
                                                 <div class="task-checkbox">
-                                                    <input type="checkbox" class="liChild" value="" />
+                                                    <input type="checkbox" class="liChild" value="">
                                                 </div>
                                                 <div class="task-title">
                                                     <span class="task-title-sp"> KeenThemes Investment Discussion </span>
@@ -1464,7 +1464,7 @@
                 </div>
             </div>
             <!-- END PROFILE CONTENT -->
-            
+
         </div>
     </div>
 @endsection
