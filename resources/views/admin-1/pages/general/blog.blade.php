@@ -133,7 +133,7 @@
                 </div>
                 <div class="row">
                     <div class="col-xs-12">
-                        <div class="blog-banner blog-container" style="background-image:url({{ asset('assets/pages/img/background/7.jpg') }}));">
+                        <div class="blog-banner blog-container" style="background-image:url(../../assets/pages/img/background/7.jpg);">
                             <h2 class="blog-title blog-banner-title">
                                 <a href="javascript:;">Metronic Latest Features</a>
                             </h2>
