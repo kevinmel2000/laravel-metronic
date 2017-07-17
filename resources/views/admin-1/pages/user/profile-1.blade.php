@@ -1480,7 +1480,7 @@
 @push('page-level-plugins-footer')
     <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery.sparkline.min.js') }}"></script>
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?key={{ $gmap_browser_key }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/gmaps/gmaps.min.js') }}"></script>
 @endpush
 
