@@ -152,6 +152,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.general.pricing-2');
         })->name('admin-1.page-pricing-2');
 
+        Route::get('faq', function () {
+            return view('admin-1.pages.general.faq');
+        })->name('admin-1.page-faq');
+
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
