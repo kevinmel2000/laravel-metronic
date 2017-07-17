@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> User Profile
+        <small></small>
+    </h1>
 @endsection
