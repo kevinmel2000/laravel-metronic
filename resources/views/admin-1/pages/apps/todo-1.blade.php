@@ -406,3 +406,10 @@
         </div>
     </div>
 @endsection
+
+@push('page-level-plugins-header')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/select2/css/select2.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/select2/css/select2-bootstrap.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/jquery-multi-select/css/multi-select.css') }}">
+@endpush
