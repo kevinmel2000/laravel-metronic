@@ -118,3 +118,15 @@
         </div>
     </div>
 @endsection
+
+@push('page-level-plugins-header')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/jquery-file-upload/css/jquery.fileupload.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/jquery-file-upload/css/jquery.fileupload-ui.css') }}">
+@endpush
+
+@push('page-level-styles')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/apps/css/inbox.min.css') }}">
+@endpush
