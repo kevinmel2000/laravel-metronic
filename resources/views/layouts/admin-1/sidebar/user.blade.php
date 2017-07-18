@@ -24,7 +24,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_user_profile_2.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-profile-2') }}" class="nav-link ">
                 <i class="icon-users"></i>
                 <span class="title">Profile 2</span>
             </a>
