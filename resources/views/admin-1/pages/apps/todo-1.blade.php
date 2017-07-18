@@ -356,4 +356,53 @@
             </div>
         </div>
     </div>
+
+    <div id="todo-members-modal" class="modal fade" role="dialog" aria-labelledby="myModalLabel10" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    <h4 class="modal-title">Select a Member</h4>
+                </div>
+                <div class="modal-body">
+                    <form action="#" class="form-horizontal" role="form">
+                        <div class="form-group">
+                            <label class="control-label col-md-4">Selected Members</label>
+                            <div class="col-md-8">
+                                <select id="select2_sample2" class="form-control select2 select-height" multiple>
+                                    <optgroup label="Senior Developers">
+                                        <option>Rudy</option>
+                                        <option>Shane</option>
+                                        <option>Sean</option>
+                                    </optgroup>
+                                    <optgroup label="Technical Team">
+                                        <option>Kathy</option>
+                                        <option>Luke</option>
+                                        <option>John</option>
+                                        <option>Darren</option>
+                                    </optgroup>
+                                    <optgroup label="Design Team">
+                                        <option>Bob</option>
+                                        <option>Carolina</option>
+                                        <option>Randy</option>
+                                        <option>Michael</option>
+                                    </optgroup>
+                                    <optgroup label="Testers">
+                                        <option>Chris</option>
+                                        <option>Louis</option>
+                                        <option>Greg</option>
+                                        <option>Ashe</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn default" data-dismiss="modal" aria-hidden="true">Close</button>
+                    <button class="btn green" data-dismiss="modal">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
 @endsection
