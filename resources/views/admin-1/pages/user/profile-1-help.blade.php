@@ -459,3 +459,12 @@
 @push('page-level-styles')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/profile.min.css') }}">
 @endpush
+
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery.sparkline.min.js') }}"></script>
+@endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/profile.min.js') }}"></script>
+@endpush
