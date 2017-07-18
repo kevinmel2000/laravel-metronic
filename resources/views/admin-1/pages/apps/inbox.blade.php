@@ -154,7 +154,7 @@
     <script type="text/javascript">
         /* Personal enhancement (REQUIRED) */
 
-        var app_inbox_url = "{{ route('admin-1.ajax.app-inbox') }}";
+        var app_inbox_url = "{{ route('admin-1.ajax.inbox-datalist') }}";
     </script>
 @endpush
 
