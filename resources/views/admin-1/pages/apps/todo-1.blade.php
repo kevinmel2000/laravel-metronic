@@ -423,3 +423,8 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/select2/js/select2.full.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-multi-select/js/jquery.multi-select.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/apps/scripts/todo.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/components-date-time-pickers.min.js') }}"></script>
+@endpush
