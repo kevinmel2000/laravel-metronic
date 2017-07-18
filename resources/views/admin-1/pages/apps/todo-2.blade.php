@@ -439,6 +439,16 @@
     </div>
 @endsection
 
+@push('page-level-plugins-header')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-datepicker/css/bootstrap-datepicker3.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/select2/css/select2.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/select2/css/select2-bootstrap.min.css') }}">
+@endpush
+
+@push('page-level-styles')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/apps/css/todo-2.min.css') }}">
+@endpush
+
 @push('page-level-scripts')
     <script>
         $('body').addClass('page-container-bg-solid page-sidebar-closed');
