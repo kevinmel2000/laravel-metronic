@@ -18,7 +18,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_user_profile_1_help.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-profile-1-help') }}" class="nav-link ">
                 <i class="icon-user-following"></i>
                 <span class="title">Profile 1 Help</span>
             </a>
