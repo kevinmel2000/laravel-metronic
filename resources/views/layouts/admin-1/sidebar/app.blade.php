@@ -18,7 +18,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="app_inbox.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-inbox') }}" class="nav-link ">
                 <i class="icon-envelope"></i>
                 <span class="title">Inbox</span>
             </a>
