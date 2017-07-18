@@ -206,7 +206,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
                     <button class="btn btn-square btn-sm green todo-bold todo-inline">Complete Task</button>
                     <p class="todo-task-modal-title todo-inline">Due:
-                        <input class="form-control input-inline input-medium date-picker todo-task-due todo-inline" size="16" type="text" value="10/01/2015" />
+                        <input class="form-control input-inline input-medium date-picker todo-task-due todo-inline" size="16" type="text" value="10/01/2015">
                     </p>
                     <p class="todo-task-modal-title todo-inline">Assign:
                         <a class="todo-inline todo-task-assign" href="#todo-members-modal" data-toggle="modal">Luke</a>
@@ -253,7 +253,7 @@
                         <div class="scroller" style="height: 525px;" data-always-visible="1" data-rail-visible1="1">
                             <ul class="chats">
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Lisa Wong </a>
@@ -262,7 +262,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Lisa Wong </a>
@@ -271,7 +271,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -280,7 +280,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -289,7 +289,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Richard Doe </a>
@@ -298,7 +298,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Richard Doe </a>
@@ -307,7 +307,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -316,7 +316,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Richard Doe </a>
@@ -325,7 +325,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg" />
+                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -338,7 +338,7 @@
                         </div>
                         <div class="chat-form">
                             <div class="input-cont">
-                                <input class="form-control" type="text" placeholder="Type a message here..." /> </div>
+                                <input class="form-control" type="text" placeholder="Type a message here..."> </div>
                             <div class="btn-cont">
                                 <span class="arrow"> </span>
                                 <a href="" class="btn blue icn-only">
