@@ -132,6 +132,7 @@
                                     </li>
                                 </ul>
                             </div>
+
                             <div class="portlet-body">
                                 <div class="tab-content">
                                     <!-- GENERAL QUESTION TAB -->
@@ -232,6 +233,7 @@
                                         </div>
                                     </div>
                                     <!-- END GENERAL QUESTION TAB -->
+
                                     <!-- MEMBERSHIP TAB -->
                                     <div class="tab-pane" id="tab_1_2">
                                         <div id="accordion2" class="panel-group">
