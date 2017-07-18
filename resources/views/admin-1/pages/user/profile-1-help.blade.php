@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> New User Profile | Help
+        <small>user account help page</small>
+    </h1>
 @endsection
