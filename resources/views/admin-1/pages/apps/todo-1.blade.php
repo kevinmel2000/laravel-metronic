@@ -430,3 +430,10 @@
     <script type="text/javascript" src="{{ asset('assets/apps/scripts/todo.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/pages/scripts/components-date-time-pickers.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script>
+        $('body').addClass('page-container-bg-solid page-sidebar-closed');
+        $('ul.page-sidebar-menu').addClass('page-sidebar-menu-closed');
+    </script>
+@endpush
