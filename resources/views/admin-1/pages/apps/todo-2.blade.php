@@ -449,6 +449,13 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/apps/css/todo-2.min.css') }}">
 @endpush
 
+@push('page-level-styles')
+    <style media="screen">
+        /* personal enhancement */
+        .page-content > .row { margin-top: 20px; }
+    </style>
+@endpush
+
 @push('page-level-plugins-footer')
     <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/select2/js/select2.full.min.js') }}"></script>
