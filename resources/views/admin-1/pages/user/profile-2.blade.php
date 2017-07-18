@@ -1088,3 +1088,9 @@
     <script type="text/javascript" src="http://maps.google.com/maps/api/js?key={{ $gmap_browser_key }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/gmaps/gmaps.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script>
+        $('body').addClass('page-container-bg-solid');
+    </script>
+@endpush
