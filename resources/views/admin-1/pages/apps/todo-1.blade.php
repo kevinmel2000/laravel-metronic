@@ -247,7 +247,8 @@
                             <div class="portlet-input input-inline">
                                 <div class="input-icon right">
                                     <i class="icon-magnifier"></i>
-                                    <input type="text" class="form-control input-circle" placeholder="search..."> </div>
+                                    <input type="text" class="form-control input-circle" placeholder="search...">
+                                </div>
                             </div>
                         </div>
                     </div>
