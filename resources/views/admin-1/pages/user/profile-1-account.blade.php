@@ -86,6 +86,7 @@
                         </div>
                     </div>
                     <!-- END STAT -->
+
                     <div>
                         <h4 class="profile-desc-title">About Marcus Doe</h4>
                         <span class="profile-desc-text"> Lorem ipsum dolor sit amet diam nonummy nibh dolore. </span>
@@ -132,6 +133,7 @@
                                     </li>
                                 </ul>
                             </div>
+
                             <div class="portlet-body">
                                 <div class="tab-content">
                                     <!-- PERSONAL INFO TAB -->
@@ -166,10 +168,12 @@
                                         </form>
                                     </div>
                                     <!-- END PERSONAL INFO TAB -->
+
                                     <!-- CHANGE AVATAR TAB -->
                                     <div class="tab-pane" id="tab_1_2">
                                         <p> Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum
                                             eiusmod. </p>
+
                                         <form action="#" role="form">
                                             <div class="form-group">
                                                 <div class="fileinput fileinput-new" data-provides="fileinput">
@@ -196,18 +200,22 @@
                                         </form>
                                     </div>
                                     <!-- END CHANGE AVATAR TAB -->
+
                                     <!-- CHANGE PASSWORD TAB -->
                                     <div class="tab-pane" id="tab_1_3">
                                         <form action="#">
                                             <div class="form-group">
                                                 <label class="control-label">Current Password</label>
-                                                <input type="password" class="form-control"> </div>
+                                                <input type="password" class="form-control">
+                                            </div>
                                             <div class="form-group">
                                                 <label class="control-label">New Password</label>
-                                                <input type="password" class="form-control"> </div>
+                                                <input type="password" class="form-control">
+                                            </div>
                                             <div class="form-group">
                                                 <label class="control-label">Re-type New Password</label>
-                                                <input type="password" class="form-control"> </div>
+                                                <input type="password" class="form-control">
+                                            </div>
                                             <div class="margin-top-10">
                                                 <a href="javascript:;" class="btn green"> Change Password </a>
                                                 <a href="javascript:;" class="btn default"> Cancel </a>
@@ -215,6 +223,7 @@
                                         </form>
                                     </div>
                                     <!-- END CHANGE PASSWORD TAB -->
+
                                     <!-- PRIVACY SETTINGS TAB -->
                                     <div class="tab-pane" id="tab_1_4">
                                         <form action="#">
@@ -290,11 +299,13 @@
                                     <!-- END PRIVACY SETTINGS TAB -->
                                 </div>
                             </div>
+                            
                         </div>
                     </div>
                 </div>
             </div>
             <!-- END PROFILE CONTENT -->
+
         </div>
     </div>
 @endsection
