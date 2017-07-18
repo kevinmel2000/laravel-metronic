@@ -55,7 +55,7 @@ var AppInbox = function () {
     }
 
     var loadMessage = function (el, name, resetMenu) {
-        var url = 'app_inbox_view.html';
+        var url = app_inbox_view;
 
         App.blockUI({
             target: content,
