@@ -26,6 +26,14 @@ Route::group(['prefix' => 'admin-1'], function () {
 
     /************************ SIDEBAR: Partial Ajax ***************************/
 
+    ////////////////////////////////// App /////////////////////////////////////
+
+    Route::get('_ajax/app-inbox', function () {
+        return view('admin-1.pages.apps._ajax.app-inbox');
+    })->name('admin-1.ajax.app-inbox');
+
+    //////////////////////////////// General ///////////////////////////////////
+
     Route::get('_ajax/load-more', function () {
         return view('admin-1.pages.general._ajax.load-more');
     })->name('admin-1.ajax.load-more');
