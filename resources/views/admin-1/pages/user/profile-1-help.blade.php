@@ -451,3 +451,11 @@
         </div>
     </div>
 @endsection
+
+@push('page-level-plugins-header')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.css') }}">
+@endpush
+
+@push('page-level-styles')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/profile.min.css') }}">
+@endpush
