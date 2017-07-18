@@ -170,7 +170,7 @@
                                 <div class="col-md-5 col-sm-4">
                                     <div class="todo-tasklist">
                                         <div class="todo-tasklist-item todo-tasklist-item-border-green">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar4.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar4.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Slider Redesign </div>
                                             <div class="todo-tasklist-item-text"> Lorem dolor sit amet ipsum dolor sit consectetuer dolore. </div>
                                             <div class="todo-tasklist-controls pull-left">
@@ -180,7 +180,7 @@
                                             </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-red">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar5.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar5.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Homepage Alignments to adjust </div>
                                             <div class="todo-tasklist-item-text"> Lorem ipsum dolor sit amet, consectetuer dolore dolor sit amet. </div>
                                             <div class="todo-tasklist-controls pull-left">
@@ -190,7 +190,7 @@
                                             </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-green">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar9.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar9.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Slider Redesign </div>
                                             <div class="todo-tasklist-controls pull-left">
                                                 <span class="todo-tasklist-date">
@@ -198,7 +198,7 @@
                                                 <span class="todo-tasklist-badge badge badge-roundless">Important</span>&nbsp; </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-blue">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar6.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar6.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Contact Us Map Location changes </div>
                                             <div class="todo-tasklist-item-text"> Lorem ipsum amet, consectetuer dolore dolor sit amet. </div>
                                             <div class="todo-tasklist-controls pull-left">
@@ -209,7 +209,7 @@
                                             </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-purple">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar7.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar7.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Projects list new Forms </div>
                                             <div class="todo-tasklist-item-text"> Lorem ipsum dolor sit amet, consectetuer dolore psum dolor sit. </div>
                                             <div class="todo-tasklist-controls pull-left">
@@ -218,7 +218,7 @@
                                             </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-yellow">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar8.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar8.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> New Search Keywords </div>
                                             <div class="todo-tasklist-item-text"> Lorem ipsum dolor sit amet, consectetuer sit amet ipsum dolor, consectetuer ipsum consectetuer sit amet dolore. </div>
                                             <div class="todo-tasklist-controls pull-left">
@@ -227,7 +227,7 @@
                                                 <span class="todo-tasklist-badge badge badge-roundless">Postponed</span>&nbsp; </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-green">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar9.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar9.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Slider Redesign </div>
                                             <div class="todo-tasklist-controls pull-left">
                                                 <span class="todo-tasklist-date">
@@ -235,7 +235,7 @@
                                                 <span class="todo-tasklist-badge badge badge-roundless">Important</span>&nbsp; </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-red">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar5.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar5.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Homepage Alignments to adjust </div>
                                             <div class="todo-tasklist-item-text"> Lorem ipsum dolor sit amet, consectetuer dolore psum dolor sit. </div>
                                             <div class="todo-tasklist-controls pull-left">
@@ -245,7 +245,7 @@
                                             </div>
                                         </div>
                                         <div class="todo-tasklist-item todo-tasklist-item-border-blue">
-                                            <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar6.jpg" width="27px" height="27px">
+                                            <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar6.jpg') }}" width="27px" height="27px">
                                             <div class="todo-tasklist-item-title"> Contact Us Improvement </div>
                                             <div class="todo-tasklist-item-text"> Lorem ipsum amet, psum dolor sit consectetuer dolore. </div>
                                             <div class="todo-tasklist-controls pull-left">
@@ -265,7 +265,7 @@
                                             <div class="form-group">
                                                 <div class="col-md-8 col-sm-8">
                                                     <div class="todo-taskbody-user">
-                                                        <img class="todo-userpic pull-left" src="assets/pages/media/users/avatar6.jpg" width="50px" height="50px">
+                                                        <img class="todo-userpic pull-left" src="{{ asset('assets/pages/media/users/avatar6.jpg') }}" width="50px" height="50px">
                                                         <span class="todo-username pull-left">Vanessa Bond</span>
                                                         <button type="button" class="todo-username-btn btn btn-circle btn-default btn-sm">&nbsp;edit&nbsp;</button>
                                                     </div>
@@ -332,7 +332,7 @@
                                                             <ul class="media-list">
                                                                 <li class="media">
                                                                     <a class="pull-left" href="javascript:;">
-                                                                        <img class="todo-userpic" src="assets/pages/media/users/avatar8.jpg" width="27px" height="27px"> </a>
+                                                                        <img class="todo-userpic" src="{{ asset('assets/pages/media/users/avatar8.jpg') }}" width="27px" height="27px"> </a>
                                                                     <div class="media-body todo-comment">
                                                                         <button type="button" class="todo-comment-btn btn btn-circle btn-default btn-sm">&nbsp; Reply &nbsp;</button>
                                                                         <p class="todo-comment-head">
@@ -344,7 +344,7 @@
                                                                         <!-- Nested media object -->
                                                                         <div class="media">
                                                                             <a class="pull-left" href="javascript:;">
-                                                                                <img class="todo-userpic" src="assets/pages/media/users/avatar4.jpg" width="27px" height="27px"> </a>
+                                                                                <img class="todo-userpic" src="{{ asset('assets/pages/media/users/avatar4.jpg') }}" width="27px" height="27px"> </a>
                                                                             <div class="media-body">
                                                                                 <p class="todo-comment-head">
                                                                                     <span class="todo-comment-username">Carles Puyol</span> &nbsp;
@@ -357,7 +357,7 @@
                                                                 </li>
                                                                 <li class="media">
                                                                     <a class="pull-left" href="javascript:;">
-                                                                        <img class="todo-userpic" src="assets/pages/media/users/avatar5.jpg" width="27px" height="27px"> </a>
+                                                                        <img class="todo-userpic" src="{{ asset('assets/pages/media/users/avatar5.jpg') }}" width="27px" height="27px"> </a>
                                                                     <div class="media-body todo-comment">
                                                                         <button type="button" class="todo-comment-btn btn btn-circle btn-default btn-sm">&nbsp; Reply &nbsp;</button>
                                                                         <p class="todo-comment-head">
@@ -371,7 +371,7 @@
                                                                 </li>
                                                                 <li class="media">
                                                                     <a class="pull-left" href="javascript:;">
-                                                                        <img class="todo-userpic" src="assets/pages/media/users/avatar6.jpg" width="27px" height="27px"> </a>
+                                                                        <img class="todo-userpic" src="{{ asset('assets/pages/media/users/avatar6.jpg') }}" width="27px" height="27px"> </a>
                                                                     <div class="media-body todo-comment">
                                                                         <button type="button" class="todo-comment-btn btn btn-circle btn-default btn-sm">&nbsp; Reply &nbsp;</button>
                                                                         <p class="todo-comment-head">
@@ -393,7 +393,7 @@
                                                             <ul class="media-list">
                                                                 <li class="media">
                                                                     <a class="pull-left" href="javascript:;">
-                                                                        <img class="todo-userpic" src="assets/pages/media/users/avatar4.jpg" width="27px" height="27px"> </a>
+                                                                        <img class="todo-userpic" src="{{ asset('assets/pages/media/users/avatar4.jpg') }}" width="27px" height="27px"> </a>
                                                                     <div class="media-body">
                                                                         <textarea class="form-control todo-taskbody-taskdesc" rows="4" placeholder="Type comment..."></textarea>
                                                                     </div>
