@@ -151,5 +151,13 @@
 @endpush
 
 @push('page-level-scripts')
+    <script type="text/javascript">
+        /* Personal enhancement (REQUIRED) */
+
+        var app_inbox_url = "{{ route('admin-1.ajax.app-inbox') }}";
+    </script>
+@endpush
+
+@push('page-level-scripts')
     <script type="text/javascript" src="{{ asset('assets/apps/scripts/inbox.js') }}"></script>
 @endpush
