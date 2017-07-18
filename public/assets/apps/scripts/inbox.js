@@ -4,7 +4,7 @@ var AppInbox = function () {
     var listListing = '';
 
     var loadInbox = function (el, name) {
-        var url = app_inbox_url;
+        var url = inbox_datalist_url;
         var title = el.attr('data-title');
         listListing = name;
 
@@ -55,7 +55,7 @@ var AppInbox = function () {
     }
 
     var loadMessage = function (el, name, resetMenu) {
-        var url = app_inbox_view;
+        var url = inbox_view_url;
 
         App.blockUI({
             target: content,
