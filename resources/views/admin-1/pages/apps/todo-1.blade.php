@@ -413,3 +413,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/select2/css/select2-bootstrap.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/jquery-multi-select/css/multi-select.css') }}">
 @endpush
+
+@push('page-level-styles')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/apps/css/todo.min.css') }}">
+@endpush
