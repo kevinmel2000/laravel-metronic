@@ -255,7 +255,7 @@
                         <div class="scroller" style="height: 525px;" data-always-visible="1" data-rail-visible1="1">
                             <ul class="chats">
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Lisa Wong </a>
@@ -264,7 +264,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar2.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar2.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Lisa Wong </a>
@@ -273,7 +273,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar1.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -282,7 +282,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar1.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -291,7 +291,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Richard Doe </a>
@@ -300,7 +300,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Richard Doe </a>
@@ -309,7 +309,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar1.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
@@ -318,7 +318,7 @@
                                     </div>
                                 </li>
                                 <li class="in">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar3.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar3.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Richard Doe </a>
@@ -327,7 +327,7 @@
                                     </div>
                                 </li>
                                 <li class="out">
-                                    <img class="avatar" alt="" src="../assets/layouts/layout/img/avatar1.jpg">
+                                    <img class="avatar" alt="" src="{{ asset('assets/layouts/layout/img/avatar1.jpg') }}">
                                     <div class="message">
                                         <span class="arrow"> </span>
                                         <a href="javascript:;" class="name"> Bob Nilson </a>
