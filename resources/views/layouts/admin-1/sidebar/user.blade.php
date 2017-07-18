@@ -12,7 +12,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="page_user_profile_1_account.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-profile-1-account') }}" class="nav-link ">
                 <i class="icon-user-female"></i>
                 <span class="title">Profile 1 Account</span>
             </a>
