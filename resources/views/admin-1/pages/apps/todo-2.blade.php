@@ -449,6 +449,15 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/apps/css/todo-2.min.css') }}">
 @endpush
 
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/select2/js/select2.full.min.js') }}"></script>
+@endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/apps/scripts/todo-2.min.js') }}"></script>
+@endpush
+
 @push('page-level-scripts')
     <script>
         $('body').addClass('page-container-bg-solid page-sidebar-closed');
