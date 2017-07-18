@@ -32,6 +32,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         return view('admin-1.pages.apps._ajax.inbox-datalist');
     })->name('admin-1.ajax.inbox-datalist');
 
+    Route::get('_ajax/inbox-view', function () {
+        return view('admin-1.pages.apps._ajax.inbox-view');
+    })->name('admin-1.ajax.inbox-view');
+
     //////////////////////////////// General ///////////////////////////////////
 
     Route::get('_ajax/load-more', function () {
