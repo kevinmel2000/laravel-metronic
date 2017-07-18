@@ -12,7 +12,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="app_todo_2.html" class="nav-link ">
+            <a href="{{ route('admin-1.page-todo-2') }}" class="nav-link ">
                 <i class="icon-check"></i>
                 <span class="title">Todo 2</span>
             </a>
