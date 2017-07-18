@@ -130,3 +130,26 @@
 @push('page-level-styles')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/apps/css/inbox.min.css') }}">
 @endpush
+
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.pack.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-wysihtml5/wysihtml5-0.3.0.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/vendor/jquery.ui.widget.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/vendor/tmpl.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/vendor/load-image.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/vendor/canvas-to-blob.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/blueimp-gallery/jquery.blueimp-gallery.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.iframe-transport.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.fileupload.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.fileupload-process.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.fileupload-image.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.fileupload-audio.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.fileupload-video.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.fileupload-validate.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-file-upload/js/jquery.fileupload-ui.js') }}"></script>
+@endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/apps/scripts/inbox.min.js') }}"></script>
+@endpush
