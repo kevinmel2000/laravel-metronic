@@ -38,7 +38,7 @@
                         <div class="col-md-3">
                             <ul class="list-unstyled profile-nav">
                                 <li>
-                                    <img src="../assets/pages/media/profile/people19.png" class="img-responsive pic-bordered" alt="" />
+                                    <img src="../assets/pages/media/profile/people19.png" class="img-responsive pic-bordered" alt="">
                                     <a href="javascript:;" class="profile-edit"> edit </a>
                                 </li>
                                 <li>
@@ -585,26 +585,26 @@
                                     <form role="form" action="#">
                                         <div class="form-group">
                                             <label class="control-label">First Name</label>
-                                            <input type="text" placeholder="John" class="form-control" /> </div>
+                                            <input type="text" placeholder="John" class="form-control"> </div>
                                         <div class="form-group">
                                             <label class="control-label">Last Name</label>
-                                            <input type="text" placeholder="Doe" class="form-control" /> </div>
+                                            <input type="text" placeholder="Doe" class="form-control"> </div>
                                         <div class="form-group">
                                             <label class="control-label">Mobile Number</label>
-                                            <input type="text" placeholder="+1 646 580 DEMO (6284)" class="form-control" /> </div>
+                                            <input type="text" placeholder="+1 646 580 DEMO (6284)" class="form-control"> </div>
                                         <div class="form-group">
                                             <label class="control-label">Interests</label>
-                                            <input type="text" placeholder="Design, Web etc." class="form-control" /> </div>
+                                            <input type="text" placeholder="Design, Web etc." class="form-control"> </div>
                                         <div class="form-group">
                                             <label class="control-label">Occupation</label>
-                                            <input type="text" placeholder="Web Developer" class="form-control" /> </div>
+                                            <input type="text" placeholder="Web Developer" class="form-control"> </div>
                                         <div class="form-group">
                                             <label class="control-label">About</label>
                                             <textarea class="form-control" rows="3" placeholder="We are KeenThemes!!!"></textarea>
                                         </div>
                                         <div class="form-group">
                                             <label class="control-label">Website Url</label>
-                                            <input type="text" placeholder="http://www.mywebsite.com" class="form-control" /> </div>
+                                            <input type="text" placeholder="http://www.mywebsite.com" class="form-control"> </div>
                                         <div class="margiv-top-10">
                                             <a href="javascript:;" class="btn green"> Save Changes </a>
                                             <a href="javascript:;" class="btn default"> Cancel </a>
@@ -618,7 +618,7 @@
                                         <div class="form-group">
                                             <div class="fileinput fileinput-new" data-provides="fileinput">
                                                 <div class="fileinput-new thumbnail" style="width: 200px; height: 150px;">
-                                                    <img src="http://www.placehold.it/200x150/EFEFEF/AAAAAA&amp;text=no+image" alt="" /> </div>
+                                                    <img src="http://www.placehold.it/200x150/EFEFEF/AAAAAA&amp;text=no+image" alt=""> </div>
                                                 <div class="fileinput-preview fileinput-exists thumbnail" style="max-width: 200px; max-height: 150px;"> </div>
                                                 <div>
                                                     <span class="btn default btn-file">
@@ -643,13 +643,13 @@
                                     <form action="#">
                                         <div class="form-group">
                                             <label class="control-label">Current Password</label>
-                                            <input type="password" class="form-control" /> </div>
+                                            <input type="password" class="form-control"> </div>
                                         <div class="form-group">
                                             <label class="control-label">New Password</label>
-                                            <input type="password" class="form-control" /> </div>
+                                            <input type="password" class="form-control"> </div>
                                         <div class="form-group">
                                             <label class="control-label">Re-type New Password</label>
-                                            <input type="password" class="form-control" /> </div>
+                                            <input type="password" class="form-control"> </div>
                                         <div class="margin-top-10">
                                             <a href="javascript:;" class="btn green"> Change Password </a>
                                             <a href="javascript:;" class="btn default"> Cancel </a>
@@ -664,26 +664,11 @@
                                                 <td>
                                                     <div class="mt-radio-inline">
                                                         <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios1" value="option1" /> Yes
+                                                            <input type="radio" name="optionsRadios1" value="option1"> Yes
                                                             <span></span>
                                                         </label>
                                                         <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios1" value="option2" checked/> No
-                                                            <span></span>
-                                                        </label>
-                                                    </div>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td> Enim eiusmod high life accusamus terry richardson ad squid wolf moon </td>
-                                                <td>
-                                                    <div class="mt-radio-inline">
-                                                        <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios21" value="option1" /> Yes
-                                                            <span></span>
-                                                        </label>
-                                                        <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios21" value="option2" checked/> No
+                                                            <input type="radio" name="optionsRadios1" value="option2" checked> No
                                                             <span></span>
                                                         </label>
                                                     </div>
@@ -694,11 +679,11 @@
                                                 <td>
                                                     <div class="mt-radio-inline">
                                                         <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios31" value="option1" /> Yes
+                                                            <input type="radio" name="optionsRadios21" value="option1"> Yes
                                                             <span></span>
                                                         </label>
                                                         <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios31" value="option2" checked/> No
+                                                            <input type="radio" name="optionsRadios21" value="option2" checked> No
                                                             <span></span>
                                                         </label>
                                                     </div>
@@ -709,11 +694,26 @@
                                                 <td>
                                                     <div class="mt-radio-inline">
                                                         <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios41" value="option1" /> Yes
+                                                            <input type="radio" name="optionsRadios31" value="option1"> Yes
                                                             <span></span>
                                                         </label>
                                                         <label class="mt-radio">
-                                                            <input type="radio" name="optionsRadios41" value="option2" checked/> No
+                                                            <input type="radio" name="optionsRadios31" value="option2" checked> No
+                                                            <span></span>
+                                                        </label>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td> Enim eiusmod high life accusamus terry richardson ad squid wolf moon </td>
+                                                <td>
+                                                    <div class="mt-radio-inline">
+                                                        <label class="mt-radio">
+                                                            <input type="radio" name="optionsRadios41" value="option1"> Yes
+                                                            <span></span>
+                                                        </label>
+                                                        <label class="mt-radio">
+                                                            <input type="radio" name="optionsRadios41" value="option2" checked> No
                                                             <span></span>
                                                         </label>
                                                     </div>
