@@ -451,7 +451,7 @@
 
 @push('page-level-styles')
     <style media="screen">
-        /* personal enhancement */
+        /* personal enhancement (OPTIONAL) */
         .page-content > .row { margin-top: 20px; }
     </style>
 @endpush
