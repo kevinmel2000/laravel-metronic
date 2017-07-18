@@ -77,6 +77,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.user.profile-1-help');
         })->name('admin-1.page-profile-1-help');
 
+        Route::get('profile-2', function () {
+            return view('admin-1.pages.user.profile-2');
+        })->name('admin-1.page-profile-2');
+
         Route::get('user-login-1', function () {
             return view('admin-1.pages.user.user-login-1');
         })->name('admin-1.page-user-login-1');
