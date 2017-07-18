@@ -97,7 +97,7 @@ var AppInbox = function () {
 
     var initWysihtml5 = function () {
         $('.inbox-wysihtml5').wysihtml5({
-            "stylesheets": ["../assets/global/plugins/bootstrap-wysihtml5/wysiwyg-color.css"]
+            "stylesheets": ["../../assets/global/plugins/bootstrap-wysihtml5/wysiwyg-color.css"]
         });
     }
 
@@ -106,14 +106,14 @@ var AppInbox = function () {
         $('#fileupload').fileupload({
             // Uncomment the following to send cross-domain cookies:
             //xhrFields: {withCredentials: true},
-            url: '../assets/global/plugins/jquery-file-upload/server/php/',
+            url: '../../assets/global/plugins/jquery-file-upload/server/php/',
             autoUpload: true
         });
 
         // Upload server status check for browsers with CORS support:
         if ($.support.cors) {
             $.ajax({
-                url: '../assets/global/plugins/jquery-file-upload/server/php/',
+                url: '../../assets/global/plugins/jquery-file-upload/server/php/',
                 type: 'HEAD'
             }).fail(function () {
                 $('<span class="alert alert-error"/>')
