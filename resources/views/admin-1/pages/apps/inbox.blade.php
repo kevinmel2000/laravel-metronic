@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Inbox
+        <small>user inbox</small>
+    </h1>
 @endsection
