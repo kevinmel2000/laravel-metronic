@@ -154,8 +154,9 @@
     <script type="text/javascript">
         /* Personal enhancement (REQUIRED) */
 
-        var inbox_datalist_url = "{{ route('admin-1.ajax.inbox-datalist') }}";
         var inbox_view_url = "{{ route('admin-1.ajax.inbox-view') }}";
+        var inbox_compose_url = "{{ route('admin-1.ajax.inbox-compose') }}";
+        var inbox_datalist_url = "{{ route('admin-1.ajax.inbox-datalist') }}";
     </script>
 @endpush
 

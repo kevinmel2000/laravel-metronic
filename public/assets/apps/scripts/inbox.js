@@ -125,7 +125,7 @@ var AppInbox = function () {
     }
 
     var loadCompose = function (el) {
-        var url = 'app_inbox_compose.html';
+        var url = inbox_compose_url;
 
         App.blockUI({
             target: content,
