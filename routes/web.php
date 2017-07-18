@@ -69,6 +69,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.apps.todo-1');
         })->name('admin-1.page-todo-1');
 
+        Route::get('todo-2', function () {
+            return view('admin-1.pages.apps.todo-2');
+        })->name('admin-1.page-todo-2');
+
 
         /*********************** SIDEBAR: PAGES: USER *************************/
 
