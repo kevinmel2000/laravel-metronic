@@ -122,7 +122,8 @@
         <!-- END THEME GLOBAL SCRIPTS -->
 
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script type="text/javascript" src="{{ asset('assets/pages/scripts/coming-soon.min.js') }}"></script>
+        {{-- <script type="text/javascript" src="{{ asset('assets/pages/scripts/coming-soon.min.js') }}"></script> --}}
+        <script type="text/javascript" src="{{ mix('js/coming-soon.min.js') }}"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
 
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
