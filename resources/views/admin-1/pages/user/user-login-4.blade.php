@@ -167,7 +167,7 @@
                         <option value=""></option>
                         <option value="AF">Afghanistan</option>
                         <option value="AL">Albania</option>
-                        <option value="...">...</option>
+                        <option value="">...</option>
                     </select>
                 </div>
                 <p> Enter your account details below: </p>
