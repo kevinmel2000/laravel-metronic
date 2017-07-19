@@ -33,7 +33,8 @@
         <!-- END THEME GLOBAL STYLES -->
 
         <!-- BEGIN PAGE LEVEL STYLES -->
-        <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/login-4.min.css') }}">
+        {{-- <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/login-4.min.css') }}"> --}}
+        <link rel="stylesheet" type="text/css" href="{{ mix('css/login-4.min.css') }}">
         <!-- END PAGE LEVEL STYLES -->
 
         <!-- BEGIN THEME LAYOUT STYLES -->
