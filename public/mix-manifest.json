@@ -4,5 +4,7 @@
     "/js/inbox.min.js": "/js/inbox.min.js?id=fa7fe5775f6ef8039851",
     "/css/lock-2.min.css": "/css/lock-2.min.css?id=c05cc2e2aff3c36ccadf",
     "/js/lock-2.min.js": "/js/lock-2.min.js?id=a43433982f59c012894a",
-    "/js/login.min.js": "/js/login.min.js?id=beb1f195b8e559b9c068"
+    "/js/login.min.js": "/js/login.min.js?id=beb1f195b8e559b9c068",
+    "/css/login-4.min.css": "/css/login-4.min.css?id=4cedbce5ee79015451de",
+    "/js/login-4.min.js": "/js/login-4.min.js?id=3c9abf75492abc729643"
 }
