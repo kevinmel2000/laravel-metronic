@@ -149,75 +149,75 @@ Route::group(['prefix' => 'admin-1'], function () {
 
         Route::get('about', function () {
             return view('admin-1.pages.general.about');
-        })->name('admin-1.page-about');
+        })->name('admin-1.general-about');
 
         Route::get('contact', function () {
             return view('admin-1.pages.general.contact');
-        })->name('admin-1.page-contact');
+        })->name('admin-1.general-contact');
 
         Route::get('portfolio-1', function () {
             return view('admin-1.pages.general.portfolio-1');
-        })->name('admin-1.page-portfolio-1');
+        })->name('admin-1.general-portfolio-1');
 
         Route::get('portfolio-2', function () {
             return view('admin-1.pages.general.portfolio-2');
-        })->name('admin-1.page-portfolio-2');
+        })->name('admin-1.general-portfolio-2');
 
         Route::get('portfolio-3', function () {
             return view('admin-1.pages.general.portfolio-3');
-        })->name('admin-1.page-portfolio-3');
+        })->name('admin-1.general-portfolio-3');
 
         Route::get('portfolio-4', function () {
             return view('admin-1.pages.general.portfolio-4');
-        })->name('admin-1.page-portfolio-4');
+        })->name('admin-1.general-portfolio-4');
 
         Route::get('search-1', function () {
             return view('admin-1.pages.general.search-1');
-        })->name('admin-1.page-search-1');
+        })->name('admin-1.general-search-1');
 
         Route::get('search-2', function () {
             return view('admin-1.pages.general.search-2');
-        })->name('admin-1.page-search-2');
+        })->name('admin-1.general-search-2');
 
         Route::get('search-3', function () {
             return view('admin-1.pages.general.search-3');
-        })->name('admin-1.page-search-3');
+        })->name('admin-1.general-search-3');
 
         Route::get('search-4', function () {
             return view('admin-1.pages.general.search-4');
-        })->name('admin-1.page-search-4');
+        })->name('admin-1.general-search-4');
 
         Route::get('search-5', function () {
             return view('admin-1.pages.general.search-5');
-        })->name('admin-1.page-search-5');
+        })->name('admin-1.general-search-5');
 
         Route::get('pricing-1', function () {
             return view('admin-1.pages.general.pricing-1');
-        })->name('admin-1.page-pricing-1');
+        })->name('admin-1.general-pricing-1');
 
         Route::get('pricing-2', function () {
             return view('admin-1.pages.general.pricing-2');
-        })->name('admin-1.page-pricing-2');
+        })->name('admin-1.general-pricing-2');
 
         Route::get('faq', function () {
             return view('admin-1.pages.general.faq');
-        })->name('admin-1.page-faq');
+        })->name('admin-1.general-faq');
 
         Route::get('blog', function () {
             return view('admin-1.pages.general.blog');
-        })->name('admin-1.page-blog');
+        })->name('admin-1.general-blog');
 
         Route::get('blog-post', function () {
             return view('admin-1.pages.general.blog-post');
-        })->name('admin-1.page-blog-post');
+        })->name('admin-1.general-blog-post');
 
         Route::get('invoice-1', function () {
             return view('admin-1.pages.general.invoice-1');
-        })->name('admin-1.page-invoice-1');
+        })->name('admin-1.general-invoice-1');
 
         Route::get('invoice-2', function () {
             return view('admin-1.pages.general.invoice-2');
-        })->name('admin-1.page-invoice-2');
+        })->name('admin-1.general-invoice-2');
 
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/

@@ -6,13 +6,13 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-about') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-about') }}" class="nav-link ">
                 <i class="icon-info"></i>
                 <span class="title">About</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-contact') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-contact') }}" class="nav-link ">
                 <i class="icon-call-end"></i>
                 <span class="title">Contact</span>
             </a>
@@ -25,16 +25,16 @@
             </a>
             <ul class="sub-menu">
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-portfolio-1') }}" class="nav-link "> Portfolio 1 </a>
+                    <a href="{{ route('admin-1.general-portfolio-1') }}" class="nav-link "> Portfolio 1 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-portfolio-2') }}" class="nav-link "> Portfolio 2 </a>
+                    <a href="{{ route('admin-1.general-portfolio-2') }}" class="nav-link "> Portfolio 2 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-portfolio-3') }}" class="nav-link "> Portfolio 3 </a>
+                    <a href="{{ route('admin-1.general-portfolio-3') }}" class="nav-link "> Portfolio 3 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-portfolio-4') }}" class="nav-link "> Portfolio 4 </a>
+                    <a href="{{ route('admin-1.general-portfolio-4') }}" class="nav-link "> Portfolio 4 </a>
                 </li>
             </ul>
         </li>
@@ -46,60 +46,60 @@
             </a>
             <ul class="sub-menu">
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-search-1') }}" class="nav-link "> Search 1 </a>
+                    <a href="{{ route('admin-1.general-search-1') }}" class="nav-link "> Search 1 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-search-2') }}" class="nav-link "> Search 2 </a>
+                    <a href="{{ route('admin-1.general-search-2') }}" class="nav-link "> Search 2 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-search-3') }}" class="nav-link "> Search 3 </a>
+                    <a href="{{ route('admin-1.general-search-3') }}" class="nav-link "> Search 3 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-search-4') }}" class="nav-link "> Search 4 </a>
+                    <a href="{{ route('admin-1.general-search-4') }}" class="nav-link "> Search 4 </a>
                 </li>
                 <li class="nav-item ">
-                    <a href="{{ route('admin-1.page-search-5') }}" class="nav-link "> Search 5 </a>
+                    <a href="{{ route('admin-1.general-search-5') }}" class="nav-link "> Search 5 </a>
                 </li>
             </ul>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-pricing-1') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-pricing-1') }}" class="nav-link ">
                 <i class="icon-tag"></i>
                 <span class="title">Pricing</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-pricing-2') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-pricing-2') }}" class="nav-link ">
                 <i class="icon-tag"></i>
                 <span class="title">Pricing 2</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-faq') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-faq') }}" class="nav-link ">
                 <i class="icon-wrench"></i>
                 <span class="title">FAQ</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-blog') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-blog') }}" class="nav-link ">
                 <i class="icon-pencil"></i>
                 <span class="title">Blog</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-blog-post') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-blog-post') }}" class="nav-link ">
                 <i class="icon-note"></i>
                 <span class="title">Blog Post</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-invoice-1') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-invoice-1') }}" class="nav-link ">
                 <i class="icon-envelope"></i>
                 <span class="title">Invoice</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="{{ route('admin-1.page-invoice-2') }}" class="nav-link ">
+            <a href="{{ route('admin-1.general-invoice-2') }}" class="nav-link ">
                 <i class="icon-envelope"></i>
                 <span class="title">Invoice 2</span>
             </a>
