@@ -149,11 +149,11 @@
                 </div>
                 <div class="form-group">
                     <label class="control-label visible-ie8 visible-ie9">Country</label>
-                    <select name="country" class="form-control">
+                    <select name="country" id="country_list" class="form-control">
                         <option value="">Country</option>
                         <option value="AF">Afghanistan</option>
                         <option value="AL">Albania</option>
-                        <option value="...">...</option>
+                        <option value="">...</option>
                     </select>
                 </div>
                 <p class="hint"> Enter your account details below: </p>
@@ -214,7 +214,8 @@
         <!-- END THEME GLOBAL SCRIPTS -->
 
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script type="text/javascript" src="{{ asset('assets/pages/scripts/login.min.js') }}"></script>
+        {{-- <script type="text/javascript" src="{{ asset('assets/pages/scripts/login.min.js') }}"></script> --}}
+        <script type="text/javascript" src="{{ mix('js/login.min.js') }}"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
 
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
