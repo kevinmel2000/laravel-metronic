@@ -161,7 +161,8 @@
 @endpush
 
 @push('page-level-scripts')
-    <script type="text/javascript" src="{{ asset('assets/apps/scripts/inbox.js') }}"></script>
+    {{-- <script type="text/javascript" src="{{ asset('assets/apps/scripts/inbox.js') }}"></script> --}}
+    <script type="text/javascript" src="{{ mix('js/inbox.min.js') }}"></script>
 @endpush
 
 @push('page-level-scripts')
