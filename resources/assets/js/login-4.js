@@ -124,10 +124,10 @@ var Login = function () {
 
 	var handleRegister = function () {
 
-		        function format(state) {
+        function format(state) {
             if (!state.id) { return state.text; }
             var $state = $(
-             '<span><img src="../assets/global/img/flags/' + state.element.value.toLowerCase() + '.png" class="img-flag" /> ' + state.text + '</span>'
+             '<span><img src="../../assets/global/img/flags/' + state.element.value.toLowerCase() + '.png" class="img-flag"> ' + state.text + '</span>'
             );
 
             return $state;
