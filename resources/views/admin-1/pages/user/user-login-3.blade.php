@@ -165,7 +165,7 @@
                         <option value=""></option>
                         <option value="AF">Afghanistan</option>
                         <option value="AL">Albania</option>
-                        <option value="...">...</option>
+                        <option value="">...</option>
                     </select>
                 </div>
                 <p> Enter your account details below: </p>
@@ -237,7 +237,8 @@
         <!-- END THEME GLOBAL SCRIPTS -->
 
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script type="text/javascript" src="{{ asset('assets/pages/scripts/login.min.js') }}"></script>
+        {{-- <script type="text/javascript" src="{{ asset('assets/pages/scripts/login.min.js') }}"></script> --}}
+        <script type="text/javascript" src="{{ mix('js/login.min.js') }}"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
 
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
