@@ -20,7 +20,7 @@ body {
 .page-lock .page-body {
   width: 510px;
   padding: 15px;
-  background: url(../img/bg-white-lock.png) repeat;
+  background: url(../../assets/pages/img/bg-white-lock.png) repeat;
   -webkit-border-radius: 7px;
   -moz-border-radius: 7px;
   -ms-border-radius: 7px;
