@@ -12,7 +12,7 @@ Login page
   text-align: center; }
 
 .login .content {
-  background: url(../img/bg-white-lock.png) repeat;
+  background: url(../../assets/pages/img/bg-white-lock.png) repeat;
   width: 360px;
   margin: 0 auto;
   margin-bottom: 0px;
