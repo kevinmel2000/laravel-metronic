@@ -4,7 +4,7 @@ var AppInbox = function () {
     var listListing = '';
 
     var loadInbox = function (el, name) {
-        var url = inbox_datalist_url;
+        var url = 'app_inbox_inbox.html';
         var title = el.attr('data-title');
         listListing = name;
 
@@ -21,7 +21,7 @@ var AppInbox = function () {
             cache: false,
             url: url,
             dataType: "html",
-            success: function(res)
+            success: function(res) 
             {
                 toggleButton(el);
 
@@ -55,7 +55,7 @@ var AppInbox = function () {
     }
 
     var loadMessage = function (el, name, resetMenu) {
-        var url = inbox_view_url;
+        var url = 'app_inbox_view.html';
 
         App.blockUI({
             target: content,
@@ -65,15 +65,15 @@ var AppInbox = function () {
 
         toggleButton(el);
 
-        var message_id = el.parent('tr').attr("data-messageid");
-
+        var message_id = el.parent('tr').attr("data-messageid");  
+        
         $.ajax({
             type: "GET",
             cache: false,
             url: url,
             dataType: "html",
             data: {'message_id': message_id},
-            success: function(res)
+            success: function(res) 
             {
                 App.unblockUI(content);
 
@@ -97,7 +97,7 @@ var AppInbox = function () {
 
     var initWysihtml5 = function () {
         $('.inbox-wysihtml5').wysihtml5({
-            "stylesheets": ["../../assets/global/plugins/bootstrap-wysihtml5/wysiwyg-color.css"]
+            "stylesheets": ["../assets/global/plugins/bootstrap-wysihtml5/wysiwyg-color.css"]
         });
     }
 
@@ -106,14 +106,14 @@ var AppInbox = function () {
         $('#fileupload').fileupload({
             // Uncomment the following to send cross-domain cookies:
             //xhrFields: {withCredentials: true},
-            url: '../../assets/global/plugins/jquery-file-upload/server/php/',
+            url: '../assets/global/plugins/jquery-file-upload/server/php/',
             autoUpload: true
         });
 
         // Upload server status check for browsers with CORS support:
         if ($.support.cors) {
             $.ajax({
-                url: '../../assets/global/plugins/jquery-file-upload/server/php/',
+                url: '../assets/global/plugins/jquery-file-upload/server/php/',
                 type: 'HEAD'
             }).fail(function () {
                 $('<span class="alert alert-error"/>')
@@ -125,7 +125,7 @@ var AppInbox = function () {
     }
 
     var loadCompose = function (el) {
-        var url = inbox_compose_url;
+        var url = 'app_inbox_compose.html';
 
         App.blockUI({
             target: content,
@@ -141,7 +141,7 @@ var AppInbox = function () {
             cache: false,
             url: url,
             dataType: "html",
-            success: function(res)
+            success: function(res) 
             {
                 App.unblockUI(content);
                 toggleButton(el);
@@ -168,7 +168,7 @@ var AppInbox = function () {
     var loadReply = function (el) {
         var messageid = $(el).attr("data-messageid");
         var url = 'app_inbox_reply.html';
-
+        
         App.blockUI({
             target: content,
             overlayColor: 'none',
@@ -183,7 +183,7 @@ var AppInbox = function () {
             cache: false,
             url: url,
             dataType: "html",
-            success: function(res)
+            success: function(res) 
             {
                 App.unblockUI(content);
                 toggleButton(el);
