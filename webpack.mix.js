@@ -26,3 +26,5 @@ mix.scripts(['resources/assets/js/login.js'], 'public/js/login.min.js').version(
 
 mix.styles(['resources/assets/css/login-4.css'], 'public/css/login-4.min.css').version();
 mix.scripts(['resources/assets/js/login-4.js'], 'public/js/login-4.min.js').version();
+
+mix.scripts(['resources/assets/js/login-5.js'], 'public/js/login-5.min.js').version();
