@@ -23,3 +23,5 @@ mix.styles(['resources/assets/css/lock-2.css'], 'public/css/lock-2.min.css').ver
 mix.scripts(['resources/assets/js/lock-2.js'], 'public/js/lock-2.min.js').version();
 
 mix.scripts(['resources/assets/js/login.js'], 'public/js/login.min.js').version();
+
+mix.styles(['resources/assets/css/login-4.css'], 'public/css/login-4.min.css').version();
