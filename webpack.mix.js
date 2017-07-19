@@ -21,3 +21,5 @@ mix.scripts(['resources/assets/js/inbox.js'], 'public/js/inbox.min.js')
 
 mix.styles(['resources/assets/css/lock-2.css'], 'public/css/lock-2.min.css').version();
 mix.scripts(['resources/assets/js/lock-2.js'], 'public/js/lock-2.min.js').version();
+
+mix.scripts(['resources/assets/js/login.js'], 'public/js/login.min.js').version();
