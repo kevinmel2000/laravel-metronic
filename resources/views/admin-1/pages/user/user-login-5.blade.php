@@ -160,7 +160,8 @@
         <!-- END THEME GLOBAL SCRIPTS -->
 
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script type="text/javascript" src="{{ asset('assets/pages/scripts/login-5.min.js') }}"></script>
+        {{-- <script type="text/javascript" src="{{ asset('assets/pages/scripts/login-5.min.js') }}"></script> --}}
+        <script type="text/javascript" src="{{ mix('js/login-5.min.js') }}"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
 
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
