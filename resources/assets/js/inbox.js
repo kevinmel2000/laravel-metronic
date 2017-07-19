@@ -4,7 +4,7 @@ var AppInbox = function () {
     var listListing = '';
 
     var loadInbox = function (el, name) {
-        var url = 'app_inbox_inbox.html';
+        var url = inbox_datalist_url;
         var title = el.attr('data-title');
         listListing = name;
 
@@ -55,7 +55,7 @@ var AppInbox = function () {
     }
 
     var loadMessage = function (el, name, resetMenu) {
-        var url = 'app_inbox_view.html';
+        var url = inbox_view_url;
 
         App.blockUI({
             target: content,
@@ -97,7 +97,7 @@ var AppInbox = function () {
 
     var initWysihtml5 = function () {
         $('.inbox-wysihtml5').wysihtml5({
-            "stylesheets": ["../assets/global/plugins/bootstrap-wysihtml5/wysiwyg-color.css"]
+            "stylesheets": ["../../assets/global/plugins/bootstrap-wysihtml5/wysiwyg-color.css"]
         });
     }
 
@@ -106,14 +106,14 @@ var AppInbox = function () {
         $('#fileupload').fileupload({
             // Uncomment the following to send cross-domain cookies:
             //xhrFields: {withCredentials: true},
-            url: '../assets/global/plugins/jquery-file-upload/server/php/',
+            url: '../../assets/global/plugins/jquery-file-upload/server/php/',
             autoUpload: true
         });
 
         // Upload server status check for browsers with CORS support:
         if ($.support.cors) {
             $.ajax({
-                url: '../assets/global/plugins/jquery-file-upload/server/php/',
+                url: '../../assets/global/plugins/jquery-file-upload/server/php/',
                 type: 'HEAD'
             }).fail(function () {
                 $('<span class="alert alert-error"/>')
@@ -125,7 +125,7 @@ var AppInbox = function () {
     }
 
     var loadCompose = function (el) {
-        var url = 'app_inbox_compose.html';
+        var url = inbox_compose_url;
 
         App.blockUI({
             target: content,
