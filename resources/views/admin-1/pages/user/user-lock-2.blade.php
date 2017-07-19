@@ -98,7 +98,8 @@
         <!-- END THEME GLOBAL SCRIPTS -->
 
         <!-- BEGIN PAGE LEVEL SCRIPTS -->
-        <script type="text/javascript" src="{{ asset('assets/pages/scripts/lock-2.min.js') }}"></script>
+        {{-- <script type="text/javascript" src="{{ asset('assets/pages/scripts/lock-2.min.js') }}"></script> --}}
+        <script type="text/javascript" src="{{ mix('js/lock-2.min.js') }}"></script>
         <!-- END PAGE LEVEL SCRIPTS -->
 
         <!-- BEGIN THEME LAYOUT SCRIPTS -->
