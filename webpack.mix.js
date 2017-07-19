@@ -15,3 +15,6 @@ mix.sass('resources/assets/sass/app.scss', 'public/css');
 
 mix.scripts(['resources/assets/js/coming-soon.js'], 'public/js/coming-soon.min.js')
    .version();
+
+mix.scripts(['resources/assets/js/inbox.js'], 'public/js/inbox.min.js')
+   .version();
