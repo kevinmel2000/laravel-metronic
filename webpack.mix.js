@@ -18,3 +18,6 @@ mix.scripts(['resources/assets/js/coming-soon.js'], 'public/js/coming-soon.min.j
 
 mix.scripts(['resources/assets/js/inbox.js'], 'public/js/inbox.min.js')
    .version();
+
+mix.styles(['resources/assets/css/lock-2.css'], 'public/css/lock-2.min.css')
+   .version();
