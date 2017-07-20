@@ -13,3 +13,9 @@
         </li>
     </ul>
 @endsection
+
+@section('content')
+    <h1 class="page-title"> Support Tickets
+        <small>main support page</small>
+    </h1>
+@endsection
