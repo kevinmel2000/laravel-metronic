@@ -67,3 +67,7 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/fullcalendar/fullcalendar.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-ui/jquery-ui.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/apps/scripts/calendar.min.js') }}"></script>
+@endpush
