@@ -61,3 +61,9 @@
 @push('page-level-plugins-header')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/fullcalendar/fullcalendar.min.css') }}">
 @endpush
+
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/moment.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/fullcalendar/fullcalendar.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-ui/jquery-ui.min.js') }}"></script>
+@endpush
