@@ -24,7 +24,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="app_calendar.html" class="nav-link ">
+            <a href="{{ route('admin-1.app-calendar') }}" class="nav-link ">
                 <i class="icon-calendar"></i>
                 <span class="title">Calendar</span>
             </a>
