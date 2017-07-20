@@ -30,7 +30,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="app_ticket.html" class="nav-link ">
+            <a href="{{ route('admin-1.app-support') }}" class="nav-link ">
                 <i class="icon-notebook"></i>
                 <span class="title">Support</span>
             </a>
