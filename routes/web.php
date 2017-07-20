@@ -93,6 +93,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.apps.inbox');
         })->name('admin-1.app-inbox');
 
+        Route::get('calendar', function () {
+            return view('admin-1.pages.apps.calendar');
+        })->name('admin-1.app-calendar');
+
 
         /*********************** SIDEBAR: PAGES: USER *************************/
 
