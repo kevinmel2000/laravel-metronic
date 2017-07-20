@@ -15,7 +15,7 @@
 @endsection
 
 @section('content')
-    <h1 class="page-title"> Support Tickets
+    <h1 class="page-title"> Support Ticket
         <small>main support page</small>
     </h1>
 
