@@ -21,26 +21,32 @@
 
     <div class="row">
         <div class="col-md-12">
+
             <!-- BEGIN PROFILE SIDEBAR -->
             <div class="profile-sidebar">
+
                 <!-- PORTLET MAIN -->
                 <div class="portlet light profile-sidebar-portlet ">
                     <!-- SIDEBAR USERPIC -->
                     <div class="profile-userpic">
-                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt=""> </div>
+                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt="">
+                    </div>
                     <!-- END SIDEBAR USERPIC -->
+
                     <!-- SIDEBAR USER TITLE -->
                     <div class="profile-usertitle">
                         <div class="profile-usertitle-name"> Marcus Doe </div>
                         <div class="profile-usertitle-job"> Developer </div>
                     </div>
                     <!-- END SIDEBAR USER TITLE -->
+
                     <!-- SIDEBAR BUTTONS -->
                     <div class="profile-userbuttons">
                         <button type="button" class="btn btn-circle green btn-sm">Follow</button>
                         <button type="button" class="btn btn-circle red btn-sm">Message</button>
                     </div>
                     <!-- END SIDEBAR BUTTONS -->
+
                     <!-- SIDEBAR MENU -->
                     <div class="profile-usermenu">
                         <ul class="nav">
@@ -61,6 +67,7 @@
                     <!-- END MENU -->
                 </div>
                 <!-- END PORTLET MAIN -->
+
                 <!-- PORTLET MAIN -->
                 <div class="portlet light ">
                     <!-- STAT -->
@@ -99,6 +106,7 @@
                 <!-- END PORTLET MAIN -->
             </div>
             <!-- END BEGIN PROFILE SIDEBAR -->
+
             <!-- BEGIN TICKET LIST CONTENT -->
             <div class="app-ticket app-ticket-list">
                 <div class="row">
@@ -400,6 +408,7 @@
                 </div>
             </div>
             <!-- END PROFILE CONTENT -->
+
         </div>
     </div>
 @endsection
