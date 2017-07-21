@@ -1,6 +1,6 @@
 @extends('layouts.admin-1.master')
 
-@section('title', 'Support Ticket')
+@section('title', 'Support Tickets')
 
 @section('breadcrumb')
     <ul class="page-breadcrumb">
