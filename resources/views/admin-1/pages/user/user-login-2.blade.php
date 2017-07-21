@@ -44,14 +44,14 @@
     <body class=" login">
 
         <div class="logo">
-            <a href="index.html">
+            <a href="{{ route('admin-1.index') }}">
                 <img src="{{ asset('assets/pages/img/logo-big-white.png') }}" style="height: 17px;" alt="">
             </a>
         </div>
 
         <div class="content">
             <!-- BEGIN LOGIN FORM -->
-            <form class="login-form" action="index.html" method="post">
+            <form class="login-form" action="{{ route('admin-1.index') }}" method="post">
                 <div class="form-title">
                     <span class="form-title">Welcome.</span>
                     <span class="form-subtitle">Please login.</span>
@@ -109,7 +109,7 @@
             <!-- END LOGIN FORM -->
 
             <!-- BEGIN FORGOT PASSWORD FORM -->
-            <form class="forget-form" action="index.html" method="post">
+            <form class="forget-form" action="{{ route('admin-1.index') }}" method="post">
                 <div class="form-title">
                     <span class="form-title">Forget Password ?</span>
                     <span class="form-subtitle">Enter your e-mail to reset it.</span>
@@ -125,7 +125,7 @@
             <!-- END FORGOT PASSWORD FORM -->
 
             <!-- BEGIN REGISTRATION FORM -->
-            <form class="register-form" action="index.html" method="post">
+            <form class="register-form" action="{{ route('admin-1.index') }}" method="post">
                 <div class="form-title">
                     <span class="form-title">Sign Up</span>
                 </div>

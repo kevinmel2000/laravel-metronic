@@ -42,7 +42,7 @@
     <body class="">
         <div class="page-lock">
             <div class="page-logo">
-                <a class="brand" href="index.html">
+                <a class="brand" href="{{ route('admin-1.index') }}">
                     <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="logo">
                 </a>
             </div>
