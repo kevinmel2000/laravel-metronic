@@ -26,7 +26,7 @@
                 <div class="portlet light profile-sidebar-portlet ">
                     <!-- SIDEBAR USERPIC -->
                     <div class="profile-userpic">
-                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt="">
+                        <img src="{{ asset('/assets/pages/media/profile/profile_user.jpg') }}" class="img-responsive" alt="">
                     </div>
                     <!-- END SIDEBAR USERPIC -->
 
