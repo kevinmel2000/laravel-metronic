@@ -26,7 +26,8 @@
                 <div class="portlet light profile-sidebar-portlet ">
                     <!-- SIDEBAR USERPIC -->
                     <div class="profile-userpic">
-                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt=""> </div>
+                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt="">
+                    </div>
                     <!-- END SIDEBAR USERPIC -->
 
                     <!-- SIDEBAR USER TITLE -->
@@ -48,15 +49,18 @@
                         <ul class="nav">
                             <li>
                                 <a href="app_ticket.html">
-                                    <i class="icon-home"></i> Ticket List </a>
+                                    <i class="icon-home"></i> Ticket List
+                                </a>
                             </li>
                             <li class="active">
                                 <a href="app_ticket_staff.html">
-                                    <i class="icon-settings"></i> Support Staff </a>
+                                    <i class="icon-settings"></i> Support Staff
+                                </a>
                             </li>
                             <li>
                                 <a href="app_ticket_config.html">
-                                    <i class="icon-info"></i> Configurations </a>
+                                    <i class="icon-info"></i> Configurations
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -133,15 +137,18 @@
                                                 <ul class="dropdown-menu pull-right">
                                                     <li>
                                                         <a href="javascript:;">
-                                                            <i class="fa fa-print"></i> Print </a>
+                                                            <i class="fa fa-print"></i> Print
+                                                        </a>
                                                     </li>
                                                     <li>
                                                         <a href="javascript:;">
-                                                            <i class="fa fa-file-pdf-o"></i> Save as PDF </a>
+                                                            <i class="fa fa-file-pdf-o"></i> Save as PDF
+                                                        </a>
                                                     </li>
                                                     <li>
                                                         <a href="javascript:;">
-                                                            <i class="fa fa-file-excel-o"></i> Export to Excel </a>
+                                                            <i class="fa fa-file-excel-o"></i> Export to Excel
+                                                        </a>
                                                     </li>
                                                 </ul>
                                             </div>
