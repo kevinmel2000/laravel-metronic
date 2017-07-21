@@ -145,7 +145,7 @@
                                         <tr>
                                             <th>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="group-checkable" data-set="#sample_1 .checkboxes" />
+                                                    <input type="checkbox" class="group-checkable" data-set="#sample_1 .checkboxes">
                                                     <span></span>
                                                 </label>
                                             </th>
@@ -160,7 +160,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -181,7 +181,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -202,7 +202,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -223,7 +223,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -244,7 +244,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -265,7 +265,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -286,7 +286,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -307,7 +307,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -328,7 +328,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
@@ -349,7 +349,7 @@
                                         <tr class="odd gradeX">
                                             <td>
                                                 <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                    <input type="checkbox" class="checkboxes" value="1" />
+                                                    <input type="checkbox" class="checkboxes" value="1">
                                                     <span></span>
                                                 </label>
                                             </td>
