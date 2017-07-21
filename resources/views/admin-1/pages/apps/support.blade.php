@@ -52,15 +52,18 @@
                         <ul class="nav">
                             <li class="active">
                                 <a href="{{ route('admin-1.app-support') }}">
-                                    <i class="icon-home"></i> Ticket List </a>
+                                    <i class="icon-home"></i> Ticket List
+                                </a>
                             </li>
                             <li>
                                 <a href="{{ route('admin-1.partial.support-staff') }}">
-                                    <i class="icon-settings"></i> Support Staff </a>
+                                    <i class="icon-settings"></i> Support Staff
+                                </a>
                             </li>
                             <li>
                                 <a href="{{ route('admin-1.partial.support-config') }}">
-                                    <i class="icon-info"></i> Configurations </a>
+                                    <i class="icon-info"></i> Configurations
+                                </a>
                             </li>
                         </ul>
                     </div>
