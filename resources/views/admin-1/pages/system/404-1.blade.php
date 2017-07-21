@@ -5,7 +5,7 @@
 @section('breadcrumb')
     <ul class="page-breadcrumb">
         <li>
-            <a href="index.html">Home</a>
+            <a href="{{ route('admin-1.index') }}">Home</a>
             <i class="fa fa-circle"></i>
         </li>
         <li>
@@ -26,7 +26,7 @@
             <div class="details">
                 <h3>Oops! You're lost.</h3>
                 <p> We can not find the page you're looking for.<br>
-                    <a href="index.html"> Return home </a> or try the search bar below.</p>
+                    <a href="{{ route('admin-1.index') }}"> Return home </a> or try the search bar below.</p>
 
                 <form action="#">
                     <div class="input-group input-medium">

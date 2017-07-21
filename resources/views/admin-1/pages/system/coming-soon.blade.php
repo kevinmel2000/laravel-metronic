@@ -43,7 +43,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 coming-soon-header">
-                    <a class="brand" href="index.html">
+                    <a class="brand" href="{{ route('admin-1.index') }}">
                         <img src="{{ asset('assets/pages/img/logo-big.png') }}" alt="logo">
                     </a>
                 </div>

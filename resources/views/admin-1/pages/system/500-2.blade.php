@@ -46,7 +46,7 @@
                 <div class=" details">
                     <h3>Oops! Something went wrong.</h3>
                     <p> We are fixing it! Please come back in a while.</p>
-                    <p><a href="index.html" class="btn red btn-outline"> Return home </a></p>
+                    <p><a href="{{ route('admin-1.index') }}" class="btn red btn-outline"> Return home </a></p>
                 </div>
             </div>
         </div>
