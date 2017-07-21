@@ -44,6 +44,10 @@ Route::group(['prefix' => 'admin-1'], function () {
         return view('admin-1.pages.apps._partial.support-staff');
     })->name('admin-1.partial.support-staff');
 
+    Route::get('_partial/support-config', function () {
+        return view('admin-1.pages.apps._partial.support-config');
+    })->name('admin-1.partial.support-config');
+
     //////////////////////////////// General ///////////////////////////////////
 
     Route::get('_ajax/load-more', function () {
