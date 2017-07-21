@@ -5,7 +5,7 @@
 @section('breadcrumb')
     <ul class="page-breadcrumb">
         <li>
-            <a href="index.html">Home</a>
+            <a href="{{ route('admin-1.index') }}">Home</a>
             <i class="fa fa-circle"></i>
         </li>
         <li>
@@ -101,7 +101,7 @@
                 <div class="inbox-body">
                     <div class="inbox-header">
                         <h1 class="pull-left">Inbox</h1>
-                        <form class="form-inline pull-right" action="index.html">
+                        <form class="form-inline pull-right" action="{{ route('admin-1.index') }}">
                             <div class="input-group input-medium">
                                 <input type="text" class="form-control" placeholder="Password">
                                 <span class="input-group-btn">
