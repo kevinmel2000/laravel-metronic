@@ -418,3 +418,10 @@
     <script type="text/javascript" src="{{ asset('assets/pages/scripts/profile.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/pages/scripts/table-datatables-managed.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script>
+        $('body').addClass('page-container-bg-solid page-sidebar-closed');
+        $('ul.page-sidebar-menu').addClass('page-sidebar-menu-closed');
+    </script>
+@endpush
