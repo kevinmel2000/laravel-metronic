@@ -58,7 +58,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="app_ticket_config.html">
+                                <a href="{{ route('admin-1.partial.support-config') }}">
                                     <i class="icon-info"></i> Configurations
                                 </a>
                             </li>
