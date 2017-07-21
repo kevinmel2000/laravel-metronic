@@ -10,3 +10,9 @@
         </li>
     </ul>
 @endsection
+
+@section('content')
+    <h1 class="page-title"> Ticket Support Staff Page
+        <small>manage your ticket support staff</small>
+    </h1>
+@endsection
