@@ -26,7 +26,8 @@
                 <div class="portlet light profile-sidebar-portlet ">
                     <!-- SIDEBAR USERPIC -->
                     <div class="profile-userpic">
-                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt=""> </div>
+                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt="">
+                    </div>
                     <!-- END SIDEBAR USERPIC -->
 
                     <!-- SIDEBAR USER TITLE -->
@@ -48,15 +49,18 @@
                         <ul class="nav">
                             <li>
                                 <a href="app_ticket.html">
-                                    <i class="icon-home"></i> Ticket List </a>
+                                    <i class="icon-home"></i> Ticket List
+                                </a>
                             </li>
                             <li>
                                 <a href="app_ticket_staff.html">
-                                    <i class="icon-settings"></i> Support Staff </a>
+                                    <i class="icon-settings"></i> Support Staff
+                                </a>
                             </li>
                             <li class="active">
                                 <a href="app_ticket_config.html">
-                                    <i class="icon-info"></i> Configurations </a>
+                                    <i class="icon-info"></i> Configurations
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -169,8 +173,10 @@
                                         </div>
                                         <div class="col-md-6">
                                             <h3>
-                                                <i class="icon-picture"></i> Staff Avatar</h3>
-                                            <input class="form-control input-medium" type="file" value="" /> </div>
+                                                <i class="icon-picture"></i> Staff Avatar
+                                            </h3>
+                                            <input class="form-control input-medium" type="file" value="" /> 
+                                        </div>
                                     </div>
                                     <button class="btn btn-square uppercase bold green" type="submit">Submit</button>
                                 </form>
@@ -180,7 +186,7 @@
                 </div>
             </div>
             <!-- END PROFILE CONTENT -->
-            
+
         </div>
     </div>
 @endsection
