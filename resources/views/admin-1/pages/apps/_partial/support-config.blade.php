@@ -48,17 +48,17 @@
                     <div class="profile-usermenu">
                         <ul class="nav">
                             <li>
-                                <a href="app_ticket.html">
+                                <a href="{{ route('admin-1.app-support') }}">
                                     <i class="icon-home"></i> Ticket List
                                 </a>
                             </li>
                             <li>
-                                <a href="app_ticket_staff.html">
+                                <a href="{{ route('admin-1.partial.support-staff') }}">
                                     <i class="icon-settings"></i> Support Staff
                                 </a>
                             </li>
                             <li class="active">
-                                <a href="app_ticket_config.html">
+                                <a href="{{ route('admin-1.partial.support-config') }}">
                                     <i class="icon-info"></i> Configurations
                                 </a>
                             </li>
