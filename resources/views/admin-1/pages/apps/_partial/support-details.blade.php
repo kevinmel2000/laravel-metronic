@@ -218,3 +218,8 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery.sparkline.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/profile.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/components-date-time-pickers.min.js') }}"></script>
+@endpush
