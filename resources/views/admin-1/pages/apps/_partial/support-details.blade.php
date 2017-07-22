@@ -10,3 +10,9 @@
         </li>
     </ul>
 @endsection
+
+@section('content')
+    <h1 class="page-title"> Support Ticket Detailed Page
+        <small>ticket details page</small>
+    </h1>
+@endsection
