@@ -26,7 +26,8 @@
                 <div class="portlet light profile-sidebar-portlet ">
                     <!-- SIDEBAR USERPIC -->
                     <div class="profile-userpic">
-                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt=""> </div>
+                        <img src="../assets/pages/media/profile/profile_user.jpg" class="img-responsive" alt="">
+                    </div>
                     <!-- END SIDEBAR USERPIC -->
 
                     <!-- SIDEBAR USER TITLE -->
@@ -138,10 +139,10 @@
                                     <div class="col-xs-12">
                                         <div class="ticket-msg">
                                             <h3>
-                                                <i class="icon-note"></i> Customer Message</h3>
-                                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac purus urna. Nam eu ante orci. Ut sollicitudin tempor dolor a feugiat. Proin sodales molestie nisl ac varius.
-                                                <br/>
-                                                <br/> Morbi volutpat urna at ultrices lacinia. Integer consectetur justo quis luctus congue. Fusce at sem a ipsum efficitur tincidunt cursus sit amet enim. </p>
+                                                <i class="icon-note"></i> Customer Message
+                                            </h3>
+                                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac purus urna. Nam eu ante orci. Ut sollicitudin tempor dolor a feugiat. Proin sodales molestie nisl ac varius. <br/> <br/> Morbi volutpat urna at ultrices lacinia. Integer consectetur justo quis luctus congue. Fusce at sem a ipsum efficitur tincidunt cursus sit amet enim.
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -150,14 +151,16 @@
                                     <div class="row">
                                         <div class="col-xs-12">
                                             <h3>
-                                                <i class="icon-action-redo"></i> Ticket Reply</h3>
+                                                <i class="icon-action-redo"></i> Ticket Reply
+                                            </h3>
                                             <textarea class="ticket-reply-msg" row="10"></textarea>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-md-4">
                                             <h3>
-                                                <i class="icon-user-follow"></i> Assign to</h3>
+                                                <i class="icon-user-follow"></i> Assign to
+                                            </h3>
                                             <select class="ticket-assign">
                                                 <option value="">Hugh Jackman</option>
                                                 <option value="">Matt Damon</option>
@@ -168,11 +171,13 @@
                                         </div>
                                         <div class="col-md-4">
                                             <h3 class="ticket-margin">
-                                                <i class="icon-calendar"></i> Due Date</h3>
+                                                <i class="icon-calendar"></i> Due Date
+                                            </h3>
                                             <input class="form-control form-control-inline input-small date-picker" size="16" type="text" value="" /> </div>
                                         <div class="col-md-4">
                                             <h3 class="ticket-margin">
-                                                <i class="icon-info"></i> Status</h3>
+                                                <i class="icon-info"></i> Status
+                                            </h3>
                                             <select class="ticket-status">
                                                 <option value="">New</option>
                                                 <option value="">Pending</option>
@@ -189,7 +194,7 @@
                 </div>
             </div>
             <!-- END PROFILE CONTENT -->
-            
+
         </div>
     </div>
 @endsection
