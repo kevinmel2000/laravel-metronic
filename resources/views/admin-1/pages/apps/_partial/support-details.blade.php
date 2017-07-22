@@ -47,17 +47,20 @@
                     <!-- SIDEBAR MENU -->
                     <div class="profile-usermenu">
                         <ul class="nav">
-                            <li>
-                                <a href="app_ticket.html">
-                                    <i class="icon-home"></i> Ticket List </a>
+                            <li class="active">
+                                <a href="{{ route('admin-1.app-support') }}">
+                                    <i class="icon-home"></i> Ticket List
+                                </a>
                             </li>
                             <li>
-                                <a href="app_ticket_staff.html">
-                                    <i class="icon-settings"></i> Support Staff </a>
+                                <a href="{{ route('admin-1.partial.support-staff') }}">
+                                    <i class="icon-settings"></i> Support Staff
+                                </a>
                             </li>
                             <li>
-                                <a href="app_ticket_config.html">
-                                    <i class="icon-info"></i> Configurations </a>
+                                <a href="{{ route('admin-1.partial.support-config') }}">
+                                    <i class="icon-info"></i> Configurations
+                                </a>
                             </li>
                         </ul>
                     </div>
