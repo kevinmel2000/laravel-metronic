@@ -162,7 +162,8 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <h3>
-                                                <i class="icon-user-follow"></i> Staff Role</h3>
+                                                <i class="icon-user-follow"></i> Staff Role
+                                            </h3>
                                             <select class="ticket-assign form-control input-medium">
                                                 <option value="">Administrator</option>
                                                 <option value="" selected>Developer</option>
@@ -175,7 +176,7 @@
                                             <h3>
                                                 <i class="icon-picture"></i> Staff Avatar
                                             </h3>
-                                            <input class="form-control input-medium" type="file" value=""> 
+                                            <input class="form-control input-medium" type="file" value="">
                                         </div>
                                     </div>
                                     <button class="btn btn-square uppercase bold green" type="submit">Submit</button>
