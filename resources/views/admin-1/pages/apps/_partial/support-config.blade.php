@@ -175,7 +175,7 @@
                                             <h3>
                                                 <i class="icon-picture"></i> Staff Avatar
                                             </h3>
-                                            <input class="form-control input-medium" type="file" value="" /> 
+                                            <input class="form-control input-medium" type="file" value=""> 
                                         </div>
                                     </div>
                                     <button class="btn btn-square uppercase bold green" type="submit">Submit</button>
