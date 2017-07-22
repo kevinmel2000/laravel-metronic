@@ -141,7 +141,7 @@
                                             <h3>
                                                 <i class="icon-note"></i> Customer Message
                                             </h3>
-                                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac purus urna. Nam eu ante orci. Ut sollicitudin tempor dolor a feugiat. Proin sodales molestie nisl ac varius. <br/> <br/> Morbi volutpat urna at ultrices lacinia. Integer consectetur justo quis luctus congue. Fusce at sem a ipsum efficitur tincidunt cursus sit amet enim.
+                                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac purus urna. Nam eu ante orci. Ut sollicitudin tempor dolor a feugiat. Proin sodales molestie nisl ac varius. <br> <br> Morbi volutpat urna at ultrices lacinia. Integer consectetur justo quis luctus congue. Fusce at sem a ipsum efficitur tincidunt cursus sit amet enim.
                                             </p>
                                         </div>
                                     </div>
@@ -173,7 +173,8 @@
                                             <h3 class="ticket-margin">
                                                 <i class="icon-calendar"></i> Due Date
                                             </h3>
-                                            <input class="form-control form-control-inline input-small date-picker" size="16" type="text" value="" /> </div>
+                                            <input class="form-control form-control-inline input-small date-picker" size="16" type="text" value="">
+                                        </div>
                                         <div class="col-md-4">
                                             <h3 class="ticket-margin">
                                                 <i class="icon-info"></i> Status
