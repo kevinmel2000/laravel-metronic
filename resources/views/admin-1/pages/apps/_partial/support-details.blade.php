@@ -212,3 +212,9 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/pages/css/profile.min.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/apps/css/ticket.min.css') }}">
 @endpush
+
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-fileinput/bootstrap-fileinput.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery.sparkline.min.js') }}"></script>
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js') }}"></script>
+@endpush
