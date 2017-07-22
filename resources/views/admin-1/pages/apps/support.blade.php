@@ -181,10 +181,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1123</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1123</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Changing Colors</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Changing Colors</a>
                                             </td>
                                             <td> Jane </td>
                                             <td>
@@ -204,10 +204,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1134</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1134</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Modals popup customization</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Modals popup customization</a>
                                             </td>
                                             <td> Randy </td>
                                             <td>
@@ -227,10 +227,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1144</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1144</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Form Input styling</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Form Input styling</a>
                                             </td>
                                             <td> Samantha </td>
                                             <td>
@@ -250,10 +250,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1243</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1243</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Counter skipping numbers</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Counter skipping numbers</a>
                                             </td>
                                             <td> Daniel </td>
                                             <td>
@@ -273,10 +273,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1276</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1276</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Menu not working</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Menu not working</a>
                                             </td>
                                             <td> Billy </td>
                                             <td>
@@ -296,10 +296,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1345</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1345</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Changing Colors</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Changing Colors</a>
                                             </td>
                                             <td> Jane </td>
                                             <td>
@@ -319,10 +319,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1354</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1354</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Modals popup customization</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Modals popup customization</a>
                                             </td>
                                             <td> Randy </td>
                                             <td>
@@ -342,10 +342,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1365</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1365</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Form Input styling</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Form Input styling</a>
                                             </td>
                                             <td> Samantha </td>
                                             <td>
@@ -365,10 +365,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1371</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1371</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Counter skipping numbers</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Counter skipping numbers</a>
                                             </td>
                                             <td> Daniel </td>
                                             <td>
@@ -388,10 +388,10 @@
                                                 </label>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">1373</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">1373</a>
                                             </td>
                                             <td>
-                                                <a href="app_ticket_details.html">Menu not working</a>
+                                                <a href="{{ route('admin-1.partial.support-details') }}">Menu not working</a>
                                             </td>
                                             <td> Billy </td>
                                             <td>
