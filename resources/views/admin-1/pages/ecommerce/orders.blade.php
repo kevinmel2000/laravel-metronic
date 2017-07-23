@@ -81,7 +81,7 @@
                                 <tr role="row" class="heading">
                                     <th width="2%">
                                         <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                            <input type="checkbox" class="group-checkable" data-set="#sample_2 .checkboxes" />
+                                            <input type="checkbox" class="group-checkable" data-set="#sample_2 .checkboxes">
                                             <span></span>
                                         </label>
                                     </th>
@@ -122,12 +122,12 @@
                                         <input type="text" class="form-control form-filter input-sm" name="order_ship_to"> </td>
                                     <td>
                                         <div class="margin-bottom-5">
-                                            <input type="text" class="form-control form-filter input-sm" name="order_base_price_from" placeholder="From" /> </div>
-                                        <input type="text" class="form-control form-filter input-sm" name="order_base_price_to" placeholder="To" /> </td>
+                                            <input type="text" class="form-control form-filter input-sm" name="order_base_price_from" placeholder="From"> </div>
+                                        <input type="text" class="form-control form-filter input-sm" name="order_base_price_to" placeholder="To"> </td>
                                     <td>
                                         <div class="margin-bottom-5">
-                                            <input type="text" class="form-control form-filter input-sm margin-bottom-5 clearfix" name="order_purchase_price_from" placeholder="From" /> </div>
-                                        <input type="text" class="form-control form-filter input-sm" name="order_purchase_price_to" placeholder="To" /> </td>
+                                            <input type="text" class="form-control form-filter input-sm margin-bottom-5 clearfix" name="order_purchase_price_from" placeholder="From"> </div>
+                                        <input type="text" class="form-control form-filter input-sm" name="order_purchase_price_to" placeholder="To"> </td>
                                     <td>
                                         <select name="order_status" class="form-control form-filter input-sm">
                                             <option value="">Select...</option>
