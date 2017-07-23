@@ -13,3 +13,9 @@
         </li>
     </ul>
 @endsection
+
+@section('content')
+    <h1 class="page-title"> eCommercen Dashboard
+        <small>recent ecommerce statistics, charts, recent orders and sales</small>
+    </h1>
+@endsection
