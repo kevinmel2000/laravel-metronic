@@ -1238,3 +1238,7 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jqvmap/jqvmap/maps/jquery.vmap.usa.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jqvmap/jqvmap/data/jquery.vmap.sampledata.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/ecommerce-dashboard.min.js') }}"></script>
+@endpush
