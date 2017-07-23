@@ -13,3 +13,9 @@
         </li>
     </ul>
 @endsection
+
+@section('content')
+    <h1 class="page-title"> eCommerce Orders
+        <small>manage and track orders</small>
+    </h1>
+@endsection
