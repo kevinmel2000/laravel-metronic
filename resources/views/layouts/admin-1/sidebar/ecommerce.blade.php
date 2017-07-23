@@ -18,7 +18,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="ecommerce_orders_view.html" class="nav-link ">
+            <a href="{{ route('admin-1.ecommerce-orders-view') }}" class="nav-link ">
                 <i class="icon-tag"></i>
                 <span class="title">Order View</span>
             </a>
