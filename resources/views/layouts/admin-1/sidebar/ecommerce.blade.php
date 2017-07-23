@@ -12,7 +12,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="ecommerce_orders.html" class="nav-link ">
+            <a href="{{ route('admin-1.ecommerce-orders') }}" class="nav-link ">
                 <i class="icon-basket"></i>
                 <span class="title">Orders</span>
             </a>
