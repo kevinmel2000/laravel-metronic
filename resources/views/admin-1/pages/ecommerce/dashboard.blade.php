@@ -1126,7 +1126,7 @@
                             <div class="item">
                                 <div class="item-head">
                                     <div class="item-details">
-                                        <img class="item-pic rounded" src="../assets/pages/media/users/avatar4.jpg">
+                                        <img class="item-pic rounded" src="{{ asset('assets/pages/media/users/avatar4.jpg') }}">
                                         <a href="" class="item-name primary-link">Nick Larson</a>
                                         <span class="item-label">3 hrs ago</span>
                                     </div>
@@ -1138,7 +1138,7 @@
                             <div class="item">
                                 <div class="item-head">
                                     <div class="item-details">
-                                        <img class="item-pic rounded" src="../assets/pages/media/users/avatar3.jpg">
+                                        <img class="item-pic rounded" src="{{ asset('assets/pages/media/users/avatar3.jpg') }}">
                                         <a href="" class="item-name primary-link">Mark</a>
                                         <span class="item-label">5 hrs ago</span>
                                     </div>
@@ -1150,7 +1150,7 @@
                             <div class="item">
                                 <div class="item-head">
                                     <div class="item-details">
-                                        <img class="item-pic rounded" src="../assets/pages/media/users/avatar6.jpg">
+                                        <img class="item-pic rounded" src="{{ asset('assets/pages/media/users/avatar6.jpg') }}">
                                         <a href="" class="item-name primary-link">Nick Larson</a>
                                         <span class="item-label">8 hrs ago</span>
                                     </div>
@@ -1162,7 +1162,7 @@
                             <div class="item">
                                 <div class="item-head">
                                     <div class="item-details">
-                                        <img class="item-pic rounded" src="../assets/pages/media/users/avatar7.jpg">
+                                        <img class="item-pic rounded" src="{{ asset('assets/pages/media/users/avatar7.jpg') }}">
                                         <a href="" class="item-name primary-link">Nick Larson</a>
                                         <span class="item-label">12 hrs ago</span>
                                     </div>
@@ -1174,7 +1174,7 @@
                             <div class="item">
                                 <div class="item-head">
                                     <div class="item-details">
-                                        <img class="item-pic rounded" src="../assets/pages/media/users/avatar9.jpg">
+                                        <img class="item-pic rounded" src="{{ asset('assets/pages/media/users/avatar9.jpg') }}">
                                         <a href="" class="item-name primary-link">Richard Stone</a>
                                         <span class="item-label">2 days ago</span>
                                     </div>
@@ -1186,7 +1186,7 @@
                             <div class="item">
                                 <div class="item-head">
                                     <div class="item-details">
-                                        <img class="item-pic rounded" src="../assets/pages/media/users/avatar8.jpg">
+                                        <img class="item-pic rounded" src="{{ asset('assets/pages/media/users/avatar8.jpg') }}">
                                         <a href="" class="item-name primary-link">Dan</a>
                                         <span class="item-label">3 days ago</span>
                                     </div>
@@ -1198,7 +1198,7 @@
                             <div class="item">
                                 <div class="item-head">
                                     <div class="item-details">
-                                        <img class="item-pic rounded" src="../assets/pages/media/users/avatar2.jpg">
+                                        <img class="item-pic rounded" src="{{ asset('assets/pages/media/users/avatar2.jpg') }}">
                                         <a href="" class="item-name primary-link">Larry</a>
                                         <span class="item-label">4 hrs ago</span>
                                     </div>
