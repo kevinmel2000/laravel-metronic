@@ -15,7 +15,7 @@
 @endsection
 
 @section('content')
-    <h1 class="page-title"> eCommercen Dashboard
+    <h1 class="page-title"> eCommerce Dashboard
         <small>recent ecommerce statistics, charts, recent orders and sales</small>
     </h1>
 
