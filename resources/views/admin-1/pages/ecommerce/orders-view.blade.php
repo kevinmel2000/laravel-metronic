@@ -347,7 +347,7 @@
                                             <tr role="row" class="heading">
                                                 <th width="5%">
                                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                                        <input type="checkbox" class="group-checkable" data-set="#sample_2 .checkboxes" />
+                                                        <input type="checkbox" class="group-checkable" data-set="#sample_2 .checkboxes">
                                                         <span></span>
                                                     </label>
                                                 </th>
@@ -384,8 +384,8 @@
                                                 </td>
                                                 <td>
                                                     <div class="margin-bottom-5">
-                                                        <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_from" placeholder="From" /> </div>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_to" placeholder="To" /> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_from" placeholder="From"> </div>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_to" placeholder="To"> </td>
                                                 <td>
                                                     <select name="order_invoice_status" class="form-control form-filter input-sm">
                                                         <option value="">Select...</option>
@@ -460,8 +460,8 @@
                                                 </td>
                                                 <td>
                                                     <div class="margin-bottom-5">
-                                                        <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_from" placeholder="From" /> </div>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_to" placeholder="To" /> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_from" placeholder="From"> </div>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_to" placeholder="To"> </td>
                                                 <td>
                                                     <div class="margin-bottom-5">
                                                         <button class="btn btn-sm yellow filter-submit margin-bottom">
@@ -506,7 +506,7 @@
                                                     </div>
                                                 </td>
                                                 <td>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_history_desc" placeholder="To" /> </td>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_history_desc" placeholder="To"> </td>
                                                 <td>
                                                     <select name="order_history_notification" class="form-control form-filter input-sm">
                                                         <option value="">Select...</option>
