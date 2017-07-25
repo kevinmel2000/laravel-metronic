@@ -33,9 +33,11 @@
                     <div class="actions">
                         <div class="btn-group btn-group-devided" data-toggle="buttons">
                             <label class="btn btn-transparent green btn-outline btn-circle btn-sm active">
-                                <input type="radio" name="options" class="toggle" id="option1">Actions</label>
+                                <input type="radio" name="options" class="toggle" id="option1">Actions
+                            </label>
                             <label class="btn btn-transparent blue btn-outline btn-circle btn-sm">
-                                <input type="radio" name="options" class="toggle" id="option2">Settings</label>
+                                <input type="radio" name="options" class="toggle" id="option2">Settings
+                            </label>
                         </div>
                         <div class="btn-group">
                             <a class="btn red btn-outline btn-circle" href="javascript:;" data-toggle="dropdown">
@@ -91,10 +93,12 @@
                                         <div class="portlet yellow-crusta box">
                                             <div class="portlet-title">
                                                 <div class="caption">
-                                                    <i class="fa fa-cogs"></i>Order Details </div>
+                                                    <i class="fa fa-cogs"></i>Order Details
+                                                </div>
                                                 <div class="actions">
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-pencil"></i> Edit </a>
+                                                        <i class="fa fa-pencil"></i> Edit
+                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="portlet-body">
@@ -129,10 +133,12 @@
                                         <div class="portlet blue-hoki box">
                                             <div class="portlet-title">
                                                 <div class="caption">
-                                                    <i class="fa fa-cogs"></i>Customer Information </div>
+                                                    <i class="fa fa-cogs"></i>Customer Information
+                                                </div>
                                                 <div class="actions">
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-pencil"></i> Edit </a>
+                                                        <i class="fa fa-pencil"></i> Edit
+                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="portlet-body">
@@ -161,10 +167,12 @@
                                         <div class="portlet green-meadow box">
                                             <div class="portlet-title">
                                                 <div class="caption">
-                                                    <i class="fa fa-cogs"></i>Billing Address </div>
+                                                    <i class="fa fa-cogs"></i>Billing Address
+                                                </div>
                                                 <div class="actions">
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-pencil"></i> Edit </a>
+                                                        <i class="fa fa-pencil"></i> Edit
+                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="portlet-body">
@@ -176,7 +184,8 @@
                                                         <br> United States
                                                         <br> T: 123123232
                                                         <br> F: 231231232
-                                                        <br> </div>
+                                                        <br>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -185,10 +194,12 @@
                                         <div class="portlet red-sunglo box">
                                             <div class="portlet-title">
                                                 <div class="caption">
-                                                    <i class="fa fa-cogs"></i>Shipping Address </div>
+                                                    <i class="fa fa-cogs"></i>Shipping Address
+                                                </div>
                                                 <div class="actions">
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-pencil"></i> Edit </a>
+                                                        <i class="fa fa-pencil"></i> Edit
+                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="portlet-body">
@@ -211,10 +222,12 @@
                                         <div class="portlet grey-cascade box">
                                             <div class="portlet-title">
                                                 <div class="caption">
-                                                    <i class="fa fa-cogs"></i>Shopping Cart </div>
+                                                    <i class="fa fa-cogs"></i>Shopping Cart
+                                                </div>
                                                 <div class="actions">
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-pencil"></i> Edit </a>
+                                                        <i class="fa fa-pencil"></i> Edit
+                                                    </a>
                                                 </div>
                                             </div>
                                             <div class="portlet-body">
@@ -239,7 +252,8 @@
                                                                     <a href="javascript:;"> Product 1 </a>
                                                                 </td>
                                                                 <td>
-                                                                    <span class="label label-sm label-success"> Available </td>
+                                                                    <span class="label label-sm label-success"> Available </span>
+                                                                </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 2 </td>
@@ -253,7 +267,8 @@
                                                                     <a href="javascript:;"> Product 1 </a>
                                                                 </td>
                                                                 <td>
-                                                                    <span class="label label-sm label-success"> Available </td>
+                                                                    <span class="label label-sm label-success"> Available </span>
+                                                                </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 2 </td>
@@ -267,7 +282,8 @@
                                                                     <a href="javascript:;"> Product 1 </a>
                                                                 </td>
                                                                 <td>
-                                                                    <span class="label label-sm label-success"> Available </td>
+                                                                    <span class="label label-sm label-success"> Available </span>
+                                                                </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 2 </td>
@@ -281,7 +297,8 @@
                                                                     <a href="javascript:;"> Product 1 </a>
                                                                 </td>
                                                                 <td>
-                                                                    <span class="label label-sm label-success"> Available </td>
+                                                                    <span class="label label-sm label-success"> Available </span>
+                                                                </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 345.50$ </td>
                                                                 <td> 2 </td>
@@ -340,7 +357,8 @@
                                             <option value="canceled">Canceled</option>
                                         </select>
                                         <button class="btn btn-sm yellow table-group-action-submit">
-                                            <i class="fa fa-check"></i> Submit</button>
+                                            <i class="fa fa-check"></i> Submit
+                                        </button>
                                     </div>
                                     <table class="table table-striped table-bordered table-hover" id="datatable_invoices">
                                         <thead>
@@ -361,9 +379,11 @@
                                             <tr role="row" class="filter">
                                                 <td> </td>
                                                 <td>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_no"> </td>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_no">
+                                                </td>
                                                 <td>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_bill_to"> </td>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_bill_to">
+                                                </td>
                                                 <td>
                                                     <div class="input-group date date-picker margin-bottom-5" data-date-format="dd/mm/yyyy">
                                                         <input type="text" class="form-control form-filter input-sm" readonly name="order_invoice_date_from" placeholder="From">
@@ -384,8 +404,10 @@
                                                 </td>
                                                 <td>
                                                     <div class="margin-bottom-5">
-                                                        <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_from" placeholder="From"> </div>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_to" placeholder="To"> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_from" placeholder="From">
+                                                    </div>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_invoice_amount_to" placeholder="To">
+                                                </td>
                                                 <td>
                                                     <select name="order_invoice_status" class="form-control form-filter input-sm">
                                                         <option value="">Select...</option>
@@ -397,10 +419,12 @@
                                                 <td>
                                                     <div class="margin-bottom-5">
                                                         <button class="btn btn-sm yellow filter-submit margin-bottom">
-                                                            <i class="fa fa-search"></i> Search</button>
+                                                            <i class="fa fa-search"></i> Search
+                                                        </button>
                                                     </div>
                                                     <button class="btn btn-sm red filter-cancel">
-                                                        <i class="fa fa-times"></i> Reset</button>
+                                                        <i class="fa fa-times"></i> Reset
+                                                    </button>
                                                 </td>
                                             </tr>
                                         </thead>
@@ -437,9 +461,11 @@
                                             </tr>
                                             <tr role="row" class="filter">
                                                 <td>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_no"> </td>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_no">
+                                                </td>
                                                 <td>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_ship_to"> </td>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_ship_to">
+                                                </td>
                                                 <td>
                                                     <div class="input-group date date-picker margin-bottom-5" data-date-format="dd/mm/yyyy">
                                                         <input type="text" class="form-control form-filter input-sm" readonly name="order_shipment_date_from" placeholder="From">
@@ -460,15 +486,19 @@
                                                 </td>
                                                 <td>
                                                     <div class="margin-bottom-5">
-                                                        <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_from" placeholder="From"> </div>
-                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_to" placeholder="To"> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_from" placeholder="From">
+                                                    </div>
+                                                    <input type="text" class="form-control form-filter input-sm" name="order_shipment_quantity_to" placeholder="To">
+                                                </td>
                                                 <td>
                                                     <div class="margin-bottom-5">
                                                         <button class="btn btn-sm yellow filter-submit margin-bottom">
-                                                            <i class="fa fa-search"></i> Search</button>
+                                                            <i class="fa fa-search"></i> Search
+                                                        </button>
                                                     </div>
                                                     <button class="btn btn-sm red filter-cancel">
-                                                        <i class="fa fa-times"></i> Reset</button>
+                                                        <i class="fa fa-times"></i> Reset
+                                                    </button>
                                                 </td>
                                             </tr>
                                         </thead>
