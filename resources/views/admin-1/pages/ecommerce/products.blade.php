@@ -13,3 +13,9 @@
         </li>
     </ul>
 @endsection
+
+@section('content')
+    <h1 class="page-title"> eCommerce Products
+        <small>manage products</small>
+    </h1>
+@endsection
