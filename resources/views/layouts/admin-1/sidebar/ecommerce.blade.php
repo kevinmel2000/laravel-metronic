@@ -24,7 +24,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="ecommerce_products.html" class="nav-link ">
+            <a href="{{ route('admin-1.ecommerce-products') }}" class="nav-link ">
                 <i class="icon-graph"></i>
                 <span class="title">Products</span>
             </a>
