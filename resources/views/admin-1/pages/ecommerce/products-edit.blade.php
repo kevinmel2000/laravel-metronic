@@ -28,13 +28,17 @@
                             <i class="fa fa-shopping-cart"></i>Test Product </div>
                         <div class="actions btn-set">
                             <button type="button" name="back" class="btn btn-secondary-outline">
-                                <i class="fa fa-angle-left"></i> Back</button>
+                                <i class="fa fa-angle-left"></i> Back
+                            </button>
                             <button class="btn btn-secondary-outline">
-                                <i class="fa fa-reply"></i> Reset</button>
+                                <i class="fa fa-reply"></i> Reset
+                            </button>
                             <button class="btn btn-success">
-                                <i class="fa fa-check"></i> Save</button>
+                                <i class="fa fa-check"></i> Save
+                            </button>
                             <button class="btn btn-success">
-                                <i class="fa fa-check-circle"></i> Save & Continue Edit</button>
+                                <i class="fa fa-check-circle"></i> Save & Continue Edit
+                            </button>
                             <div class="btn-group">
                                 <a class="btn btn-success dropdown-toggle" href="javascript:;" data-toggle="dropdown">
                                     <i class="fa fa-share"></i> More
@@ -84,7 +88,8 @@
                                                 <span class="required"> * </span>
                                             </label>
                                             <div class="col-md-10">
-                                                <input type="text" class="form-control" name="product[name]" placeholder=""> </div>
+                                                <input type="text" class="form-control" name="product[name]" placeholder="">
+                                            </div>
                                         </div>
                                         <div class="form-group">
                                             <label class="col-md-2 control-label">Description:
@@ -113,45 +118,55 @@
                                                         <ul class="list-unstyled">
                                                             <li>
                                                                 <label>
-                                                                    <input type="checkbox" name="product[categories][]" value="1">Mens</label>
+                                                                    <input type="checkbox" name="product[categories][]" value="1">Mens
+                                                                </label>
                                                                 <ul class="list-unstyled">
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Footwear</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Footwear
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Clothing</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Clothing
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Accessories</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Accessories
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Fashion Outlet</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Fashion Outlet
+                                                                        </label>
                                                                     </li>
                                                                 </ul>
                                                             </li>
                                                             <li>
                                                                 <label>
-                                                                    <input type="checkbox" name="product[categories][]" value="1">Football Shirts</label>
+                                                                    <input type="checkbox" name="product[categories][]" value="1">Football Shirts
+                                                                </label>
                                                                 <ul class="list-unstyled">
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Premier League</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Premier League
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Football League</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Football League
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Serie A</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Serie A
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Bundesliga</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Bundesliga
+                                                                        </label>
                                                                     </li>
                                                                 </ul>
                                                             </li>
