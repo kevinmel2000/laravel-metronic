@@ -2,7 +2,7 @@
 
 @section('title', 'eCommerce Products Edit')
 
-@section('breadcrum')
+@section('breadcrumb')
     <ul class="page-breadcrumb">
         <li>
             <a href="index.html">Home</a>
