@@ -16,7 +16,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::group(['prefix' => 'admin-1'], function () {
 
     Route::get('/', function () {
-        return redirect()->route('admin-1.ecommerce-dashboard');
+        return view('admin-1.index');
     })->name('admin-1.index');
 
     Route::get('blank-page', function () {
