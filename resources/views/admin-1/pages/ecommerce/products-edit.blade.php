@@ -381,27 +381,33 @@
                                             <tr>
                                                 <td>
                                                     <a href="../assets/pages/media/works/img3.jpg" class="fancybox-button" data-rel="fancybox-button">
-                                                        <img class="img-responsive" src="../assets/pages/media/works/img3.jpg" alt=""> </a>
+                                                        <img class="img-responsive" src="../assets/pages/media/works/img3.jpg" alt="">
+                                                    </a>
                                                 </td>
                                                 <td>
                                                     <input type="text" class="form-control" name="product[images][3][label]" value="Product image #2"> </td>
                                                 <td>
-                                                    <input type="text" class="form-control" name="product[images][3][sort_order]" value="1"> </td>
-                                                <td>
-                                                    <label>
-                                                        <input type="radio" name="product[images][3][image_type]" value="1" checked> </label>
+                                                    <input type="text" class="form-control" name="product[images][3][sort_order]" value="1">
                                                 </td>
                                                 <td>
                                                     <label>
-                                                        <input type="radio" name="product[images][3][image_type]" value="2"> </label>
+                                                        <input type="radio" name="product[images][3][image_type]" value="1" checked>
+                                                    </label>
                                                 </td>
                                                 <td>
                                                     <label>
-                                                        <input type="radio" name="product[images][3][image_type]" value="3"> </label>
+                                                        <input type="radio" name="product[images][3][image_type]" value="2">
+                                                    </label>
+                                                </td>
+                                                <td>
+                                                    <label>
+                                                        <input type="radio" name="product[images][3][image_type]" value="3">
+                                                    </label>
                                                 </td>
                                                 <td>
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-times"></i> Remove </a>
+                                                        <i class="fa fa-times"></i> Remove
+                                                    </a>
                                                 </td>
                                             </tr>
                                         </tbody>
@@ -421,7 +427,8 @@
                                                 </tr>
                                                 <tr role="row" class="filter">
                                                     <td>
-                                                        <input type="text" class="form-control form-filter input-sm" name="product_review_no"> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="product_review_no">
+                                                    </td>
                                                     <td>
                                                         <div class="input-group date date-picker margin-bottom-5" data-date-format="dd/mm/yyyy">
                                                             <input type="text" class="form-control form-filter input-sm" readonly name="product_review_date_from" placeholder="From">
@@ -441,9 +448,11 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <input type="text" class="form-control form-filter input-sm" name="product_review_customer"> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="product_review_customer">
+                                                    </td>
                                                     <td>
-                                                        <input type="text" class="form-control form-filter input-sm" name="product_review_content"> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="product_review_content">
+                                                    </td>
                                                     <td>
                                                         <select name="product_review_status" class="form-control form-filter input-sm">
                                                             <option value="">Select...</option>
@@ -455,10 +464,12 @@
                                                     <td>
                                                         <div class="margin-bottom-5">
                                                             <button class="btn btn-sm btn-success filter-submit margin-bottom">
-                                                                <i class="fa fa-search"></i> Search</button>
+                                                                <i class="fa fa-search"></i> Search<
+                                                                /button>
                                                         </div>
                                                         <button class="btn btn-sm btn-danger filter-cancel">
-                                                            <i class="fa fa-times"></i> Reset</button>
+                                                            <i class="fa fa-times"></i> Reset
+                                                        </button>
                                                     </td>
                                                 </tr>
                                             </thead>
@@ -496,7 +507,8 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <input type="text" class="form-control form-filter input-sm" name="product_history_desc" placeholder="To"> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="product_history_desc" placeholder="To">
+                                                    </td>
                                                     <td>
                                                         <select name="product_history_notification" class="form-control form-filter input-sm">
                                                             <option value="">Select...</option>
@@ -508,10 +520,12 @@
                                                     <td>
                                                         <div class="margin-bottom-5">
                                                             <button class="btn btn-sm btn-default filter-submit margin-bottom">
-                                                                <i class="fa fa-search"></i> Search</button>
+                                                                <i class="fa fa-search"></i> Search
+                                                            </button>
                                                         </div>
                                                         <button class="btn btn-sm btn-danger-outline filter-cancel">
-                                                            <i class="fa fa-times"></i> Reset</button>
+                                                            <i class="fa fa-times"></i> Reset
+                                                        </button>
                                                     </td>
                                                 </tr>
                                             </thead>
