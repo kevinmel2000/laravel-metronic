@@ -109,6 +109,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.pages.ecommerce.products');
         })->name('admin-1.ecommerce-products');
 
+        Route::get('ecommerce/products-edit', function () {
+            return view('admin-1.pages.ecommerce.products-edit');
+        })->name('admin-1.ecommerce-products-edit');
+
 
         /*********************** SIDEBAR: PAGES: APPS *************************/
 
