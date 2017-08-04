@@ -172,23 +172,28 @@
                                                             </li>
                                                             <li>
                                                                 <label>
-                                                                    <input type="checkbox" name="product[categories][]" value="1">Brands</label>
+                                                                    <input type="checkbox" name="product[categories][]" value="1">Brands
+                                                                </label>
                                                                 <ul class="list-unstyled">
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Adidas</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Adidas
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Nike</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Nike
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Airwalk</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Airwalk<
+                                                                            /label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Kangol</label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Kangol
+                                                                        </label>
                                                                     </li>
                                                                 </ul>
                                                             </li>
@@ -206,7 +211,8 @@
                                                 <div class="input-group input-large date-picker input-daterange" data-date="10/11/2012" data-date-format="mm/dd/yyyy">
                                                     <input type="text" class="form-control" name="product[available_from]">
                                                     <span class="input-group-addon"> to </span>
-                                                    <input type="text" class="form-control" name="product[available_to]"> </div>
+                                                    <input type="text" class="form-control" name="product[available_to]">
+                                                </div>
                                                 <span class="help-block"> availability daterange. </span>
                                             </div>
                                         </div>
@@ -215,14 +221,16 @@
                                                 <span class="required"> * </span>
                                             </label>
                                             <div class="col-md-10">
-                                                <input type="text" class="form-control" name="product[sku]" placeholder=""> </div>
+                                                <input type="text" class="form-control" name="product[sku]" placeholder="">
+                                            </div>
                                         </div>
                                         <div class="form-group">
                                             <label class="col-md-2 control-label">Price:
                                                 <span class="required"> * </span>
                                             </label>
                                             <div class="col-md-10">
-                                                <input type="text" class="form-control" name="product[price]" placeholder=""> </div>
+                                                <input type="text" class="form-control" name="product[price]" placeholder="">
+                                            </div>
                                         </div>
                                         <div class="form-group">
                                             <label class="col-md-2 control-label">Tax Class:
@@ -280,7 +288,8 @@
                                 <div class="tab-pane" id="tab_images">
                                     <div class="alert alert-success margin-bottom-10">
                                         <button type="button" class="close" data-dismiss="alert" aria-hidden="true"></button>
-                                        <i class="fa fa-warning fa-lg"></i> Image type and information need to be specified. </div>
+                                        <i class="fa fa-warning fa-lg"></i> Image type and information need to be specified.
+                                    </div>
                                     <div id="tab_images_uploader_container" class="text-align-reverse margin-bottom-10">
                                         <a id="tab_images_uploader_pickfiles" href="javascript:;" class="btn btn-success">
                                             <i class="fa fa-plus"></i> Select Files </a>
@@ -306,53 +315,67 @@
                                             <tr>
                                                 <td>
                                                     <a href="../assets/pages/media/works/img1.jpg" class="fancybox-button" data-rel="fancybox-button">
-                                                        <img class="img-responsive" src="../assets/pages/media/works/img1.jpg" alt=""> </a>
+                                                        <img class="img-responsive" src="../assets/pages/media/works/img1.jpg" alt="">
+                                                    </a>
                                                 </td>
                                                 <td>
-                                                    <input type="text" class="form-control" name="product[images][1][label]" value="Thumbnail image"> </td>
-                                                <td>
-                                                    <input type="text" class="form-control" name="product[images][1][sort_order]" value="1"> </td>
-                                                <td>
-                                                    <label>
-                                                        <input type="radio" name="product[images][1][image_type]" value="1"> </label>
+                                                    <input type="text" class="form-control" name="product[images][1][label]" value="Thumbnail image">
                                                 </td>
                                                 <td>
-                                                    <label>
-                                                        <input type="radio" name="product[images][1][image_type]" value="2"> </label>
+                                                    <input type="text" class="form-control" name="product[images][1][sort_order]" value="1">
                                                 </td>
                                                 <td>
                                                     <label>
-                                                        <input type="radio" name="product[images][1][image_type]" value="3" checked> </label>
+                                                        <input type="radio" name="product[images][1][image_type]" value="1">
+                                                    </label>
+                                                </td>
+                                                <td>
+                                                    <label>
+                                                        <input type="radio" name="product[images][1][image_type]" value="2">
+                                                    </label>
+                                                </td>
+                                                <td>
+                                                    <label>
+                                                        <input type="radio" name="product[images][1][image_type]" value="3" checked>
+                                                    </label>
                                                 </td>
                                                 <td>
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-times"></i> Remove </a>
+                                                        <i class="fa fa-times"></i> Remove
+                                                    </a>
                                                 </td>
                                             </tr>
                                             <tr>
                                                 <td>
                                                     <a href="../assets/pages/media/works/img2.jpg" class="fancybox-button" data-rel="fancybox-button">
-                                                        <img class="img-responsive" src="../assets/pages/media/works/img2.jpg" alt=""> </a>
+                                                        <img class="img-responsive" src="../assets/pages/media/works/img2.jpg" alt="">
+                                                    </a>
                                                 </td>
                                                 <td>
-                                                    <input type="text" class="form-control" name="product[images][2][label]" value="Product image #1"> </td>
-                                                <td>
-                                                    <input type="text" class="form-control" name="product[images][2][sort_order]" value="1"> </td>
-                                                <td>
-                                                    <label>
-                                                        <input type="radio" name="product[images][2][image_type]" value="1"> </label>
+                                                    <input type="text" class="form-control" name="product[images][2][label]" value="Product image #1">
                                                 </td>
                                                 <td>
-                                                    <label>
-                                                        <input type="radio" name="product[images][2][image_type]" value="2" checked> </label>
+                                                    <input type="text" class="form-control" name="product[images][2][sort_order]" value="1">
                                                 </td>
                                                 <td>
                                                     <label>
-                                                        <input type="radio" name="product[images][2][image_type]" value="3"> </label>
+                                                        <input type="radio" name="product[images][2][image_type]" value="1">
+                                                    </label>
+                                                </td>
+                                                <td>
+                                                    <label>
+                                                        <input type="radio" name="product[images][2][image_type]" value="2" checked>
+                                                    </label>
+                                                </td>
+                                                <td>
+                                                    <label>
+                                                        <input type="radio" name="product[images][2][image_type]" value="3">
+                                                    </label>
                                                 </td>
                                                 <td>
                                                     <a href="javascript:;" class="btn btn-default btn-sm">
-                                                        <i class="fa fa-times"></i> Remove </a>
+                                                        <i class="fa fa-times"></i> Remove
+                                                    </a>
                                                 </td>
                                             </tr>
                                             <tr>
