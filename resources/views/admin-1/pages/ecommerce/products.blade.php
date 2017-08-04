@@ -77,7 +77,7 @@
                                 <tr role="row" class="heading">
                                     <th width="1%">
                                         <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                            <input type="checkbox" class="group-checkable" data-set="#sample_2 .checkboxes" />
+                                            <input type="checkbox" class="group-checkable" data-set="#sample_2 .checkboxes">
                                             <span></span>
                                         </label>
                                     </th>
@@ -121,15 +121,15 @@
                                     </td>
                                     <td>
                                         <div class="margin-bottom-5">
-                                            <input type="text" class="form-control form-filter input-sm" name="product_price_from" placeholder="From" />
+                                            <input type="text" class="form-control form-filter input-sm" name="product_price_from" placeholder="From">
                                         </div>
-                                        <input type="text" class="form-control form-filter input-sm" name="product_price_to" placeholder="To" />
+                                        <input type="text" class="form-control form-filter input-sm" name="product_price_to" placeholder="To">
                                     </td>
                                     <td>
                                         <div class="margin-bottom-5">
-                                            <input type="text" class="form-control form-filter input-sm" name="product_quantity_from" placeholder="From" />
+                                            <input type="text" class="form-control form-filter input-sm" name="product_quantity_from" placeholder="From">
                                         </div>
-                                        <input type="text" class="form-control form-filter input-sm" name="product_quantity_to" placeholder="To" />
+                                        <input type="text" class="form-control form-filter input-sm" name="product_quantity_to" placeholder="To">
                                     </td>
                                     <td>
                                         <div class="input-group date date-picker margin-bottom-5" data-date-format="dd/mm/yyyy">
