@@ -194,3 +194,7 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-maxlength/bootstrap-maxlength.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.pack.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/ecommerce-products.min.js') }}"></script>
+@endpush
