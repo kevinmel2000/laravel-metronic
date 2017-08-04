@@ -21,11 +21,13 @@
 
     <div class="row">
         <div class="col-md-12">
+
             <form class="form-horizontal form-row-seperated" action="#">
                 <div class="portlet">
                     <div class="portlet-title">
                         <div class="caption">
-                            <i class="fa fa-shopping-cart"></i>Test Product </div>
+                            <i class="fa fa-shopping-cart"></i>Test Product
+                        </div>
                         <div class="actions btn-set">
                             <button type="button" name="back" class="btn btn-secondary-outline">
                                 <i class="fa fa-angle-left"></i> Back
@@ -187,8 +189,8 @@
                                                                     </li>
                                                                     <li>
                                                                         <label>
-                                                                            <input type="checkbox" name="product[categories][]" value="1">Airwalk<
-                                                                            /label>
+                                                                            <input type="checkbox" name="product[categories][]" value="1">Airwalk
+                                                                        </label>
                                                                     </li>
                                                                     <li>
                                                                         <label>
@@ -299,6 +301,7 @@
                                     <div class="row">
                                         <div id="tab_images_uploader_filelist" class="col-md-6 col-sm-12"> </div>
                                     </div>
+
                                     <table class="table table-bordered table-hover">
                                         <thead>
                                             <tr role="row" class="heading">
@@ -413,6 +416,7 @@
                                         </tbody>
                                     </table>
                                 </div>
+
                                 <div class="tab-pane" id="tab_reviews">
                                     <div class="table-container">
                                         <table class="table table-striped table-bordered table-hover" id="datatable_reviews">
@@ -464,8 +468,8 @@
                                                     <td>
                                                         <div class="margin-bottom-5">
                                                             <button class="btn btn-sm btn-success filter-submit margin-bottom">
-                                                                <i class="fa fa-search"></i> Search<
-                                                                /button>
+                                                                <i class="fa fa-search"></i> Search
+                                                            </button>
                                                         </div>
                                                         <button class="btn btn-sm btn-danger filter-cancel">
                                                             <i class="fa fa-times"></i> Reset
@@ -477,6 +481,7 @@
                                         </table>
                                     </div>
                                 </div>
+
                                 <div class="tab-pane" id="tab_history">
                                     <div class="table-container">
                                         <table class="table table-striped table-bordered table-hover" id="datatable_history">
@@ -538,6 +543,7 @@
                     </div>
                 </div>
             </form>
+
         </div>
     </div>
 @endsection
