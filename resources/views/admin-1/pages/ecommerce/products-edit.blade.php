@@ -458,7 +458,7 @@
                                                         </div>
                                                     </td>
                                                     <td>
-                                                        <input type="text" class="form-control form-filter input-sm" name="product_history_desc" placeholder="To" /> </td>
+                                                        <input type="text" class="form-control form-filter input-sm" name="product_history_desc" placeholder="To"> </td>
                                                     <td>
                                                         <select name="product_history_notification" class="form-control form-filter input-sm">
                                                             <option value="">Select...</option>
