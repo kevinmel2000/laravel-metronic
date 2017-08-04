@@ -127,8 +127,10 @@
                                     </td>
                                     <td>
                                         <div class="margin-bottom-5">
-                                            <input type="text" class="form-control form-filter input-sm" name="product_quantity_from" placeholder="From" /> </div>
-                                        <input type="text" class="form-control form-filter input-sm" name="product_quantity_to" placeholder="To" /> </td>
+                                            <input type="text" class="form-control form-filter input-sm" name="product_quantity_from" placeholder="From" />
+                                        </div>
+                                        <input type="text" class="form-control form-filter input-sm" name="product_quantity_to" placeholder="To" />
+                                    </td>
                                     <td>
                                         <div class="input-group date date-picker margin-bottom-5" data-date-format="dd/mm/yyyy">
                                             <input type="text" class="form-control form-filter input-sm" readonly name="product_created_from" placeholder="From">
@@ -158,10 +160,12 @@
                                     <td>
                                         <div class="margin-bottom-5">
                                             <button class="btn btn-sm btn-success filter-submit margin-bottom">
-                                                <i class="fa fa-search"></i> Search</button>
+                                                <i class="fa fa-search"></i> Search
+                                            </button>
                                         </div>
                                         <button class="btn btn-sm btn-default filter-cancel">
-                                            <i class="fa fa-times"></i> Reset</button>
+                                            <i class="fa fa-times"></i> Reset
+                                        </button>
                                     </td>
                                 </tr>
                             </thead>
