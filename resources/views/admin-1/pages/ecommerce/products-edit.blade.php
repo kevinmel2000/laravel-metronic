@@ -314,8 +314,8 @@
                                         <tbody>
                                             <tr>
                                                 <td>
-                                                    <a href="../assets/pages/media/works/img1.jpg" class="fancybox-button" data-rel="fancybox-button">
-                                                        <img class="img-responsive" src="../assets/pages/media/works/img1.jpg" alt="">
+                                                    <a href="{{ asset('assets/pages/media/works/img1.jpg') }}" class="fancybox-button" data-rel="fancybox-button">
+                                                        <img class="img-responsive" src="{{ asset('assets/pages/media/works/img1.jpg') }}" alt="">
                                                     </a>
                                                 </td>
                                                 <td>
@@ -347,8 +347,8 @@
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    <a href="../assets/pages/media/works/img2.jpg" class="fancybox-button" data-rel="fancybox-button">
-                                                        <img class="img-responsive" src="../assets/pages/media/works/img2.jpg" alt="">
+                                                    <a href="{{ asset('assets/pages/media/works/img2.jpg') }}" class="fancybox-button" data-rel="fancybox-button">
+                                                        <img class="img-responsive" src="{{ asset('assets/pages/media/works/img2.jpg') }}" alt="">
                                                     </a>
                                                 </td>
                                                 <td>
@@ -380,8 +380,8 @@
                                             </tr>
                                             <tr>
                                                 <td>
-                                                    <a href="../assets/pages/media/works/img3.jpg" class="fancybox-button" data-rel="fancybox-button">
-                                                        <img class="img-responsive" src="../assets/pages/media/works/img3.jpg" alt="">
+                                                    <a href="{{ asset('assets/pages/media/works/img3.jpg') }}" class="fancybox-button" data-rel="fancybox-button">
+                                                        <img class="img-responsive" src="{{ asset('assets/pages/media/works/img3.jpg') }}" alt="">
                                                     </a>
                                                 </td>
                                                 <td>
