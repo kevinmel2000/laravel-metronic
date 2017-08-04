@@ -560,3 +560,7 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/fancybox/source/jquery.fancybox.pack.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/plupload/js/plupload.full.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/ecommerce-products-edit.min.js') }}"></script>
+@endpush
