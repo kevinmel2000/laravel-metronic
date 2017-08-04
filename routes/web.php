@@ -93,25 +93,29 @@ Route::group(['prefix' => 'admin-1'], function () {
 
         /******************** SIDEBAR: PAGES: ECOMMERCE ***********************/
 
-        Route::get('ecommerce/dashboard', function () {
-            return view('admin-1.pages.ecommerce.dashboard');
-        })->name('admin-1.ecommerce-dashboard');
+        Route::group(['prefix' => 'ecommerce'], function () {
 
-        Route::get('ecommerce/orders', function () {
-            return view('admin-1.pages.ecommerce.orders');
-        })->name('admin-1.ecommerce-orders');
+            Route::get('dashboard', function () {
+                return view('admin-1.pages.ecommerce.dashboard');
+            })->name('admin-1.ecommerce-dashboard');
 
-        Route::get('ecommerce/orders-view', function () {
-            return view('admin-1.pages.ecommerce.orders-view');
-        })->name('admin-1.ecommerce-orders-view');
+            Route::get('orders', function () {
+                return view('admin-1.pages.ecommerce.orders');
+            })->name('admin-1.ecommerce-orders');
 
-        Route::get('ecommerce/products', function () {
-            return view('admin-1.pages.ecommerce.products');
-        })->name('admin-1.ecommerce-products');
+            Route::get('orders-view', function () {
+                return view('admin-1.pages.ecommerce.orders-view');
+            })->name('admin-1.ecommerce-orders-view');
 
-        Route::get('ecommerce/products-edit', function () {
-            return view('admin-1.pages.ecommerce.products-edit');
-        })->name('admin-1.ecommerce-products-edit');
+            Route::get('products', function () {
+                return view('admin-1.pages.ecommerce.products');
+            })->name('admin-1.ecommerce-products');
+
+            Route::get('products-edit', function () {
+                return view('admin-1.pages.ecommerce.products-edit');
+            })->name('admin-1.ecommerce-products-edit');
+
+        });
 
 
         /*********************** SIDEBAR: PAGES: APPS *************************/
