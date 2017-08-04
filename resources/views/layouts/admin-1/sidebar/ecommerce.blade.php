@@ -30,7 +30,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="ecommerce_products_edit.html" class="nav-link ">
+            <a href="{{ route('admin-1.ecommerce-products-edit') }}" class="nav-link ">
                 <i class="icon-graph"></i>
                 <span class="title">Product Edit</span>
             </a>
