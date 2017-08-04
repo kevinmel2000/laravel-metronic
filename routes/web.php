@@ -120,25 +120,29 @@ Route::group(['prefix' => 'admin-1'], function () {
 
         /*********************** SIDEBAR: PAGES: APPS *************************/
 
-        Route::get('todo-1', function () {
-            return view('admin-1.pages.apps.todo-1');
-        })->name('admin-1.app-todo-1');
+        Route::group(['prefix' => 'app'], function () {
 
-        Route::get('todo-2', function () {
-            return view('admin-1.pages.apps.todo-2');
-        })->name('admin-1.app-todo-2');
+            Route::get('todo-1', function () {
+                return view('admin-1.pages.apps.todo-1');
+            })->name('admin-1.app-todo-1');
 
-        Route::get('inbox', function () {
-            return view('admin-1.pages.apps.inbox');
-        })->name('admin-1.app-inbox');
+            Route::get('todo-2', function () {
+                return view('admin-1.pages.apps.todo-2');
+            })->name('admin-1.app-todo-2');
 
-        Route::get('calendar', function () {
-            return view('admin-1.pages.apps.calendar');
-        })->name('admin-1.app-calendar');
+            Route::get('inbox', function () {
+                return view('admin-1.pages.apps.inbox');
+            })->name('admin-1.app-inbox');
 
-        Route::get('support', function () {
-            return view('admin-1.pages.apps.support');
-        })->name('admin-1.app-support');
+            Route::get('calendar', function () {
+                return view('admin-1.pages.apps.calendar');
+            })->name('admin-1.app-calendar');
+
+            Route::get('support', function () {
+                return view('admin-1.pages.apps.support');
+            })->name('admin-1.app-support');
+
+        });
 
 
         /*********************** SIDEBAR: PAGES: USER *************************/
