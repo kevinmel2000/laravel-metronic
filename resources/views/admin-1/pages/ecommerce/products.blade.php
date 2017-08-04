@@ -28,7 +28,8 @@
             <div class="portlet ">
                 <div class="portlet-title">
                     <div class="caption">
-                        <i class="fa fa-shopping-cart"></i>Order Listing </div>
+                        <i class="fa fa-shopping-cart"></i>Order Listing
+                    </div>
                     <div class="actions">
                         <a href="javascript:;" class="btn btn-circle btn-info">
                             <i class="fa fa-plus"></i>
@@ -68,7 +69,8 @@
                                 <option value="delete">Delete</option>
                             </select>
                             <button class="btn btn-sm btn-success table-group-action-submit">
-                                <i class="fa fa-check"></i> Submit</button>
+                                <i class="fa fa-check"></i> Submit
+                            </button>
                         </div>
                         <table class="table table-striped table-bordered table-hover table-checkable" id="datatable_products">
                             <thead>
@@ -91,9 +93,11 @@
                                 <tr role="row" class="filter">
                                     <td> </td>
                                     <td>
-                                        <input type="text" class="form-control form-filter input-sm" name="product_id"> </td>
+                                        <input type="text" class="form-control form-filter input-sm" name="product_id">
+                                    </td>
                                     <td>
-                                        <input type="text" class="form-control form-filter input-sm" name="product_name"> </td>
+                                        <input type="text" class="form-control form-filter input-sm" name="product_name">
+                                    </td>
                                     <td>
                                         <select name="product_category" class="form-control form-filter input-sm">
                                             <option value="">Select...</option>
@@ -117,8 +121,10 @@
                                     </td>
                                     <td>
                                         <div class="margin-bottom-5">
-                                            <input type="text" class="form-control form-filter input-sm" name="product_price_from" placeholder="From" /> </div>
-                                        <input type="text" class="form-control form-filter input-sm" name="product_price_to" placeholder="To" /> </td>
+                                            <input type="text" class="form-control form-filter input-sm" name="product_price_from" placeholder="From" />
+                                        </div>
+                                        <input type="text" class="form-control form-filter input-sm" name="product_price_to" placeholder="To" />
+                                    </td>
                                     <td>
                                         <div class="margin-bottom-5">
                                             <input type="text" class="form-control form-filter input-sm" name="product_quantity_from" placeholder="From" /> </div>
