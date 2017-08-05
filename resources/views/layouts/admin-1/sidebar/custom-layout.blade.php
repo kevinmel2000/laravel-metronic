@@ -6,17 +6,17 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="layout_disabled_menu.html" class="nav-link ">
+            <a href="#" class="nav-link ">
                 <span class="title">Disabled Menu Links</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="layout_full_height_portlet.html" class="nav-link ">
+            <a href="#" class="nav-link ">
                 <span class="title">Full Height Portlet</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="layout_full_height_content.html" class="nav-link ">
+            <a href="#" class="nav-link ">
                 <span class="title">Full Height Content</span>
             </a>
         </li>
