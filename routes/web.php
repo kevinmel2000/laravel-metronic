@@ -24,6 +24,17 @@ Route::group(['prefix' => 'admin-1'], function () {
     })->name('admin-1.blank-page');
 
 
+    /************************** SIDEBAR: DASHBOARD ****************************/
+
+    Route::group(['prefix' => 'dashboard'], function () {
+
+        Route::get('01', function () {
+            return view('admin-1.dashboard.01');
+        })->name('admin-1.dashboard.01');
+
+    });
+
+
     /************************ SIDEBAR: Partial View ***************************/
 
     ////////////////////////////////// App /////////////////////////////////////
