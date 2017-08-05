@@ -6,7 +6,7 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item start ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.dashboard.01') }}" class="nav-link ">
                 <i class="icon-bar-chart"></i>
                 <span class="title">Dashboard 1</span>
             </a>
