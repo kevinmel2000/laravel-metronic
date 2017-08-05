@@ -6,12 +6,12 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="maps_google.html" class="nav-link ">
+            <a href="#" class="nav-link ">
                 <span class="title">Google Maps</span>
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="maps_vector.html" class="nav-link ">
+            <a href="#" class="nav-link ">
                 <span class="title">Vector Maps</span>
             </a>
         </li>
