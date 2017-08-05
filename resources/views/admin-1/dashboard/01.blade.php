@@ -41,4 +41,6 @@
 
     @include('admin-1.dashboard._01-portlet-11-12')
 
+    @include('admin-1.dashboard._01-portlet-13-14')
+
 @endsection
