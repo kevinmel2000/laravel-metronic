@@ -281,37 +281,42 @@ Route::group(['prefix' => 'admin-1'], function () {
 
         /********************** SIDEBAR: PAGES: SYSTEM ************************/
 
-        Route::get('cookie-consent-1', function () {
-            return view('admin-1.pages.system.cookie-consent-1');
-        })->name('admin-1.system-cookie-consent-1');
+        Route::group(['prefix' => 'system'], function () {
 
-        Route::get('cookie-consent-2', function () {
-            return view('admin-1.pages.system.cookie-consent-2');
-        })->name('admin-1.system-cookie-consent-2');
+            Route::get('cookie-consent-1', function () {
+                return view('admin-1.pages.system.cookie-consent-1');
+            })->name('admin-1.system-cookie-consent-1');
 
-        Route::get('coming-soon', function () {
-            return view('admin-1.pages.system.coming-soon');
-        })->name('admin-1.system-coming-soon');
+            Route::get('cookie-consent-2', function () {
+                return view('admin-1.pages.system.cookie-consent-2');
+            })->name('admin-1.system-cookie-consent-2');
 
-        Route::get('404-1', function () {
-            return view('admin-1.pages.system.404-1');
-        })->name('admin-1.system-404-1');
+            Route::get('coming-soon', function () {
+                return view('admin-1.pages.system.coming-soon');
+            })->name('admin-1.system-coming-soon');
 
-        Route::get('404-2', function () {
-            return view('admin-1.pages.system.404-2');
-        })->name('admin-1.system-404-2');
+            Route::get('404-1', function () {
+                return view('admin-1.pages.system.404-1');
+            })->name('admin-1.system-404-1');
 
-        Route::get('404-3', function () {
-            return view('admin-1.pages.system.404-3');
-        })->name('admin-1.system-404-3');
+            Route::get('404-2', function () {
+                return view('admin-1.pages.system.404-2');
+            })->name('admin-1.system-404-2');
 
-        Route::get('500-1', function () {
-            return view('admin-1.pages.system.500-1');
-        })->name('admin-1.system-500-1');
+            Route::get('404-3', function () {
+                return view('admin-1.pages.system.404-3');
+            })->name('admin-1.system-404-3');
 
-        Route::get('500-2', function () {
-            return view('admin-1.pages.system.500-2');
-        })->name('admin-1.system-500-2');
+            Route::get('500-1', function () {
+                return view('admin-1.pages.system.500-1');
+            })->name('admin-1.system-500-1');
+
+            Route::get('500-2', function () {
+                return view('admin-1.pages.system.500-2');
+            })->name('admin-1.system-500-2');
+
+        });
+
     });
 
 });
