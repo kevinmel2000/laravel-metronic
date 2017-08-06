@@ -32,6 +32,10 @@ Route::group(['prefix' => 'admin-1'], function () {
             return view('admin-1.dashboard.01');
         })->name('admin-1.dashboard.01');
 
+        Route::get('02', function () {
+            return view('admin-1.dashboard.02');
+        })->name('admin-1.dashboard.02');
+
     });
 
 
