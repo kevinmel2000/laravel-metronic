@@ -46,3 +46,10 @@
     @include('admin-1.dashboard._01-portlet-15-16')
 
 @endsection
+
+@push('page-level-plugins-header')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-daterangepicker/daterangepicker.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/morris/morris.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/fullcalendar/fullcalendar.min.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/jqvmap/jqvmap/jqvmap.css') }}">
+@endpush
