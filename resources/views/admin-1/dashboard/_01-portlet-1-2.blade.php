@@ -21,7 +21,7 @@
             </div>
             <div class="portlet-body">
                 <div id="site_statistics_loading">
-                    <img src="../assets/global/img/loading.gif" alt="loading">
+                    <img src="{{ asset('assets/global/img/loading.gif') }}" alt="loading">
                 </div>
                 <div id="site_statistics_content" class="display-none">
                     <div id="site_statistics" class="chart"> </div>
@@ -71,7 +71,7 @@
             </div>
             <div class="portlet-body">
                 <div id="site_activities_loading">
-                    <img src="../assets/global/img/loading.gif" alt="loading">
+                    <img src="{{ asset('assets/global/img/loading.gif') }}" alt="loading">
                 </div>
                 <div id="site_activities_content" class="display-none">
                     <div id="site_activities" style="height: 228px;"> </div>
