@@ -235,7 +235,7 @@
                     <div class="col-md-4">
                         <div class="mt-widget-4">
                             <div class="mt-img-container">
-                                <img src="../assets/pages/img/background/34.jpg" /> </div>
+                                <img src="../assets/pages/img/background/34.jpg"> </div>
                             <div class="mt-container bg-purple-opacity">
                                 <div class="mt-head-title"> Website Revamp & Deployment </div>
                                 <div class="mt-body-icons">
@@ -258,7 +258,7 @@
                     <div class="col-md-4">
                         <div class="mt-widget-4">
                             <div class="mt-img-container">
-                                <img src="../assets/pages/img/background/46.jpg" /> </div>
+                                <img src="../assets/pages/img/background/46.jpg"> </div>
                             <div class="mt-container bg-green-opacity">
                                 <div class="mt-head-title"> CRM Development & Deployment </div>
                                 <div class="mt-body-icons">
@@ -281,7 +281,7 @@
                     <div class="col-md-4">
                         <div class="mt-widget-4">
                             <div class="mt-img-container">
-                                <img src="../assets/pages/img/background/37.jpg" /> </div>
+                                <img src="../assets/pages/img/background/37.jpg"> </div>
                             <div class="mt-container bg-dark-opacity">
                                 <div class="mt-head-title"> Marketing Campaigns </div>
                                 <div class="mt-body-icons">
