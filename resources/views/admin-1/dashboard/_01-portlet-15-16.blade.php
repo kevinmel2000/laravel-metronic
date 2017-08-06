@@ -40,7 +40,7 @@
                                 </a>
                             </div>
                             <div class="mt-img">
-                                <img src="../as{{ asset('s/pages/media/users/avatar80_8.jpg') }}"> </div>
+                                <img src="{{ asset('assets/pages/media/users/avatar80_8.jpg') }}"> </div>
                             <div class="mt-body">
                                 <h3 class="mt-username">Diana Ellison</h3>
                                 <p class="mt-user-title"> Lorem Ipsum is simply dummy text. </p>
@@ -67,7 +67,7 @@
                                 </a>
                             </div>
                             <div class="mt-img">
-                                <img src="../as{{ asset('s/pages/media/users/avatar80_7.jpg') }}"> </div>
+                                <img src="{{ asset('assets/pages/media/users/avatar80_7.jpg') }}"> </div>
                             <div class="mt-body">
                                 <h3 class="mt-username">Jason Baker</h3>
                                 <p class="mt-user-title"> Lorem Ipsum is simply dummy text. </p>
@@ -94,7 +94,7 @@
                                 </a>
                             </div>
                             <div class="mt-img">
-                                <img src="../as{{ asset('s/pages/media/users/avatar80_6.jpg') }}"> </div>
+                                <img src="{{ asset('assets/pages/media/users/avatar80_6.jpg') }}"> </div>
                             <div class="mt-body">
                                 <h3 class="mt-username">Julia Berry</h3>
                                 <p class="mt-user-title"> Lorem Ipsum is simply dummy text. </p>
