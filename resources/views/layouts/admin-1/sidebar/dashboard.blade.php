@@ -19,7 +19,7 @@
             </a>
         </li>
         <li class="nav-item start ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.dashboard.03') }}" class="nav-link ">
                 <i class="icon-graph"></i>
                 <span class="title">Dashboard 3</span>
                 <span class="badge badge-danger">5</span>
