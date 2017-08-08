@@ -33,9 +33,11 @@
                 </div>
                 <div class="actions">
                     <a href="#" class="btn btn-circle green btn-outline btn-sm">
-                        <i class="fa fa-pencil"></i> Export </a>
+                        <i class="fa fa-pencil"></i> Export
+                    </a>
                     <a href="#" class="btn btn-circle green btn-outline btn-sm">
-                        <i class="fa fa-print"></i> Print </a>
+                        <i class="fa fa-print"></i> Print
+                    </a>
                 </div>
             </div>
             <div class="portlet-body">
