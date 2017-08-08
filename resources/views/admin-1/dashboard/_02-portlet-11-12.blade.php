@@ -22,7 +22,7 @@
             </div>
             <div class="portlet-body">
                 <div id="region_statistics_loading">
-                    <img src="../assets/global/img/loading.gif" alt="loading" /> </div>
+                    <img src="{{ asset('assets/global/img/loading.gif') }}" alt="loading"> </div>
                 <div id="region_statistics_content" class="display-none">
                     <div class="btn-toolbar margin-bottom-10">
                         <div class="btn-group btn-group-circle" data-toggle="buttons">
