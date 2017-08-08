@@ -26,4 +26,6 @@
     <h1 class="page-title"> Admin Dashboard 2
         <small>statistics, charts, recent events and reports</small>
     </h1>
+
+    @include('admin-1.dashboard._02-stats')
 @endsection
