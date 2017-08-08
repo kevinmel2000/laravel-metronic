@@ -23,4 +23,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Admin Dashboard 2
+        <small>statistics, charts, recent events and reports</small>
+    </h1>
 @endsection
