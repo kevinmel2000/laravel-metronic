@@ -28,4 +28,7 @@
     </h1>
 
     @include('admin-1.dashboard._02-stats')
+
+    @include('admin-1.dashboard._02-portlet-1-2')
+
 @endsection
