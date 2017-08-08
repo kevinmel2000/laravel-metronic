@@ -37,4 +37,6 @@
 
     @include('admin-1.dashboard._02-portlet-7-8')
 
+    @include('admin-1.dashboard._02-portlet-9-10')
+
 @endsection
