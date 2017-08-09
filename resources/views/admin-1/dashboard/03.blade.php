@@ -3,6 +3,10 @@
 @section('title', 'Admin Dashboard 3')
 
 @section('breadcrumb')
+    <h1 class="page-title"> Admin Dashboard 3
+        <small>statistics, charts, recent events and reports</small>
+    </h1>
+    
     <ul class="page-breadcrumb">
         <li>
             <a href="{{ route('admin-1.index') }}">Home</a>
