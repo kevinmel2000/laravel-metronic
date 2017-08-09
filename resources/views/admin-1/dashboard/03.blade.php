@@ -6,7 +6,7 @@
     <h1 class="page-title"> Admin Dashboard 3
         <small>statistics, charts, recent events and reports</small>
     </h1>
-    
+
     <ul class="page-breadcrumb">
         <li>
             <a href="{{ route('admin-1.index') }}">Home</a>
@@ -27,4 +27,7 @@
 @endsection
 
 @section('content')
+
+    @include('admin-1.dashboard._03-stats')
+
 @endsection
