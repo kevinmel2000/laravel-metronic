@@ -30,4 +30,6 @@
 
     @include('admin-1.dashboard._03-stats')
 
+    @include('admin-1.dashboard._03-portlet-1-2')
+
 @endsection
