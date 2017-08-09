@@ -135,7 +135,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="mt-widget-2">
-                            <div class="mt-head" style="background-image: url(.{{ asset('ssets/pages/img/background/32.jpg') }});">
+                            <div class="mt-head" style="background-image: url({{ asset('assets/pages/img/background/32.jpg') }});">
                                 <div class="mt-head-label">
                                     <button type="button" class="btn btn-success">Manhattan</button>
                                 </div>
@@ -173,7 +173,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="mt-widget-2">
-                            <div class="mt-head" style="background-image: url(.{{ asset('ssets/pages/img/background/43.jpg') }});">
+                            <div class="mt-head" style="background-image: url({{ asset('assets/pages/img/background/43.jpg') }});">
                                 <div class="mt-head-label">
                                     <button type="button" class="btn btn-danger">London</button>
                                 </div>
