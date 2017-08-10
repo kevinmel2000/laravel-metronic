@@ -6,7 +6,7 @@
     </a>
     <ul class="sub-menu">
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-metronic-grid') }}" class="nav-link ">
                 <span class="title">Metronic Grid System</span>
             </a>
         </li>
