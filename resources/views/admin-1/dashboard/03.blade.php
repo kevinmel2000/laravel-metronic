@@ -38,4 +38,6 @@
 
     @include('admin-1.dashboard._03-portlet-7-8')
 
+    @include('admin-1.dashboard._03-portlet-9-10')
+
 @endsection
