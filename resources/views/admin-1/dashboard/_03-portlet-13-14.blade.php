@@ -47,11 +47,14 @@
                                 <div class="mt-stats">
                                     <div class="btn-group btn-group btn-group-justified">
                                         <a href="javascript:;" class="btn font-red">
-                                            <i class="icon-bubbles"></i> 1,7k </a>
+                                            <i class="icon-bubbles"></i> 1,7k
+                                        </a>
                                         <a href="javascript:;" class="btn font-green">
-                                            <i class="icon-social-twitter"></i> 2,6k </a>
+                                            <i class="icon-social-twitter"></i> 2,6k
+                                        </a>
                                         <a href="javascript:;" class="btn font-yellow">
-                                            <i class="icon-emoticon-smile"></i> 3,7k </a>
+                                            <i class="icon-emoticon-smile"></i> 3,7k
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -74,11 +77,14 @@
                                 <div class="mt-stats">
                                     <div class="btn-group btn-group btn-group-justified">
                                         <a href="javascript:;" class="btn font-yellow">
-                                            <i class="icon-bubbles"></i> 1,7k </a>
+                                            <i class="icon-bubbles"></i> 1,7k
+                                        </a>
                                         <a href="javascript:;" class="btn font-blue">
-                                            <i class="icon-social-twitter"></i> 2,6k </a>
+                                            <i class="icon-social-twitter"></i> 2,6k
+                                        </a>
                                         <a href="javascript:;" class="btn font-green">
-                                            <i class="icon-emoticon-smile"></i> 3,7k </a>
+                                            <i class="icon-emoticon-smile"></i> 3,7k
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -101,11 +107,14 @@
                                 <div class="mt-stats">
                                     <div class="btn-group btn-group btn-group-justified">
                                         <a href="javascript:;" class="btn font-yellow">
-                                            <i class="icon-bubbles"></i> 1,7k </a>
+                                            <i class="icon-bubbles"></i> 1,7k
+                                        </a>
                                         <a href="javascript:;" class="btn font-red">
-                                            <i class="icon-social-twitter"></i> 2,6k </a>
+                                            <i class="icon-social-twitter"></i> 2,6k
+                                        </a>
                                         <a href="javascript:;" class="btn font-green">
-                                            <i class="icon-emoticon-smile"></i> 3,7k </a>
+                                            <i class="icon-emoticon-smile"></i> 3,7k
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -145,7 +154,8 @@
                                     <div class="mt-head-user-info">
                                         <span class="mt-user-name">Chris Jagers</span>
                                         <span class="mt-user-time">
-                                            <i class="icon-emoticon-smile"></i> 3 mins ago </span>
+                                            <i class="icon-emoticon-smile"></i> 3 mins ago
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -154,18 +164,23 @@
                                 <p class="mt-body-description"> It is a long established fact that a reader will be distracted </p>
                                 <ul class="mt-body-stats">
                                     <li class="font-green">
-                                        <i class="icon-emoticon-smile"></i> 3,7k</li>
+                                        <i class="icon-emoticon-smile"></i> 3,7k
+                                    </li>
                                     <li class="font-yellow">
-                                        <i class=" icon-social-twitter"></i> 3,7k</li>
+                                        <i class=" icon-social-twitter"></i> 3,7k
+                                    </li>
                                     <li class="font-red">
-                                        <i class="  icon-bubbles"></i> 3,7k</li>
+                                        <i class="  icon-bubbles"></i> 3,7k
+                                    </li>
                                 </ul>
                                 <div class="mt-body-actions">
                                     <div class="btn-group btn-group btn-group-justified">
                                         <a href="javascript:;" class="btn">
-                                            <i class="icon-bubbles"></i> Bookmark </a>
+                                            <i class="icon-bubbles"></i> Bookmark
+                                        </a>
                                         <a href="javascript:;" class="btn ">
-                                            <i class="icon-social-twitter"></i> Share </a>
+                                            <i class="icon-social-twitter"></i> Share
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -179,11 +194,13 @@
                                 </div>
                                 <div class="mt-head-user">
                                     <div class="mt-head-user-img">
-                                        <img src="{{ asset('assets/pages/img/avatars/team3.jpg') }}"> </div>
+                                        <img src="{{ asset('assets/pages/img/avatars/team3.jpg') }}">
+                                    </div>
                                     <div class="mt-head-user-info">
                                         <span class="mt-user-name">Harry Harris</span>
                                         <span class="mt-user-time">
-                                            <i class="icon-user"></i> 3 mins ago </span>
+                                            <i class="icon-user"></i> 3 mins ago
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -192,18 +209,23 @@
                                 <p class="mt-body-description"> It is a long established fact that a reader will be distracted </p>
                                 <ul class="mt-body-stats">
                                     <li class="font-green">
-                                        <i class="icon-emoticon-smile"></i> 3,7k</li>
+                                        <i class="icon-emoticon-smile"></i> 3,7k
+                                    </li>
                                     <li class="font-yellow">
-                                        <i class=" icon-social-twitter"></i> 3,7k</li>
+                                        <i class=" icon-social-twitter"></i> 3,7k
+                                    </li>
                                     <li class="font-red">
-                                        <i class="  icon-bubbles"></i> 3,7k</li>
+                                        <i class="  icon-bubbles"></i> 3,7k
+                                    </li>
                                 </ul>
                                 <div class="mt-body-actions">
                                     <div class="btn-group btn-group btn-group-justified">
                                         <a href="javascript:;" class="btn ">
-                                            <i class="icon-bubbles"></i> Bookmark </a>
+                                            <i class="icon-bubbles"></i> Bookmark
+                                        </a>
                                         <a href="javascript:;" class="btn ">
-                                            <i class="icon-social-twitter"></i> Share </a>
+                                            <i class="icon-social-twitter"></i> Share
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -224,9 +246,11 @@
                 <div class="actions">
                     <div class="btn-group btn-group-devided" data-toggle="buttons">
                         <label class="btn blue btn-outline btn-circle btn-sm active">
-                            <input type="radio" name="options" class="toggle" id="option1">Actions</label>
+                            <input type="radio" name="options" class="toggle" id="option1">Actions
+                        </label>
                         <label class="btn  blue btn-outline btn-circle btn-sm">
-                            <input type="radio" name="options" class="toggle" id="option2">Tools</label>
+                            <input type="radio" name="options" class="toggle" id="option2">Tools
+                        </label>
                     </div>
                 </div>
             </div>
@@ -353,19 +377,23 @@
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-align-justify"></i>
-                                        </span>RECORD </a>
+                                        </span>RECORD
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-camera"></i>
-                                        </span>PHOTO </a>
+                                        </span>PHOTO
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-calendar"></i>
-                                        </span>DATE </a>
+                                        </span>DATE
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-record"></i>
-                                        </span>RANC </a>
+                                        </span>RANC
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -387,19 +415,23 @@
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-align-justify"></i>
-                                        </span>RECORD </a>
+                                        </span>RECORD
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-camera"></i>
-                                        </span>PHOTO </a>
+                                        </span>PHOTO
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-calendar"></i>
-                                        </span>DATE </a>
+                                        </span>DATE
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-record"></i>
-                                        </span>RANC </a>
+                                        </span>RANC
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -421,19 +453,23 @@
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-align-justify"></i>
-                                        </span>RECORD </a>
+                                        </span>RECORD
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-camera"></i>
-                                        </span>PHOTO </a>
+                                        </span>PHOTO
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-calendar"></i>
-                                        </span>DATE </a>
+                                        </span>DATE
+                                    </a>
                                     <a href="javascript:;" class="btn ">
                                         <span class="mt-icon">
                                             <i class="glyphicon glyphicon-record"></i>
-                                        </span>RANC </a>
+                                        </span>RANC
+                                    </a>
                                 </div>
                             </div>
                         </div>
