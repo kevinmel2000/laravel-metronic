@@ -387,15 +387,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -421,15 +424,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -458,15 +464,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -492,15 +501,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -526,15 +538,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -560,15 +575,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -597,15 +615,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -634,15 +655,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
@@ -668,15 +692,18 @@
                                         <ul class="dropdown-menu pull-right">
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-check"></i> Complete </a>
+                                                    <i class="fa fa-check"></i> Complete
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-pencil"></i> Edit </a>
+                                                    <i class="fa fa-pencil"></i> Edit
+                                                </a>
                                             </li>
                                             <li>
                                                 <a href="javascript:;">
-                                                    <i class="fa fa-trash-o"></i> Cancel </a>
+                                                    <i class="fa fa-trash-o"></i> Cancel
+                                                </a>
                                             </li>
                                         </ul>
                                     </div>
