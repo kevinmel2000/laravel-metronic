@@ -98,7 +98,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_3.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_3.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -124,7 +124,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_3.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_3.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Hugh Grant</a>
@@ -166,7 +166,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_1.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue">Rory Matthew</a>
@@ -190,7 +190,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -212,7 +212,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_1.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Matt Goldman</a>
@@ -252,7 +252,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_1.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Rory Matthew</a>
@@ -261,7 +261,7 @@
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="mt-content border-grey-steel">
-                                    <img class="timeline-body-img pull-left" src="../assets/pages/media/blog/5.jpg" alt="">
+                                    <img class="timeline-body-img pull-left" src="{{ asset('assets/pages/media/blog/5.jpg') }}" alt="">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                         qui ut. laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut. </p>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
@@ -277,7 +277,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_5.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_5.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Jessica Wolf</a>
@@ -286,7 +286,7 @@
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="mt-content border-grey-steel">
-                                    <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/6.jpg" alt="">
+                                    <img class="timeline-body-img pull-right" src="{{ asset('assets/pages/media/blog/6.jpg') }}" alt="">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                         qui ut.</p>
                                     <a href="javascript:;" class="btn btn-circle green-sharp">Read More</a>
@@ -298,7 +298,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -320,7 +320,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -342,7 +342,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -364,7 +364,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -472,7 +472,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Lisa Bold</a>
@@ -496,7 +496,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_3.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_3.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Hugh Grant</a>
@@ -538,7 +538,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_1.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue">Rory Matthew</a>
@@ -562,7 +562,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -584,7 +584,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_1.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Matt Goldman</a>
@@ -624,7 +624,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_1.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Rory Matthew</a>
@@ -633,7 +633,7 @@
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="mt-content border-grey-steel">
-                                    <img class="timeline-body-img pull-left" src="../assets/pages/media/blog/5.jpg" alt="">
+                                    <img class="timeline-body-img pull-left" src="{{ asset('assets/pages/media/blog/5.jpg') }}" alt="">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                         qui ut. laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut. </p>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
@@ -649,7 +649,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_5.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_5.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Jessica Wolf</a>
@@ -658,7 +658,7 @@
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="mt-content border-grey-steel">
-                                    <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/6.jpg" alt="">
+                                    <img class="timeline-body-img pull-right" src="{{ asset('assets/pages/media/blog/6.jpg') }}" alt="">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis
                                         qui ut.</p>
                                     <a href="javascript:;" class="btn btn-circle green-sharp">Read More</a>
@@ -670,7 +670,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -692,7 +692,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -714,7 +714,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
@@ -736,7 +736,7 @@
                                 </div>
                                 <div class="mt-author">
                                     <div class="mt-avatar">
-                                        <img src="../assets/pages/media/users/avatar80_2.jpg">
+                                        <img src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}">
                                     </div>
                                     <div class="mt-author-name">
                                         <a href="javascript:;" class="font-blue-madison">Andres Iniesta</a>
