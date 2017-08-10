@@ -51,7 +51,9 @@ Route::group(['prefix' => 'admin-1'], function () {
 
         Route::group(['prefix' => 'ui'], function () {
 
-            // TODO: route definition goes here...
+            Route::get('metronic-grid', function () {
+                return view('admin-1.features.ui.metronic-grid');
+            })->name('admin-1.ui-metronic-grid');
 
         });
 
