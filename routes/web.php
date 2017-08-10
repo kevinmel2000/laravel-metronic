@@ -24,69 +24,6 @@ Route::group(['prefix' => 'admin-1'], function () {
     })->name('admin-1.blank-page');
 
 
-    /************************ SIDEBAR: Partial View ***************************/
-
-    ////////////////////////////////// App /////////////////////////////////////
-
-    Route::get('_ajax/inbox-datalist', function () {
-        return view('admin-1.pages.apps._ajax.inbox-datalist');
-    })->name('admin-1.ajax.inbox-datalist');
-
-    Route::get('_ajax/inbox-view', function () {
-        return view('admin-1.pages.apps._ajax.inbox-view');
-    })->name('admin-1.ajax.inbox-view');
-
-    Route::get('_ajax/inbox-compose', function () {
-        return view('admin-1.pages.apps._ajax.inbox-compose');
-    })->name('admin-1.ajax.inbox-compose');
-
-    Route::get('_partial/support-staff', function () {
-        return view('admin-1.pages.apps._partial.support-staff');
-    })->name('admin-1.partial.support-staff');
-
-    Route::get('_partial/support-config', function () {
-        return view('admin-1.pages.apps._partial.support-config');
-    })->name('admin-1.partial.support-config');
-
-    Route::get('_partial/support-details', function () {
-        return view('admin-1.pages.apps._partial.support-details');
-    })->name('admin-1.partial.support-details');
-
-    //////////////////////////////// General ///////////////////////////////////
-
-    Route::get('_ajax/load-more', function () {
-        return view('admin-1.pages.general._ajax.load-more');
-    })->name('admin-1.ajax.load-more');
-
-    Route::get('_ajax/load-more2', function () {
-        return view('admin-1.pages.general._ajax.load-more2');
-    })->name('admin-1.ajax.load-more2');
-
-    Route::get('_ajax/load-more3', function () {
-        return view('admin-1.pages.general._ajax.load-more3');
-    })->name('admin-1.ajax.load-more3');
-
-    Route::get('_ajax/load-more4', function () {
-        return view('admin-1.pages.general._ajax.load-more4');
-    })->name('admin-1.ajax.load-more4');
-
-    Route::get('_ajax/project1', function () {
-        return view('admin-1.pages.general._ajax.project1');
-    })->name('admin-1.ajax.project1');
-
-    Route::get('_ajax/project2', function () {
-        return view('admin-1.pages.general._ajax.project2');
-    })->name('admin-1.ajax.project2');
-
-    Route::get('_ajax/project3', function () {
-        return view('admin-1.pages.general._ajax.project3');
-    })->name('admin-1.ajax.project3');
-
-    Route::get('_ajax/project4', function () {
-        return view('admin-1.pages.general._ajax.project4');
-    })->name('admin-1.ajax.project4');
-
-
     /************************** SIDEBAR: DASHBOARD ****************************/
 
     Route::group(['prefix' => 'dashboard'], function () {
@@ -337,5 +274,67 @@ Route::group(['prefix' => 'admin-1'], function () {
         });
 
     });
+
+    /************************ SIDEBAR: Partial View ***************************/
+
+    ////////////////////////////////// App /////////////////////////////////////
+
+    Route::get('_ajax/inbox-datalist', function () {
+        return view('admin-1.pages.apps._ajax.inbox-datalist');
+    })->name('admin-1.ajax.inbox-datalist');
+
+    Route::get('_ajax/inbox-view', function () {
+        return view('admin-1.pages.apps._ajax.inbox-view');
+    })->name('admin-1.ajax.inbox-view');
+
+    Route::get('_ajax/inbox-compose', function () {
+        return view('admin-1.pages.apps._ajax.inbox-compose');
+    })->name('admin-1.ajax.inbox-compose');
+
+    Route::get('_partial/support-staff', function () {
+        return view('admin-1.pages.apps._partial.support-staff');
+    })->name('admin-1.partial.support-staff');
+
+    Route::get('_partial/support-config', function () {
+        return view('admin-1.pages.apps._partial.support-config');
+    })->name('admin-1.partial.support-config');
+
+    Route::get('_partial/support-details', function () {
+        return view('admin-1.pages.apps._partial.support-details');
+    })->name('admin-1.partial.support-details');
+
+    //////////////////////////////// General ///////////////////////////////////
+
+    Route::get('_ajax/load-more', function () {
+        return view('admin-1.pages.general._ajax.load-more');
+    })->name('admin-1.ajax.load-more');
+
+    Route::get('_ajax/load-more2', function () {
+        return view('admin-1.pages.general._ajax.load-more2');
+    })->name('admin-1.ajax.load-more2');
+
+    Route::get('_ajax/load-more3', function () {
+        return view('admin-1.pages.general._ajax.load-more3');
+    })->name('admin-1.ajax.load-more3');
+
+    Route::get('_ajax/load-more4', function () {
+        return view('admin-1.pages.general._ajax.load-more4');
+    })->name('admin-1.ajax.load-more4');
+
+    Route::get('_ajax/project1', function () {
+        return view('admin-1.pages.general._ajax.project1');
+    })->name('admin-1.ajax.project1');
+
+    Route::get('_ajax/project2', function () {
+        return view('admin-1.pages.general._ajax.project2');
+    })->name('admin-1.ajax.project2');
+
+    Route::get('_ajax/project3', function () {
+        return view('admin-1.pages.general._ajax.project3');
+    })->name('admin-1.ajax.project3');
+
+    Route::get('_ajax/project4', function () {
+        return view('admin-1.pages.general._ajax.project4');
+    })->name('admin-1.ajax.project4');
 
 });
