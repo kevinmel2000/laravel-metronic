@@ -13,23 +13,23 @@
                         </a>
                         <div class="dropdown-menu hold-on-click dropdown-checkboxes pull-right">
                             <label class="mt-checkbox mt-checkbox-outline">
-                                <input type="checkbox" /> Finance
+                                <input type="checkbox"> Finance
                                 <span></span>
                             </label>
                             <label class="mt-checkbox mt-checkbox-outline">
-                                <input type="checkbox" checked="" /> Membership
+                                <input type="checkbox" checked=""> Membership
                                 <span></span>
                             </label>
                             <label class="mt-checkbox mt-checkbox-outline">
-                                <input type="checkbox" /> Customer Support
+                                <input type="checkbox"> Customer Support
                                 <span></span>
                             </label>
                             <label class="mt-checkbox mt-checkbox-outline">
-                                <input type="checkbox" checked="" /> HR
+                                <input type="checkbox" checked=""> HR
                                 <span></span>
                             </label>
                             <label class="mt-checkbox mt-checkbox-outline">
-                                <input type="checkbox" /> System
+                                <input type="checkbox"> System
                                 <span></span>
                             </label>
                         </div>
@@ -367,7 +367,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -404,7 +404,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -438,7 +438,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -475,7 +475,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -509,7 +509,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -543,7 +543,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -577,7 +577,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -614,7 +614,7 @@
                             <li>
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
@@ -651,7 +651,7 @@
                             <li class="last-line">
                                 <div class="task-checkbox">
                                     <label class="mt-checkbox mt-checkbox-single mt-checkbox-outline">
-                                        <input type="checkbox" class="checkboxes" value="1" />
+                                        <input type="checkbox" class="checkboxes" value="1">
                                         <span></span>
                                     </label>
                                 </div>
