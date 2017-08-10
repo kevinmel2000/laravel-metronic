@@ -24,25 +24,6 @@ Route::group(['prefix' => 'admin-1'], function () {
     })->name('admin-1.blank-page');
 
 
-    /************************** SIDEBAR: DASHBOARD ****************************/
-
-    Route::group(['prefix' => 'dashboard'], function () {
-
-        Route::get('01', function () {
-            return view('admin-1.dashboard.01');
-        })->name('admin-1.dashboard.01');
-
-        Route::get('02', function () {
-            return view('admin-1.dashboard.02');
-        })->name('admin-1.dashboard.02');
-
-        Route::get('03', function () {
-            return view('admin-1.dashboard.03');
-        })->name('admin-1.dashboard.03');
-
-    });
-
-
     /************************ SIDEBAR: Partial View ***************************/
 
     ////////////////////////////////// App /////////////////////////////////////
@@ -104,6 +85,25 @@ Route::group(['prefix' => 'admin-1'], function () {
     Route::get('_ajax/project4', function () {
         return view('admin-1.pages.general._ajax.project4');
     })->name('admin-1.ajax.project4');
+
+
+    /************************** SIDEBAR: DASHBOARD ****************************/
+
+    Route::group(['prefix' => 'dashboard'], function () {
+
+        Route::get('01', function () {
+            return view('admin-1.dashboard.01');
+        })->name('admin-1.dashboard.01');
+
+        Route::get('02', function () {
+            return view('admin-1.dashboard.02');
+        })->name('admin-1.dashboard.02');
+
+        Route::get('03', function () {
+            return view('admin-1.dashboard.03');
+        })->name('admin-1.dashboard.03');
+
+    });
 
 
     /**************************** SIDEBAR: PAGES ******************************/
