@@ -43,6 +43,21 @@ Route::group(['prefix' => 'admin-1'], function () {
     });
 
 
+    /************************** SIDEBAR: FEATURES *****************************/
+
+    Route::group(['prefix' => 'features'], function () {
+
+        /********************** SIDEBAR: FEATURES: UI *************************/
+
+        Route::group(['prefix' => 'ui'], function () {
+
+            // TODO: route definition goes here...
+
+        });
+
+    });
+
+
     /**************************** SIDEBAR: PAGES ******************************/
 
     Route::group(['prefix' => 'pages'], function () {
