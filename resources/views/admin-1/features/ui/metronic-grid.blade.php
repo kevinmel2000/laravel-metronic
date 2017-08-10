@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Metronic Grid System
+        <small>Metronic's custom grid system</small>
+    </h1>
 @endsection
