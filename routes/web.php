@@ -59,6 +59,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.colors');
             })->name('admin-1.ui-colors');
 
+            Route::get('general', function () {
+                return view('admin-1.features.ui.general');
+            })->name('admin-1.ui-general');
+
         });
 
     });
