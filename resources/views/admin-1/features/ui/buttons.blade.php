@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Buttons
+        <small>metronic & bootstrap style buttons, dropdowns, dropdown buttons, icon buttons, social icons, toolbars and more</small>
+    </h1>
 @endsection
