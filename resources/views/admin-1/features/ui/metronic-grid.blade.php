@@ -237,7 +237,7 @@
                     </div>
                     <!--end: Demo 5 -->
 
-                    <!-- begin: Demo 5 -->
+                    <!-- begin: Demo 6 -->
                     <br>
 
                     <h3 class="">Full Height Inner Content</h3>
@@ -282,7 +282,8 @@
                             </div>
                         </div>
                     </div>
-                    <!--end: Demo 5 -->
+                    <!--end: Demo 6 -->
+                    
                 </div>
             </div>
         </div>
