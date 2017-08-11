@@ -1213,20 +1213,20 @@
                         <ul class="media-list">
                             <li class="media">
                                 <a class="pull-left" href="javascript:;">
-                                    <img class="media-object" src="../assets/global/plugins/holder.js/64x64" alt=""> </a>
+                                    <img class="media-object" src="{{ asset('assets/global/plugins/holder.js/64x64') }}" alt=""> </a>
                                 <div class="media-body">
                                     <h4 class="media-heading">Media heading</h4>
                                     <p> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. </p>
                                     <!-- Nested media object -->
                                     <div class="media">
                                         <a class="pull-left" href="javascript:;">
-                                            <img class="media-object" src="../assets/global/plugins/holder.js/64x64" alt=""> </a>
+                                            <img class="media-object" src="{{ asset('assets/global/plugins/holder.js/64x64') }}" alt=""> </a>
                                         <div class="media-body">
                                             <h4 class="media-heading">Nested media heading</h4> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
                                             <!-- Nested media object -->
                                             <div class="media">
                                                 <a class="pull-left" href="javascript:;">
-                                                    <img class="media-object" src="../assets/global/plugins/holder.js/64x64" alt=""> </a>
+                                                    <img class="media-object" src="{{ asset('assets/global/plugins/holder.js/64x64') }}" alt=""> </a>
                                                 <div class="media-body">
                                                     <h4 class="media-heading">Nested media heading</h4> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra
                                                     turpis. </div>
@@ -1236,7 +1236,7 @@
                                     <!-- Nested media object -->
                                     <div class="media">
                                         <a class="pull-left" href="javascript:;">
-                                            <img class="media-object" src="../assets/global/plugins/holder.js/64x64" alt=""> </a>
+                                            <img class="media-object" src="{{ asset('assets/global/plugins/holder.js/64x64') }}" alt=""> </a>
                                         <div class="media-body">
                                             <h4 class="media-heading">Nested media heading</h4> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis.
                                             </div>
@@ -1245,7 +1245,7 @@
                             </li>
                             <li class="media">
                                 <a class="pull-right" href="javascript:;">
-                                    <img class="media-object" src="../assets/global/plugins/holder.js/64x64" alt=""> </a>
+                                    <img class="media-object" src="{{ asset('assets/global/plugins/holder.js/64x64') }}" alt=""> </a>
                                 <div class="media-body">
                                     <h4 class="media-heading">Media heading</h4> Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. </div>
                             </li>
@@ -1281,26 +1281,26 @@
                     <div class="row">
                         <div class="col-sm-6 col-md-3">
                             <a href="javascript:;" class="thumbnail">
-                                <img src="../assets/global/plugins/holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
+                                <img src="{{ asset('assets/global/plugins/holder.js/100%x180') }}" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <a href="javascript:;" class="thumbnail">
-                                <img src="../assets/global/plugins/holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
+                                <img src="{{ asset('assets/global/plugins/holder.js/100%x180') }}" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <a href="javascript:;" class="thumbnail">
-                                <img src="../assets/global/plugins/holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
+                                <img src="{{ asset('assets/global/plugins/holder.js/100%x180') }}" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
                         </div>
                         <div class="col-sm-6 col-md-3">
                             <a href="javascript:;" class="thumbnail">
-                                <img src="../assets/global/plugins/holder.js/100%x180" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
+                                <img src="{{ asset('assets/global/plugins/holder.js/100%x180') }}" alt="100%x180" style="height: 180px; width: 100%; display: block;"> </a>
                         </div>
                     </div>
                     <h4 class="block">Custom Content</h4>
                     <div class="row">
                         <div class="col-sm-12 col-md-6">
                             <div class="thumbnail">
-                                <img src="../assets/global/plugins/holder.js/100%x200" alt="" style="width: 100%; height: 200px;">
+                                <img src="{{ asset('assets/global/plugins/holder.js/100%x200') }}" alt="" style="width: 100%; height: 200px;">
                                 <div class="caption">
                                     <h3>Thumbnail label</h3>
                                     <p> Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit. </p>
@@ -1313,7 +1313,7 @@
                         </div>
                         <div class="col-sm-12 col-md-6">
                             <div class="thumbnail">
-                                <img src="../assets/global/plugins/holder.js/100%x200" alt="" style="width: 100%; height: 200px;">
+                                <img src="{{ asset('assets/global/plugins/holder.js/100%x200') }}" alt="" style="width: 100%; height: 200px;">
                                 <div class="caption">
                                     <h3>Thumbnail label</h3>
                                     <p> Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit. </p>
