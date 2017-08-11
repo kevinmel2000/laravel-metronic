@@ -16,7 +16,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-general') }}" class="nav-link ">
                 <span class="title">General Components</span>
             </a>
         </li>
