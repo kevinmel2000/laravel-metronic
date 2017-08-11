@@ -13,3 +13,7 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/jquery-bootpag/jquery.bootpag.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/holder.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/global/scripts/app.min.js') }}"></script>
+@endpush
