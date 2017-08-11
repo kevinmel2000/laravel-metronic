@@ -16,3 +16,7 @@
     <script type="text/javascript" src="{{ asset('assets/global/plugins/ladda/spin.min.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/global/plugins/ladda/ladda.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/ui-buttons-spinners.min.js') }}"></script>
+@endpush
