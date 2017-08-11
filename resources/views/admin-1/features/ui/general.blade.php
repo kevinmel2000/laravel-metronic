@@ -15,6 +15,9 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> General Components
+        <small>bootstrap alerts, notes, tooltips, progress bars, labels, badges, paginations and more</small>
+    </h1>
 @endsection
 
 @push('page-level-plugins-footer')
