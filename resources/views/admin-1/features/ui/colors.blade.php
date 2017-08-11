@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Color Library
+        <small>color variants for metronic and bootstrap custom elements and components</small>
+    </h1>
 @endsection
