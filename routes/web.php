@@ -55,6 +55,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.metronic-grid');
             })->name('admin-1.ui-metronic-grid');
 
+            Route::get('colors', function () {
+                return view('admin-1.features.ui.colors');
+            })->name('admin-1.ui-colors');
+
         });
 
     });
