@@ -11,7 +11,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-colors') }}" class="nav-link ">
                 <span class="title">Color Library</span>
             </a>
         </li>
