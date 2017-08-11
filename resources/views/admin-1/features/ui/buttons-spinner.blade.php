@@ -15,6 +15,9 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Spinner Buttons
+        <small>bootstrap spinner and progress bar buttons based on ladda bootstrap plugin</small>
+    </h1>
 @endsection
 
 @push('page-level-plugins-header')
