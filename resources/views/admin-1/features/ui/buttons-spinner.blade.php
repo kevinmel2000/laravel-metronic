@@ -7,3 +7,7 @@
 
 @section('content')
 @endsection
+
+@push('page-level-plugins-header')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/ladda/ladda-themeless.min.css') }}">
+@endpush
