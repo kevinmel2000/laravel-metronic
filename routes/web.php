@@ -67,6 +67,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.buttons');
             })->name('admin-1.ui-buttons');
 
+            Route::get('buttons-spinner', function () {
+                return view('admin-1.features.ui.buttons-spinner');
+            })->name('admin-1.ui-buttons-spinner');
+
         });
 
     });
