@@ -31,7 +31,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-popover-confirmations') }}" class="nav-link ">
                 <span class="title">Popover Confirmations</span>
             </a>
         </li>
