@@ -123,3 +123,7 @@
         </div>
     </div>
 @endsection
+
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-confirmation/bootstrap-confirmation.min.js') }}"></script>
+@endpush
