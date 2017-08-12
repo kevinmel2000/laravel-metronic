@@ -75,6 +75,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.popover-confirmations');
             })->name('admin-1.ui-popover-confirmations');
 
+            Route::get('sweetalert', function () {
+                return view('admin-1.features.ui.sweetalert');
+            })->name('admin-1.ui-sweetalert');
+
         });
 
     });
