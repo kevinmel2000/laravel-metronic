@@ -52,17 +52,37 @@
                 </div>
                 <div class="portlet-body">
                     <h3>Basic Usage</h3>
-                    <p> Add small overlays with "Yes" and "No" buttons, like those on the iPad, to any element. Click the button to trigger the confirmation. </p>
-                    <button class="btn green-sharp btn-large" data-toggle="confirmation" data-original-title="Are you sure ?"
-                        title="">Default configuration</button>
+
+                    <p> Add small overlays with "Yes" and "No" buttons, like those on the iPad, to any element. Click the button to trigger the confirmation.</p>
+
+                    <button class="btn green-sharp btn-large" data-toggle="confirmation" data-original-title="Are you sure ?" title="">
+                        Default configuration
+                    </button>
+
                     <h3>Custom Buttons</h3>
+
                     <button class="btn red-mint" data-toggle="confirmation" data-placement="right" data-btn-ok-label="Continue" data-btn-ok-icon="icon-like" data-btn-ok-class="btn-success" data-btn-cancel-label="Stoooop!"
-                        data-btn-cancel-icon="icon-close" data-btn-cancel-class="btn-danger">Action confirmation!</button>
+                        data-btn-cancel-icon="icon-close" data-btn-cancel-class="btn-danger">Action confirmation!
+                    </button>
+
                     <h3>Directions</h3>
-                    <button class="btn btn-outline green-sharp  uppercase" data-toggle="confirmation" data-placement="left">Confirmation on left</button>
-                    <button class="btn btn-outline red-mint  uppercase" data-toggle="confirmation" data-placement="top">Confirmation on top</button>
-                    <button class="btn btn-outline yellow-mint  uppercase" data-toggle="confirmation" data-placement="bottom">Confirmation on bottom</button>
-                    <button class="btn btn-outline purple-sharp  uppercase" data-toggle="confirmation" data-placement="right">Confirmation on right</button>
+
+                    <button class="btn btn-outline green-sharp  uppercase" data-toggle="confirmation" data-placement="left">
+                        Confirmation on left
+                    </button>
+
+                    <button class="btn btn-outline red-mint  uppercase" data-toggle="confirmation" data-placement="top">
+                        Confirmation on top
+                    </button>
+
+                    <button class="btn btn-outline yellow-mint  uppercase" data-toggle="confirmation" data-placement="bottom">
+                        Confirmation on bottom
+                    </button>
+
+                    <button class="btn btn-outline purple-sharp  uppercase" data-toggle="confirmation" data-placement="right">
+                        Confirmation on right
+                    </button>
+
                     <h3>Singleton</h3>
                     <p> Only one boxe visible at once. </p>
                     <button class="btn btn-outline green-sharp  uppercase" data-toggle="confirmation" data-singleton="true">Confirmation 1</button>
