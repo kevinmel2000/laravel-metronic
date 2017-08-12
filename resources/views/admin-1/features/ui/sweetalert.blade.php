@@ -75,26 +75,47 @@
         <div class="portlet-body">
             <h4>Sweet Alert Samples</h4>
 
-            <button class="btn btn-default mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-default">Default Alert</button>
+            <button class="btn btn-default mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-default">
+                Default Alert
+            </button>
 
-            <button class="btn btn-primary mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary">Primary Alert</button>
+            <button class="btn btn-primary mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary">
+                Primary Alert
+            </button>
 
-            <button class="btn btn-info mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-info">Info Alert</button>
+            <button class="btn btn-info mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-info">
+                Info Alert
+            </button>
 
-            <button class="btn btn-warning mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-warning">Warning Alert</button>
+            <button class="btn btn-warning mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-warning">
+                Warning Alert
+            </button>
 
-            <button class="btn btn-danger mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-danger">Danger Alert</button>
+            <button class="btn btn-danger mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-danger">
+                Danger Alert
+            </button>
 
-            <button class="btn btn-success mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-success">Success Alert</button>
-            <h4 class="mt-sweetalert-title">Sweet Alert Samples with Icons</h4>
+            <button class="btn btn-success mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-success">
+                Success Alert
+            </button>
+            <h4 class="mt-sweetalert-title">
+                Sweet Alert Samples with Icons</h4>
 
-            <button class="btn btn-success mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Success Icon" data-type="success" data-allow-outside-click="true" data-confirm-button-class="btn-success">Icon Success Alert</button>
+            <button class="btn btn-success mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Success Icon" data-type="success" data-allow-outside-click="true" data-confirm-button-class="btn-success">
+                Icon Success Alert
+            </button>
 
-            <button class="btn btn-warning mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Warning Icon" data-type="warning" data-allow-outside-click="true" data-confirm-button-class="btn-warning">Icon Warning Alert</button>
+            <button class="btn btn-warning mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Warning Icon" data-type="warning" data-allow-outside-click="true" data-confirm-button-class="btn-warning">
+                Icon Warning Alert
+            </button>
 
-            <button class="btn btn-danger mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Error Icon" data-type="error" data-allow-outside-click="true" data-confirm-button-class="btn-danger">Icon Error Alert</button>
+            <button class="btn btn-danger mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Error Icon" data-type="error" data-allow-outside-click="true" data-confirm-button-class="btn-danger">
+                Icon Error Alert
+            </button>
 
-            <button class="btn btn-info mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Info Icon" data-type="info" data-allow-outside-click="true" data-confirm-button-class="btn-info">Icon Info Alert</button>
+            <button class="btn btn-info mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Info Icon" data-type="info" data-allow-outside-click="true" data-confirm-button-class="btn-info">
+                Icon Info Alert
+            </button>
 
             <h4 class="mt-sweetalert-title">Sweet Alert Samples with Custom Buttons</h4>
 
@@ -111,7 +132,10 @@
 
             <button class="btn btn-default mt-sweetalert" data-title="Do you agree to the Terms and Conditions?" data-message="Duis mollis, est non commodo luctus, nisi erat porttitor ligula, mattis consectetur purus sit amet eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum."
                 data-type="info" data-show-confirm-button="true" data-confirm-button-class="btn-success" data-show-cancel-button="true" data-cancel-button-class="btn-default" data-close-on-confirm="false" data-close-on-cancel="false" data-confirm-button-text='Yes, I agree'
-                data-cancel-button-text='No, I disagree' data-popup-title-success="Thank you" data-popup-message-success="You have agreed to our Terms and Conditions" data-popup-title-cancel="Cancelled" data-popup-message-cancel="You have disagreed to our Terms and Conditions">Agree to Terms & Conditions</button>
+                data-cancel-button-text='No, I disagree' data-popup-title-success="Thank you" data-popup-message-success="You have agreed to our Terms and Conditions" data-popup-title-cancel="Cancelled" data-popup-message-cancel="You have disagreed to our Terms and Conditions">Agree to
+
+                Terms & Conditions
+            </button>
         </div>
     </div>
 
