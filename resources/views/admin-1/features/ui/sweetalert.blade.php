@@ -310,3 +310,7 @@
 @push('page-level-plugins-footer')
     <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-sweetalert/sweetalert.min.js') }}"></script>
 @endpush
+
+@push('page-level-scripts')
+    <script type="text/javascript" src="{{ asset('assets/pages/scripts/ui-sweetalert.min.js') }}"></script>
+@endpush
