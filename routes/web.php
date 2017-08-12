@@ -79,6 +79,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.sweetalert');
             })->name('admin-1.ui-sweetalert');
 
+            Route::get('icons', function () {
+                return view('admin-1.features.ui.icons');
+            })->name('admin-1.ui-icons');
+
         });
 
     });
