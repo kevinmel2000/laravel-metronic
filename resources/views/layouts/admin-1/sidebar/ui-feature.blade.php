@@ -41,7 +41,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-icons') }}" class="nav-link ">
                 <span class="title">Font Icons</span>
             </a>
         </li>
