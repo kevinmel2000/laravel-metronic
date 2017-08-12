@@ -84,17 +84,40 @@
                     </button>
 
                     <h3>Singleton</h3>
-                    <p> Only one boxe visible at once. </p>
-                    <button class="btn btn-outline green-sharp  uppercase" data-toggle="confirmation" data-singleton="true">Confirmation 1</button>
-                    <button class="btn btn-outline red-mint  uppercase" data-toggle="confirmation" data-singleton="true">Confirmation 2</button>
+
+                    <p> Only one boxe visible at once.</p>
+
+                    <button class="btn btn-outline green-sharp  uppercase" data-toggle="confirmation" data-singleton="true">
+                        Confirmation 1
+                    </button>
+
+                    <button class="btn btn-outline red-mint  uppercase" data-toggle="confirmation" data-singleton="true">
+                        Confirmation 2
+                    </button>
+
                     <h3>Popout</h3>
-                    <p> Click anywhere on the page to close all boxes. </p>
-                    <button class="btn green-sharp btn-circle" data-toggle="confirmation" data-popout="true">Confirmation 1</button>
-                    <button class="btn red-mint btn-circle" data-toggle="confirmation" data-popout="true">Confirmation 2</button>
+
+                    <p> Click anywhere on the page to close all boxes.</p>
+
+                    <button class="btn green-sharp btn-circle" data-toggle="confirmation" data-popout="true">
+                        Confirmation 1
+                    </button>
+
+                    <button class="btn red-mint btn-circle" data-toggle="confirmation" data-popout="true">
+                        Confirmation 2
+                    </button>
+
                     <h3>Event Handling</h3>
-                    <p> All events from Bootstrap Popover are available but suffixed with bs.confirmation. </p>
-                    <button class="btn yellow-mint uppercase btn-circle" data-toggle="confirmation" id="bs_confirmation_demo_1">Confirmation 1</button>
-                    <button class="btn grey-mint uppercase btn-circle" data-toggle="confirmation" id="bs_confirmation_demo_2">Confirmation 2</button>
+
+                    <p> All events from Bootstrap Popover are available but suffixed with bs.confirmation.</p>
+
+                    <button class="btn yellow-mint uppercase btn-circle" data-toggle="confirmation" id="bs_confirmation_demo_1">
+                        Confirmation 1
+                    </button>
+
+                    <button class="btn grey-mint uppercase btn-circle" data-toggle="confirmation" id="bs_confirmation_demo_2">
+                        Confirmation 2
+                    </button>
                 </div>
             </div>
         </div>
