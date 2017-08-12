@@ -172,21 +172,48 @@
                 </div>
                 <div class="portlet-body">
                     <h4>Solid Circle Buttons</h4>
-                    <button class="btn btn-default btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-default">Default Alert</button>
-                    <button class="btn btn-primary btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary">Primary Alert</button>
-                    <button class="btn btn-info btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-info">Info Alert</button>
-                    <button class="btn btn-warning btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-warning">Warning Alert</button>
-                    <button class="btn btn-danger btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-danger">Danger Alert</button>
-                    <button class="btn btn-success btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-success">Success Alert</button>
+
+                    <button class="btn btn-default btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-default">
+                        Default Alert
+                    </button>
+
+                    <button class="btn btn-primary btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary">
+                        Primary Alert
+                    </button>
+
+                    <button class="btn btn-info btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-info">
+                        Info Alert
+                    </button>
+
+                    <button class="btn btn-warning btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-warning">
+                        Warning Alert
+                    </button>
+
+                    <button class="btn btn-danger btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-danger">
+                        Danger Alert
+                    </button>
+
+                    <button class="btn btn-success btn-circle mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-success">
+                        Success Alert
+                    </button>
+
                     <h4>Outline Circle Buttons</h4>
+
                     <button class="btn btn-circle green-haze btn-outline sbold uppercase mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Success Icon" data-type="success" data-allow-outside-click="true"
-                        data-confirm-button-class="btn-success">Icon Success Alert</button>
+                        data-confirm-button-class="btn-success">Icon Success Alert
+                    </button>
+
                     <button class="btn yellow-lemon btn-circle btn-outline sbold uppercase mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Warning Icon" data-type="warning" data-allow-outside-click="true"
-                        data-confirm-button-class="btn-warning">Icon Warning Alert</button>
+                        data-confirm-button-class="btn-warning">Icon Warning Alert
+                    </button>
+
                     <button class="btn red btn-circle btn-outline sbold uppercase mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Error Icon" data-type="error" data-allow-outside-click="true"
-                        data-confirm-button-class="btn-danger">Icon Error Alert</button>
+                        data-confirm-button-class="btn-danger">Icon Error Alert
+                    </button>
+
                     <button class="btn blue btn-circle btn-outline sbold uppercase mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Info Icon" data-type="info" data-allow-outside-click="true"
-                        data-confirm-button-class="btn-info">Icon Info Alert</button>
+                        data-confirm-button-class="btn-info">Icon Info Alert
+                    </button>
                 </div>
             </div>
         </div>
