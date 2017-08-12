@@ -306,3 +306,7 @@
 @push('page-level-plugins-header')
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/bootstrap-sweetalert/sweetalert.css') }}">
 @endpush
+
+@push('page-level-plugins-footer')
+    <script type="text/javascript" src="{{ asset('assets/global/plugins/bootstrap-sweetalert/sweetalert.min.js') }}"></script>
+@endpush
