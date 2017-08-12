@@ -39,6 +39,7 @@
             <br> <code>data-popup-message-cancel</code> - Defines Sweet Alert confirmation popup Message for Cancel
             <br>
             <br> For more info please check out
-            <a href="http://lipis.github.io/bootstrap-sweetalert/" target="_blank">the official documentation</a>. </p>
+            <a href="http://lipis.github.io/bootstrap-sweetalert/" target="_blank">the official documentation</a>.
+        </p>
     </div>
 @endsection
