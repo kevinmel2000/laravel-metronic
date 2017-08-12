@@ -249,22 +249,54 @@
                 </div>
                 <div class="portlet-body">
                     <h4>Standard Text Link</h4>
-                    <a href="javascript:;" class="mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-default">Standard Link</a>
-                    <a href="javascript:;" class="bold mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary">Bold Link</a>
-                    <a href="javascript:;" class="mt-sweetalert mt-intalic" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-info">Italic Link</a>
-                    <a href="javascript:;" class="mt-sweetalert mt-italic bold" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-warning">Mixed Text Link</a>
+
+                    <a href="javascript:;" class="mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-default">
+                        Standard Link
+                    </a>
+
+                    <a href="javascript:;" class="bold mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary">
+                        Bold Link
+                    </a>
+
+                    <a href="javascript:;" class="mt-sweetalert mt-intalic" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-info">
+                        Italic Link
+                    </a>
+
+                    <a href="javascript:;" class="mt-sweetalert mt-italic bold" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-warning">
+                        Mixed Text Link
+                    </a>
+
                     <h4 class="mt-sweetalert-title">Colored Text Link</h4>
+
                     <a href="javascript:;" class="mt-sweetalert font-red" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-danger"
-                        data-type="error">Red Text</a>
-                    <a href="javascript:;" class="bold font-green mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary" data-type="success">Green Bold Link</a>
+                        data-type="error">
+                        Red Text
+                    </a>
+
+                    <a href="javascript:;" class="bold font-green mt-sweetalert" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-primary" data-type="success">
+                        Green Bold Link
+                    </a>
+
                     <a href="javascript:;" class="mt-sweetalert font-blue mt-intalic" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-info"
-                        data-type="info">Blue Italic Link</a>
+                        data-type="info">
+                        Blue Italic Link
+                    </a>
+
                     <a href="javascript:;" class="mt-sweetalert font-purple mt-italic bold" data-title="Sweet Alerts" data-message="Beautiful popup alerts" data-allow-outside-click="true" data-confirm-button-class="btn-warning"
-                        data-type="warning">Purple Mixed Text Link</a>
+                        data-type="warning">
+                        Purple Mixed Text Link
+                    </a>
+
                     <h4 class="mt-sweetalert-title">Regular Text</h4>
-                    <p class="mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Success Icon" data-type="success" data-allow-outside-click="true" data-confirm-button-class="btn-success">Icon Success Alert Pop up on regular text. Please click text.</p>
-                    <p class="mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Warning Icon" data-type="warning" data-allow-outside-click="true" data-confirm-button-class="btn-warning">It can be placed on any text paragraph. Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
-                        nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga.</p>
+
+                    <p class="mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Success Icon" data-type="success" data-allow-outside-click="true" data-confirm-button-class="btn-success">
+                        Icon Success Alert Pop up on regular text. Please click text.
+                    </p>
+
+                    <p class="mt-sweetalert" data-title="Sweet Alerts with Icons" data-message="Warning Icon" data-type="warning" data-allow-outside-click="true" data-confirm-button-class="btn-warning">
+                        It can be placed on any text paragraph. Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+                        nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga.
+                    </p>
                 </div>
             </div>
         </div>
