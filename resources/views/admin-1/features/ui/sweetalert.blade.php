@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> SweetAlert For Bootstrap
+        <small>metronic custom alert demos based on bootstrap SweetAlerts plugin</small>
+    </h1>
 @endsection
