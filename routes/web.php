@@ -71,6 +71,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.buttons-spinner');
             })->name('admin-1.ui-buttons-spinner');
 
+            Route::get('popover-confirmations', function () {
+                return view('admin-1.features.ui.popover-confirmations');
+            })->name('admin-1.ui-popover-confirmations');
+
         });
 
     });
