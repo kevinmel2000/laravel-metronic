@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Font Icons
+        <small>fontawesome, simple line icons, glyphicons</small>
+    </h1>
 @endsection
