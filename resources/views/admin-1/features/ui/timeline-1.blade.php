@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Timeline
+        <small>multi-purpose bootstrap timeline demos</small>
+    </h1>
 @endsection
