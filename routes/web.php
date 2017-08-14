@@ -95,6 +95,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.tabs-accordions-navs');
             })->name('admin-1.ui-tabs-accordions-navs');
 
+            Route::get('timeline-1', function () {
+                return view('admin-1.features.ui.timeline-1');
+            })->name('admin-1.ui-timeline-1');
+
         });
 
     });
