@@ -61,7 +61,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-timeline-1') }}" class="nav-link ">
                 <span class="title">Timeline 1</span>
             </a>
         </li>
