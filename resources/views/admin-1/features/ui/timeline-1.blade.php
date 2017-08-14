@@ -42,7 +42,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_1.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -83,7 +83,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_2.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -96,12 +96,12 @@
                                 <div class="timeline-body-content">
                                     <span class="font-grey-cascade">
                                         <p>
-                                            <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/4.jpg" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
+                                            <img class="timeline-body-img pull-right" src="{{ asset('assets/pages/media/blog/4.jpg') }}" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
                                             greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. coriander bitterleaf epazote radicchio shallot winter purslane collard. </p>
                                         <p> Coriander bitterleaf epazote radicchio shallot winter purslane collard. Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery
                                             coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. </p>
                                         <p>
-                                            <img class="timeline-body-img pull-left" src="../assets/pages/media/blog/6.jpg" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
+                                            <img class="timeline-body-img pull-left" src="{{ asset('assets/pages/media/blog/6.jpg') }}" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
                                             greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi radicchio shallot winter purslane collard greens spring onion squash lentil.
                                             </p>
                                         <p> Coriander bitterleaf epazote radicchio shallot winter purslane collard. Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery
@@ -114,7 +114,7 @@
                         <!-- TIMELINE ITEM WITH GOOGLE MAP -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_3.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_3.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -201,7 +201,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_1.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -221,7 +221,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic img-circle" src="../assets/pages/media/users/avatar80_2.jpg"> </div>
+                                <img class="timeline-badge-userpic img-circle" src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -234,12 +234,12 @@
                                 <div class="timeline-body-content">
                                     <span class="font-grey-cascade">
                                         <p>
-                                            <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/4.jpg" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
+                                            <img class="timeline-body-img pull-right" src="{{ asset('assets/pages/media/blog/4.jpg') }}" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
                                             greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. coriander bitterleaf epazote radicchio shallot winter purslane collard. </p>
                                         <p> Coriander bitterleaf epazote radicchio shallot winter purslane collard. Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery
                                             coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. </p>
                                         <p>
-                                            <img class="timeline-body-img pull-left" src="../assets/pages/media/blog/6.jpg" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
+                                            <img class="timeline-body-img pull-left" src="{{ asset('assets/pages/media/blog/6.jpg') }}" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
                                             greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi radicchio shallot winter purslane collard greens spring onion squash lentil.
                                             </p>
                                         <p> Coriander bitterleaf epazote radicchio shallot winter purslane collard. Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery
@@ -320,7 +320,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_2.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -361,7 +361,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_5.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_5.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -374,7 +374,7 @@
                                 <div class="timeline-body-content">
                                     <span class="font-grey-cascade">
                                         <p>
-                                            <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/6.jpg" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
+                                            <img class="timeline-body-img pull-right" src="{{ asset('assets/pages/media/blog/6.jpg') }}" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
                                             greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. coriander bitterleaf epazote radicchio shallot winter purslane collard. </p>
                                         <p> Coriander bitterleaf epazote radicchio shallot winter purslane collard. Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery
                                             coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. </p>
@@ -386,7 +386,7 @@
                         <!-- TIMELINE ITEM WITH GOOGLE MAP -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_7.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_7.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -473,7 +473,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic" src="../assets/pages/media/users/avatar80_1.jpg"> </div>
+                                <img class="timeline-badge-userpic" src="{{ asset('assets/pages/media/users/avatar80_1.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -493,7 +493,7 @@
                         <!-- TIMELINE ITEM -->
                         <div class="timeline-item">
                             <div class="timeline-badge">
-                                <img class="timeline-badge-userpic img-circle" src="../assets/pages/media/users/avatar80_2.jpg"> </div>
+                                <img class="timeline-badge-userpic img-circle" src="{{ asset('assets/pages/media/users/avatar80_2.jpg') }}"> </div>
                             <div class="timeline-body">
                                 <div class="timeline-body-arrow"> </div>
                                 <div class="timeline-body-head">
@@ -506,12 +506,12 @@
                                 <div class="timeline-body-content">
                                     <span class="font-grey-cascade">
                                         <p>
-                                            <img class="timeline-body-img pull-right" src="../assets/pages/media/blog/4.jpg" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
+                                            <img class="timeline-body-img pull-right" src="{{ asset('assets/pages/media/blog/4.jpg') }}" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
                                             greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. coriander bitterleaf epazote radicchio shallot winter purslane collard. </p>
                                         <p> Coriander bitterleaf epazote radicchio shallot winter purslane collard. Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery
                                             coriander bitterleaf epazote radicchio shallot winter purslane collard greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi. </p>
                                         <p>
-                                            <img class="timeline-body-img pull-left" src="../assets/pages/media/blog/6.jpg" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
+                                            <img class="timeline-body-img pull-left" src="{{ asset('assets/pages/media/blog/6.jpg') }}" alt=""> Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery coriander bitterleaf epazote radicchio shallot winter purslane collard
                                             greens spring onion squash lentil. Artichoke salad bamboo shoot black-eyed pea brussels sprout garlic kohlrabi radicchio shallot winter purslane collard greens spring onion squash lentil.
                                             </p>
                                         <p> Coriander bitterleaf epazote radicchio shallot winter purslane collard. Caulie dandelion maize lentil collard greens radish arugula sweet pepper water spinach kombu courgette lettuce. Celery
