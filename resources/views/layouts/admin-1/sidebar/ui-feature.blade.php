@@ -56,7 +56,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-tabs-accordions-navs') }}" class="nav-link ">
                 <span class="title">Tabs, Accordions & Navs</span>
             </a>
         </li>
