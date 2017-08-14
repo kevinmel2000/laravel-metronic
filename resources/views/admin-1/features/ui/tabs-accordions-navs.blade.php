@@ -544,7 +544,7 @@
                                 <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel
                                     eum iriure dolor in hendrerit in vulputate velit esse molestie consequat </p>
                                 <p>
-                                    <a class="btn yellow" href="ui_tabs_accordions_navs.html#tab_15_3" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn yellow" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_15_3" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                         </div>
@@ -564,7 +564,7 @@
                                 <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel
                                     eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. </p>
                                 <p>
-                                    <a class="btn yellow" href="ui_tabs_accordions_navs.html#tab_16_2_2" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn yellow" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_16_2_2" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                             <div class="tab-pane" id="tab_16_2_3">
@@ -572,7 +572,7 @@
                                 <p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
                                     consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate. </p>
                                 <p>
-                                    <a class="btn purple" href="ui_tabs_accordions_navs.html#tab_16_2_3" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn purple" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_16_2_3" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                         </div>
@@ -623,7 +623,7 @@
                                 <p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
                                     consequat. Ut wisi enim ad minim veniam, quis nostrud exerci tation. </p>
                                 <p>
-                                    <a class="btn green" href="ui_tabs_accordions_navs.html#tab_5_2" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn green" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_5_2" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                             <div class="tab-pane" id="tab_5_3">
@@ -631,7 +631,7 @@
                                 <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel
                                     eum iriure dolor in hendrerit in vulputate velit esse molestie consequat </p>
                                 <p>
-                                    <a class="btn yellow" href="ui_tabs_accordions_navs.html#tab_5_3" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn yellow" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_5_3" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                         </div>
@@ -650,7 +650,7 @@
                                 <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel
                                     eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. </p>
                                 <p>
-                                    <a class="btn yellow" href="ui_tabs_accordions_navs.html#tab_6_2_2" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn yellow" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_6_2_2" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                             <div class="tab-pane" id="tab_6_2_3">
@@ -658,7 +658,7 @@
                                 <p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
                                     consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate. </p>
                                 <p>
-                                    <a class="btn purple" href="ui_tabs_accordions_navs.html#tab_6_2_3" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn purple" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_6_2_3" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                         </div>
@@ -890,14 +890,14 @@
                                 ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
                                 et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo. </p>
                             <p>
-                                <a class="btn red" href="ui_tabs_accordions_navs.html#portlet_tab2" target="_blank"> Activate this tab via URL </a>
+                                <a class="btn red" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#portlet_tab2" target="_blank"> Activate this tab via URL </a>
                             </p>
                         </div>
                         <div class="tab-pane" id="portlet_tab3">
                             <p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
                                 consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. </p>
                             <p>
-                                <a class="btn blue" href="ui_tabs_accordions_navs.html#portlet_tab3" target="_blank"> Activate this tab via URL </a>
+                                <a class="btn blue" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#portlet_tab3" target="_blank"> Activate this tab via URL </a>
                             </p>
                         </div>
                     </div>
@@ -961,14 +961,14 @@
                                 ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore
                                 et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo. </p>
                             <p>
-                                <a class="btn red" href="ui_tabs_accordions_navs.html#portlet_tab2_2" target="_blank"> Activate this tab via URL </a>
+                                <a class="btn red" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#portlet_tab2_2" target="_blank"> Activate this tab via URL </a>
                             </p>
                         </div>
                         <div class="tab-pane" id="portlet_tab2_3">
                             <p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
                                 consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. </p>
                             <p>
-                                <a class="btn purple" href="ui_tabs_accordions_navs.html#portlet_tab2_3" target="_blank"> Activate this tab via URL </a>
+                                <a class="btn purple" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#portlet_tab2_3" target="_blank"> Activate this tab via URL </a>
                             </p>
                         </div>
                     </div>
@@ -1016,7 +1016,7 @@
                                         eiusmod. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn blue" href="ui_tabs_accordions_navs.html#collapse_2" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn blue" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_2" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1033,7 +1033,7 @@
                                         eiusmod. Brunch 3 wolf moon tempor. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn green" href="ui_tabs_accordions_navs.html#collapse_3" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn green" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_3" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1051,7 +1051,7 @@
                                         eiusmod. Brunch 3 wolf moon tempor. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn red" href="ui_tabs_accordions_navs.html#collapse_4" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn red" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_4" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1101,7 +1101,7 @@
                                         eiusmod. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn blue" href="ui_tabs_accordions_navs.html#collapse_3_2" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn blue" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_3_2" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1118,7 +1118,7 @@
                                         eiusmod. Brunch 3 wolf moon tempor. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn green" href="ui_tabs_accordions_navs.html#collapse_3_3" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn green" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_3_3" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1136,7 +1136,7 @@
                                         eiusmod. Brunch 3 wolf moon tempor. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn red" href="ui_tabs_accordions_navs.html#collapse_3_4" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn red" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_3_4" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1186,7 +1186,7 @@
                                         eiusmod. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn blue" href="ui_tabs_accordions_navs.html#collapse_2_2" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn blue" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_2_2" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1203,7 +1203,7 @@
                                         eiusmod. Brunch 3 wolf moon tempor. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn green" href="ui_tabs_accordions_navs.html#collapse_2_3" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn green" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_2_3" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1221,7 +1221,7 @@
                                         eiusmod. Brunch 3 wolf moon tempor. </p>
                                     <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut. </p>
                                     <p>
-                                        <a class="btn red" href="ui_tabs_accordions_navs.html#collapse_2_4" target="_blank"> Activate this section via URL </a>
+                                        <a class="btn red" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#collapse_2_4" target="_blank"> Activate this section via URL </a>
                                     </p>
                                 </div>
                             </div>
@@ -1263,7 +1263,7 @@
                                 <p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
                                     consequat. Ut wisi enim ad minim veniam, quis nostrud exerci tation. </p>
                                 <p>
-                                    <a class="btn green" href="ui_tabs_accordions_navs.html#tab_1_1_2" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn green" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_1_1_2" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                             <div class="tab-pane" id="tab_1_1_3">
@@ -1271,7 +1271,7 @@
                                 <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel
                                     eum iriure dolor in hendrerit in vulputate velit esse molestie consequat </p>
                                 <p>
-                                    <a class="btn yellow" href="ui_tabs_accordions_navs.html#tab_1_1_3" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn yellow" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_1_1_3" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                         </div>
@@ -1290,7 +1290,7 @@
                                 <p> Duis autem vel eum iriure dolor in hendrerit in vulputate. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel
                                     eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. </p>
                                 <p>
-                                    <a class="btn yellow" href="ui_tabs_accordions_navs.html#tab_17_2" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn yellow" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_17_2" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                             <div class="tab-pane" id="tab_17_3">
@@ -1298,7 +1298,7 @@
                                 <p> Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie
                                     consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate. </p>
                                 <p>
-                                    <a class="btn purple" href="ui_tabs_accordions_navs.html#tab_17_3" target="_blank"> Activate this tab via URL </a>
+                                    <a class="btn purple" href="{{ route('admin-1.ui-tabs-accordions-navs') }}#tab_17_3" target="_blank"> Activate this tab via URL </a>
                                 </p>
                             </div>
                         </div>
