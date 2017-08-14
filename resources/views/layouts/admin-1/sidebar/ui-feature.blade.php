@@ -46,7 +46,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-social-icons') }}" class="nav-link ">
                 <span class="title">Social Icons</span>
             </a>
         </li>
