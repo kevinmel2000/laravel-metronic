@@ -457,3 +457,7 @@
         </div>
     </div>
 @endsection
+
+@push('page-level-plugins-header')
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/global/plugins/socicon/socicon.css') }}">
+@endpush
