@@ -15,4 +15,7 @@
 @endsection
 
 @section('content')
+    <h1 class="page-title"> Social Icons
+        <small>extensive social icons based on socicons plugin</small>
+    </h1>
 @endsection
