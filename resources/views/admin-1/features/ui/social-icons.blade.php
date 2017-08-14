@@ -45,6 +45,7 @@
         </div>
         <div class="portlet-body">
             <h3>Basic Icons</h3>
+
             <div class="socicons">
                 <a href="#" class="socicon-btn socicon-twitter tooltips" data-original-title="Twitter"></a>
                 <a href="#" class="socicon-btn socicon-facebook tooltips" data-original-title="Facebook"></a>
@@ -126,7 +127,9 @@
                 <a href="#" class="socicon-btn socicon-meetup tooltips" data-original-title="Meetup"></a>
                 <a href="#" class="socicon-btn socicon-persona tooltips" data-original-title="Persona"></a>
             </div>
+
             <h3>Circle Icons</h3>
+
             <div class="socicons">
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-twitter tooltips" data-original-title="Twitter"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-facebook tooltips" data-original-title="Facebook"></a>
@@ -208,7 +211,9 @@
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-meetup tooltips" data-original-title="Meetup"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-persona tooltips" data-original-title="Persona"></a>
             </div>
+
             <h3>Solid Icons</h3>
+
             <div class="socicons">
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-solid bg-dark font-white bg-hover-grey-salsa socicon-twitter tooltips" data-original-title="Twitter"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-solid bg-dark font-white bg-hover-grey-salsa socicon-facebook tooltips" data-original-title="Facebook"></a>
@@ -290,7 +295,9 @@
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-solid bg-blue font-white bg-hover-grey-salsa socicon-meetup tooltips" data-original-title="Meetup"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-solid bg-blue font-white bg-hover-grey-salsa socicon-persona tooltips" data-original-title="Persona"></a>
             </div>
+
             <h3>Large Size</h3>
+
             <div class="socicons">
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-lg socicon-solid bg-red bg-hover-grey-salsa font-white bg-hover-white socicon-twitter tooltips" data-original-title="Twitter"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-lg socicon-solid bg-red bg-hover-grey-salsa font-white bg-hover-white socicon-facebook tooltips" data-original-title="Facebook"></a>
@@ -372,7 +379,9 @@
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-lg socicon-solid bg-yellow bg-hover-grey-salsa font-white bg-hover-white socicon-meetup tooltips" data-original-title="Meetup"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-lg socicon-solid bg-red bg-hover-grey-salsa font-white bg-hover-white socicon-persona tooltips" data-original-title="Persona"></a>
             </div>
+
             <h3>Small Size</h3>
+
             <div class="socicons">
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-sm socicon-solid bg-red bg-hover-grey-salsa font-white bg-hover-white socicon-twitter tooltips" data-original-title="Twitter"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-sm socicon-solid bg-dark bg-hover-grey-salsa font-white bg-hover-white socicon-facebook tooltips" data-original-title="Facebook"></a>
@@ -454,6 +463,7 @@
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-sm socicon-solid bg-green bg-hover-grey-salsa font-white bg-hover-white socicon-meetup tooltips" data-original-title="Meetup"></a>
                 <a href="#" class="socicon-btn socicon-btn-circle socicon-sm socicon-solid bg-blue bg-hover-grey-salsa font-white bg-hover-white socicon-persona tooltips" data-original-title="Persona"></a>
             </div>
+            
         </div>
     </div>
 @endsection
