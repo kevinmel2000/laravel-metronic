@@ -51,7 +51,7 @@
             </a>
         </li>
         <li class="nav-item  ">
-            <a href="#" class="nav-link ">
+            <a href="{{ route('admin-1.ui-typography') }}" class="nav-link ">
                 <span class="title">Typography</span>
             </a>
         </li>
