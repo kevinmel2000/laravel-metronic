@@ -87,6 +87,10 @@ Route::group(['prefix' => 'admin-1'], function () {
                 return view('admin-1.features.ui.social-icons');
             })->name('admin-1.ui-social-icons');
 
+            Route::get('typography', function () {
+                return view('admin-1.features.ui.typography');
+            })->name('admin-1.ui-typography');
+
         });
 
     });
